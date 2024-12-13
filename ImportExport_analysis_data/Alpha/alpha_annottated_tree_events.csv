@@ -1,0 +1,1520 @@
+;EventTime;Origin;Destination
+0;2020.26214;UNKNOWN;Turkey
+1;2020.72503;Turkey;Australia
+2;2021.04257;Australia;Austria
+3;2021.14668;Austria;Australia
+4;2021.06449;Australia;Peru
+5;2021.13299;Australia;New Zealand
+6;2021.02608;Australia;Chile
+7;2021.2398500000002;Chile;Papua New Guinea
+8;2021.2672400000001;Turkey;Ghana
+9;2021.08916;Turkey;Iceland
+10;2021.3056000000001;Turkey;Bahrain
+11;2021.13848;Turkey;Iran
+12;2020.9393200000002;Turkey;Kuwait
+13;2021.23162;Kuwait;Egypt
+14;2020.71191;Turkey;Romania
+15;2021.0973900000001;Romania;Cameroon
+16;2021.0590300000001;Romania;Australia
+17;2021.31383;Romania;France
+18;2021.2563;Romania;Ireland
+19;2021.21794;Romania;Mexico
+20;2021.2289;Romania;Uganda
+21;2021.2261600000002;Romania;Brazil
+22;2021.28369;Romania;Costa Rica
+23;2021.26999;Romania;Lithuania
+24;2021.0289;Romania;Albania
+25;2021.4617700000001;Romania;Bulgaria
+26;2021.0836000000002;Romania;Luxembourg
+27;2021.43712;Luxembourg;Russia
+28;2021.00541;Romania;Curacao
+29;2021.36574;Romania;Cabo Verde
+30;2020.94764;Romania;Switzerland
+31;2021.0453400000001;Switzerland;United Kingdom
+32;2021.0886600000001;Romania;Suriname
+33;2021.33574;Romania;Qatar
+34;2021.0152;Romania;Slovakia
+35;2020.94151;Romania;Jamaica
+36;2021.2206800000001;Jamaica;United Kingdom
+37;2021.09465;Romania;Togo
+38;2021.3384800000001;Romania;Luxembourg
+39;2021.4480700000001;Romania;Argentina
+40;2021.28095;Romania;Guinea
+41;2021.42342;Romania;Senegal
+42;2021.42342;Romania;Malta
+43;2021.45082;Romania;United Kingdom
+44;2021.05356;Romania;Russia
+45;2021.04808;Romania;Oman
+46;2021.13389;Romania;Malaysia
+47;2020.83114;Romania;Kyrgyzstan
+48;2021.01692;Kyrgyzstan;Iceland
+49;2021.30835;Iceland;Moldova
+50;2021.4535500000002;Iceland;Ecuador
+51;2021.35219;Kyrgyzstan;North Macedonia
+52;2020.94994;Romania;Maldives
+53;2021.37136;Romania;Brazil
+54;2021.41246;Romania;Pakistan
+55;2021.3056000000001;Romania;Senegal
+56;2021.24492;Romania;Guinea
+57;2020.958;Romania;Sweden
+58;2021.3878;Sweden;Liechtenstein
+59;2021.1823200000001;Sweden;Iraq
+60;2021.0837000000001;Romania;Spain
+61;2021.07274;Romania;Ireland
+62;2021.37137;Romania;Poland
+63;2021.1575400000002;Romania;Poland
+64;2021.2206800000001;Poland;Trinidad and Tobago
+65;2021.2782100000002;Romania;France
+66;2020.9322300000001;Romania;Hong Kong
+67;2021.42341;Hong Kong;Kosovo
+68;2021.28917;Hong Kong;Germany
+69;2021.3823200000002;Hong Kong;USA
+70;2021.2054400000002;Hong Kong;Poland
+71;2021.39875;Poland;Belgium
+72;2021.35772;Hong Kong;Myanmar
+73;2021.2398500000002;Romania;Russia
+74;2020.9312400000001;Romania;Jamaica
+75;2021.3631400000002;Romania;Italy
+76;2021.31382;Romania;Togo
+77;2021.0165900000002;Romania;Sweden
+78;2021.1056;Sweden;Oman
+79;2021.1823200000001;Romania;Georgia
+80;2021.4015000000002;Romania;United Kingdom
+81;2021.0838800000001;Romania;Djibouti
+82;2021.15767;Djibouti;Somalia
+83;2021.15767;Djibouti;Somalia
+84;2021.15767;Djibouti;Somalia
+85;2021.15767;Djibouti;Somalia
+86;2021.15766;Djibouti;Somalia
+87;2021.17136;Djibouti;Somalia
+88;2020.88983;Romania;South Africa
+89;2021.4015100000001;South Africa;Malawi
+90;2021.35767;South Africa;Bahrain
+91;2021.43712;South Africa;Eswatini
+92;2021.4535600000002;South Africa;Eswatini
+93;2021.30014;South Africa;Mozambique
+94;2021.43711;South Africa;Eswatini
+95;2021.4151900000002;South Africa;Eswatini
+96;2020.86948;Romania;Latvia
+97;2021.1549300000001;Latvia;USA
+98;2020.91671;Latvia;Angola
+99;2021.1220500000002;Angola;Zambia
+100;2020.9641800000002;Romania;Italy
+101;2021.32753;Italy;Ghana
+102;2021.17958;Italy;Bulgaria
+103;2020.81482;Romania;Portugal
+104;2021.2974000000002;Portugal;France
+105;2021.13301;Portugal;Poland
+106;2021.18506;Portugal;North Macedonia
+107;2020.96901;Portugal;Ethiopia
+108;2021.10561;Ethiopia;Brazil
+109;2021.09191;Ethiopia;Monaco
+110;2021.36588;Ethiopia;Botswana
+111;2021.26725;Ethiopia;Bahrain
+112;2021.39328;Ethiopia;Canada
+113;2021.3631400000002;Portugal;Cabo Verde
+114;2021.38231;Portugal;Cabo Verde
+115;2021.33849;Portugal;Senegal
+116;2021.37411;Portugal;Oman
+117;2021.0610800000002;Portugal;Angola
+118;2020.91677;Romania;Palestine
+119;2021.4480700000001;Palestine;Ukraine
+120;2020.82859;Romania;Spain
+121;2020.98639;Spain;Brazil
+122;2021.13027;Brazil;India
+123;2020.92391;Spain;Serbia
+124;2021.13849;Serbia;Bosnia and Herzegovina
+125;2021.42342;Serbia;Montenegro
+126;2021.32753;Serbia;Slovenia
+127;2021.3439700000001;Serbia;Kosovo
+128;2020.88501;Spain;Israel
+129;2021.06726;Israel;Sri Lanka
+130;2021.30288;Israel;Saudi Arabia
+131;2020.98223;Israel;Palestine
+132;2021.33302;Palestine;Vietnam
+133;2021.28918;Palestine;Poland
+134;2021.25356;Palestine;Israel
+135;2021.46453;Palestine;Morocco
+136;2021.19106;Palestine;Netherlands
+137;2021.3385;Netherlands;Estonia
+138;2021.25356;Netherlands;Malaysia
+139;2021.23713;Israel;Turkey
+140;2021.2100500000001;Israel;Canada
+141;2021.42617;Israel;Belgium
+142;2021.20151;Israel;Ukraine
+143;2021.4152000000001;Israel;Belgium
+144;2021.42342;Israel;Luxembourg
+145;2021.16589;Israel;Belgium
+146;2021.2206800000001;Israel;USA
+147;2021.26726;Israel;Canada
+148;2021.0974;Israel;Palestine
+149;2021.35768;Israel;Belgium
+150;2021.31384;Israel;Afghanistan
+151;2021.39877;Israel;Czech Republic
+152;2021.2015000000001;Romania;France
+153;2021.07274;Romania;Guadeloupe
+154;2021.03712;Romania;United Kingdom
+155;2020.9977800000001;Romania;Portugal
+156;2020.9142000000002;Romania;Denmark
+157;2021.2206800000001;Denmark;Germany
+158;2020.96479;Romania;Brazil
+159;2021.11109;Brazil;Turkey
+160;2021.10561;Romania;Pakistan
+161;2021.4672600000001;Romania;Italy
+162;2021.09465;Romania;Norway
+163;2020.94112;Romania;New Zealand
+164;2021.30835;New Zealand;Saint Lucia
+165;2021.43164;Romania;Austria
+166;2021.21246;Romania;Thailand
+167;2021.29466;Romania;Fiji
+168;2020.97776;Romania;Belgium
+169;2020.9985000000001;Romania;Mongolia
+170;2021.19602;Romania;Oman
+171;2021.12479;Romania;Luxembourg
+172;2020.89598;Romania;Zambia
+173;2021.28643;Zambia;Morocco
+174;2021.30279;Zambia;United Kingdom
+175;2021.0508200000002;Zambia;Brazil
+176;2021.1220500000002;Zambia;Thailand
+177;2021.1305300000001;Zambia;Senegal
+178;2021.25629;Senegal;Portugal
+179;2021.15766;Zambia;Fiji
+180;2021.41793;Zambia;Latvia
+181;2021.05198;Zambia;Moldova
+182;2021.36862;Moldova;Pakistan
+183;2021.0836900000002;Moldova;Bangladesh
+184;2020.8554100000001;Romania;Argentina
+185;2021.31657;Argentina;Mexico
+186;2020.78879;Romania;Bulgaria
+187;2021.07547;Bulgaria;France
+188;2021.3110800000002;Bulgaria;Russia
+189;2021.10835;Bulgaria;Mexico
+190;2021.04807;Bulgaria;Singapore
+191;2021.1823200000001;Bulgaria;Sweden
+192;2020.88689;Bulgaria;Democratic Republic of the Congo
+193;2021.31382;Bulgaria;Greece
+194;2021.0836900000002;Bulgaria;Denmark
+195;2020.94866;Bulgaria;China
+196;2021.0374100000001;Bulgaria;Kenya
+197;2021.43163;Kenya;Italy
+198;2020.9791;Bulgaria;Kosovo
+199;2021.4288900000001;Kosovo;North Macedonia
+200;2020.97498;Bulgaria;Gambia
+201;2020.85987;Bulgaria;Greece
+202;2020.93076;Greece;North Macedonia
+203;2021.0508200000002;Bulgaria;Cyprus
+204;2021.11383;Bulgaria;South Africa
+205;2021.4398600000002;South Africa;Bahrain
+206;2021.26725;South Africa;South Korea
+207;2021.2069800000002;South Africa;Bahrain
+208;2021.18035;South Africa;Qatar
+209;2021.25294;Qatar;Bahrain
+210;2021.0124600000001;Bulgaria;Bangladesh
+211;2021.33849;Bulgaria;Kenya
+212;2021.43164;Bulgaria;Luxembourg
+213;2021.1494400000001;Bulgaria;Indonesia
+214;2021.15218;Bulgaria;France
+215;2020.99699;Bulgaria;Belgium
+216;2021.41792;Belgium;Iceland
+217;2021.23163;Bulgaria;Iraq
+218;2021.0067000000001;Bulgaria;Netherlands
+219;2021.06725;Netherlands;Belgium
+220;2021.41245;Netherlands;Poland
+221;2021.26725;Netherlands;Belgium
+222;2021.43985;Netherlands;Belgium
+223;2021.01288;Bulgaria;Moldova
+224;2021.0836900000002;Bulgaria;Croatia
+225;2021.0645200000001;Bulgaria;Kuwait
+226;2021.3822300000002;Bulgaria;Indonesia
+227;2021.04259;Bulgaria;France
+228;2021.45903;Bulgaria;Spain
+229;2021.2727300000001;Bulgaria;Austria
+230;2020.98984;Bulgaria;Hungary
+231;2021.17957;Hungary;Malawi
+232;2021.3110800000002;Hungary;Australia
+233;2021.3384700000001;Hungary;Spain
+234;2021.11767;Hungary;Turkey
+235;2021.28916;Turkey;Australia
+236;2021.40148;Hungary;Pakistan
+237;2021.07546;Hungary;Austria
+238;2021.3439500000002;Austria;Moldova
+239;2021.12753;Romania;United Kingdom
+240;2021.1412300000002;Romania;France
+241;2021.19876;Romania;United Kingdom
+242;2021.0179400000002;Romania;Iceland
+243;2021.28643;Romania;India
+244;2020.9407800000001;Romania;India
+245;2021.42342;India;Canada
+246;2020.94244;Romania;Bahrain
+247;2021.03216;Romania;Spain
+248;2021.074;Spain;Brazil
+249;2021.41795;Brazil;Republic of the Congo
+250;2021.03986;Romania;Philippines
+251;2021.2015000000001;Romania;Ireland
+252;2021.1028800000001;Romania;Turkey
+253;2020.85322;Romania;India
+254;2021.26999;India;Germany
+255;2020.91723;India;Rwanda
+256;2021.05571;Rwanda;Guatemala
+257;2021.3101800000002;Guatemala;The Bahamas
+258;2021.1494500000001;India;Jordan
+259;2021.1412300000002;India;Sweden
+260;2021.4480800000001;Sweden;Denmark
+261;2021.3110900000001;Sweden;Panama
+262;2021.06403;India;Luxembourg
+263;2021.1878000000002;Luxembourg;Angola
+264;2020.8903400000002;Romania;Morocco
+265;2021.0563;Morocco;Ireland
+266;2021.06178;Morocco;Mauritius
+267;2021.2453400000002;Morocco;Moldova
+268;2021.10417;Morocco;Greece
+269;2021.26177;Greece;Russia
+270;2020.96046;Morocco;France
+271;2021.07274;France;New Zealand
+272;2021.03986;France;Burkina Faso
+273;2021.21794;France;Switzerland
+274;2021.13301;France;Ghana
+275;2021.1549300000001;France;Brazil
+276;2021.15994;France;Latvia
+277;2021.12753;France;Algeria
+278;2021.2031200000001;France;Algeria
+279;2021.2261700000001;Algeria;Benin
+280;2020.88321;Romania;Kuwait
+281;2021.00972;Kuwait;Singapore
+282;2021.0289;Kuwait;Peru
+283;2021.10013;Peru;Ireland
+284;2021.03716;Kuwait;Ireland
+285;2021.29466;Kuwait;Brazil
+286;2021.10562;Kuwait;Jordan
+287;2021.0700000000002;Kuwait;Philippines
+288;2021.23712;Kuwait;Singapore
+289;2021.01986;Kuwait;Japan
+290;2021.03712;Japan;Angola
+291;2021.35493;Japan;Austria
+292;2021.39329;Kuwait;Ethiopia
+293;2021.1508000000001;Kuwait;Djibouti
+294;2021.4289;Djibouti;Turkey
+295;2020.81031;Romania;Bahrain
+296;2021.39876;Bahrain;Burundi
+297;2020.94632;Bahrain;Philippines
+298;2021.09191;Philippines;Bangladesh
+299;2021.15218;Bahrain;Bulgaria
+300;2020.96749;Bahrain;Iraq
+301;2021.2727300000001;Iraq;Ghana
+302;2021.07273;Iraq;Finland
+303;2021.35218;Finland;Latvia
+304;2021.2261600000002;Bahrain;Australia
+305;2021.04259;Bahrain;Portugal
+306;2021.09956;Bahrain;Tunisia
+307;2021.31383;Tunisia;Italy
+308;2021.3439600000002;Tunisia;North Macedonia
+309;2021.07547;Bahrain;Thailand
+310;2021.44533;Bahrain;North Macedonia
+311;2021.3576600000001;Bahrain;Bangladesh
+312;2021.10286;Bahrain;Brazil
+313;2021.3521700000001;Bahrain;Portugal
+314;2021.11929;Bahrain;Portugal
+315;2021.0261400000002;Bahrain;United Kingdom
+316;2020.92139;Bahrain;Spain
+317;2021.00971;Spain;Iceland
+318;2021.1165600000002;Spain;Bangladesh
+319;2020.9639300000001;Spain;Mexico
+320;2021.22889;Mexico;USA
+321;2021.1686200000001;Mexico;Sudan
+322;2021.11109;Mexico;Singapore
+323;2021.08095;Mexico;United Arab Emirates
+324;2021.0387500000002;Mexico;Kyrgyzstan
+325;2021.47;Mexico;South Korea
+326;2021.12479;Mexico;Philippines
+327;2021.13849;Mexico;Serbia
+328;2021.2069900000001;Mexico;Guatemala
+329;2021.2124700000002;Mexico;Chile
+330;2021.33849;Mexico;Chile
+331;2021.2645200000002;Mexico;Paraguay
+332;2021.30014;Mexico;United Kingdom
+333;2021.10749;Mexico;Kyrgyzstan
+334;2021.12247;Kyrgyzstan;South Korea
+335;2021.3494600000001;South Korea;Serbia
+336;2021.2645200000002;South Korea;Greece
+337;2021.1494500000001;South Korea;Iceland
+338;2021.12478;Spain;Belgium
+339;2021.10013;Spain;Tunisia
+340;2021.16588;Spain;Portugal
+341;2021.06177;Spain;Germany
+342;2021.3110900000001;Spain;Indonesia
+343;2021.0593000000001;Spain;Kenya
+344;2021.25081;Kenya;South Sudan
+345;2021.2158200000001;Kenya;Djibouti
+346;2021.30286;Kenya;Germany
+347;2021.42067;Kenya;Bahrain
+348;2021.3077700000001;Kenya;Seychelles
+349;2021.22615;Kenya;Uganda
+350;2021.38231;Kenya;Rwanda
+351;2021.34943;Kenya;Uganda
+352;2021.2788400000002;Kenya;Uganda
+353;2020.73565;Romania;Bulgaria
+354;2021.10013;Bulgaria;Croatia
+355;2021.07547;Bulgaria;Belize
+356;2021.13849;Bulgaria;New Zealand
+357;2021.0316400000002;Bulgaria;Poland
+358;2021.03712;Bulgaria;Gambia
+359;2021.0179400000002;Bulgaria;Australia
+360;2021.14671;Bulgaria;Poland
+361;2020.94403;Bulgaria;Brazil
+362;2021.14397;Brazil;Ethiopia
+363;2021.02068;Bulgaria;South Africa
+364;2021.08643;Bulgaria;Switzerland
+365;2021.09746;Bulgaria;Brazil
+366;2020.85456;Bulgaria;Ireland
+367;2021.35218;Ireland;Spain
+368;2021.27491;Ireland;Indonesia
+369;2020.88276;Bulgaria;Finland
+370;2021.03774;Finland;Estonia
+371;2021.3439600000002;Estonia;Kosovo
+372;2020.81852;Bulgaria;New Zealand
+373;2021.00972;New Zealand;Bermuda
+374;2021.0124600000001;New Zealand;Bangladesh
+375;2020.8675;New Zealand;Iran
+376;2021.35219;New Zealand;Russia
+377;2021.0891800000002;New Zealand;Cabo Verde
+378;2020.9549200000001;New Zealand;Norway
+379;2021.1549300000001;Norway;Lithuania
+380;2021.09925;Norway;Iran
+381;2021.37685;Norway;Jamaica
+382;2021.4343800000001;Norway;USA
+383;2021.2063;Norway;The Bahamas
+384;2021.34671;The Bahamas;Barbados
+385;2021.11109;Norway;Turkey
+386;2021.07273;Bulgaria;Turkey
+387;2020.9316800000001;Bulgaria;Finland
+388;2020.84661;Bulgaria;Oman
+389;2021.2535500000001;Oman;Bulgaria
+390;2021.22615;Oman;Panama
+391;2021.07547;Oman;Poland
+392;2021.04807;Oman;Norway
+393;2021.1604;Oman;Canary Islands
+394;2021.10835;Oman;Estonia
+395;2021.26177;Oman;Morocco
+396;2021.21794;Oman;Switzerland
+397;2021.19054;Oman;Romania
+398;2021.1878000000002;Oman;Belgium
+399;2021.1028700000002;Oman;Germany
+400;2021.05161;Oman;Norway
+401;2021.09465;Oman;Cameroon
+402;2021.02067;Oman;Bangladesh
+403;2021.1193;Oman;North Macedonia
+404;2021.04259;Oman;Thailand
+405;2021.0973900000001;Oman;United Arab Emirates
+406;2021.12479;Oman;Canada
+407;2020.9706600000002;Oman;Ireland
+408;2021.0900000000001;Ireland;Estonia
+409;2021.39877;Estonia;Finland
+410;2021.3960200000001;Oman;Lithuania
+411;2020.9475;Oman;Ireland
+412;2021.17409;Ireland;South Korea
+413;2021.0973900000001;Oman;United Arab Emirates
+414;2021.0645100000002;Oman;Slovenia
+415;2021.31655;Oman;France
+416;2021.1576400000001;Oman;Argentina
+417;2021.10285;Oman;Ireland
+418;2021.39599;Oman;Ireland
+419;2021.43161;Oman;Norway
+420;2021.11412;Oman;Malta
+421;2021.38229;Malta;Barbados
+422;2021.1384600000001;Oman;Canada
+423;2021.0345100000002;Oman;Norway
+424;2021.0781900000002;Norway;Togo
+425;2021.18778;Norway;Bangladesh
+426;2021.0289;Bulgaria;Latvia
+427;2020.9774400000001;Bulgaria;Cabo Verde
+428;2021.09232;Bulgaria;Greece
+429;2021.0453400000001;Bulgaria;Ireland
+430;2021.17958;Bulgaria;Sweden
+431;2021.3056000000001;Bulgaria;Honduras
+432;2021.42067;Bulgaria;USA
+433;2021.43163;Bulgaria;Romania
+434;2020.8680900000002;Bulgaria;Romania
+435;2021.45081;Romania;Guatemala
+436;2021.00971;Romania;Qatar
+437;2021.12204;Romania;Kenya
+438;2021.1110800000001;Romania;Austria
+439;2020.8905300000001;Bulgaria;Iraq
+440;2020.93625;Bulgaria;Finland
+441;2021.05355;Bulgaria;Turkey
+442;2021.23438;Bulgaria;South Africa
+443;2021.14122;Bulgaria;Denmark
+444;2021.1686200000001;Bulgaria;Gambia
+445;2021.1467;Bulgaria;Italy
+446;2021.2195000000002;Bulgaria;Philippines
+447;2020.97027;Bulgaria;Chile
+448;2020.86167;Bulgaria;Gabon
+449;2021.35218;Gabon;Tunisia
+450;2021.2206700000002;Gabon;Tunisia
+451;2020.95424;Gabon;Russia
+452;2021.1604;Russia;Tunisia
+453;2021.4206800000002;Russia;Republic of the Congo
+454;2020.99348;Russia;Croatia
+455;2021.2206700000002;Gabon;Morocco
+456;2021.1357500000001;Bulgaria;United Kingdom
+457;2021.0261600000001;Bulgaria;Malawi
+458;2021.0289;Malawi;United Kingdom
+459;2021.01153;Bulgaria;Kenya
+460;2020.97793;Bulgaria;Romania
+461;2021.12479;Romania;Guadeloupe
+462;2021.16315;Romania;Portugal
+463;2020.90155;Bulgaria;New Zealand
+464;2021.1823200000001;New Zealand;Pakistan
+465;2021.4152000000001;New Zealand;India
+466;2021.0166000000002;New Zealand;Iceland
+467;2021.2152;Iceland;Afghanistan
+468;2020.95971;New Zealand;Luxembourg
+469;2020.98645;Luxembourg;Switzerland
+470;2021.22342;Switzerland;Oman
+471;2021.4480700000001;Switzerland;Slovenia
+472;2021.2969600000001;Switzerland;New Zealand
+473;2020.92154;Bulgaria;USA
+474;2021.0453400000001;USA;Russia
+475;2021.00457;USA;Argentina
+476;2021.2995500000002;Argentina;Qatar
+477;2021.32206;USA;El Salvador
+478;2021.32206;USA;Aruba
+479;2021.0245300000001;USA;Argentina
+480;2021.05814;Argentina;Dominican Republic
+481;2021.37685;Dominican Republic;Haiti
+482;2021.32022;Dominican Republic;Bonaire
+483;2021.27274;USA;Guatemala
+484;2021.09466;USA;Argentina
+485;2021.2837000000002;USA;Guatemala
+486;2021.04617;USA;Sint Maarten
+487;2021.35219;Sint Maarten;Ecuador
+488;2021.1119;USA;Costa Rica
+489;2021.27548;USA;The Bahamas
+490;2021.08644;USA;Mexico
+491;2021.33849;Mexico;USA
+492;2020.81926;Bulgaria;Italy
+493;2021.0974;Italy;Iceland
+494;2021.03063;Italy;Netherlands
+495;2021.46727;Netherlands;Panama
+496;2021.09192;Netherlands;Argentina
+497;2021.26727;Netherlands;Singapore
+498;2021.1549300000001;Italy;France
+499;2021.41246;Italy;Germany
+500;2021.20151;Italy;Barbados
+501;2021.4152100000001;Italy;Latvia
+502;2021.1220500000002;Italy;Togo
+503;2021.33301;Italy;Malta
+504;2021.12479;Italy;Singapore
+505;2021.06726;Italy;Turkey
+506;2021.21794;Italy;Turkey
+507;2020.8673700000002;Italy;Senegal
+508;2021.11109;Senegal;Australia
+509;2021.17685;Senegal;Gambia
+510;2021.05356;Senegal;Turkey
+511;2021.4152000000001;Senegal;Mauritania
+512;2020.87391;Bulgaria;Saint Lucia
+513;2020.9390700000001;Saint Lucia;Sweden
+514;2021.04808;Sweden;Canada
+515;2021.08095;Saint Lucia;Mauritius
+516;2021.09355;Saint Lucia;The Bahamas
+517;2021.1030700000001;Saint Lucia;Antigua and Barbuda
+518;2021.14122;Bulgaria;Latvia
+519;2021.4672600000001;Bulgaria;Luxembourg
+520;2020.99576;Bulgaria;Italy
+521;2020.87347;Bulgaria;Brazil
+522;2021.0060600000002;Brazil;Sweden
+523;2020.92694;Brazil;Guinea
+524;2021.1412300000002;Guinea;Angola
+525;2021.23164;Guinea;Senegal
+526;2021.26726;Guinea;Portugal
+527;2021.24807;Guinea;Belgium
+528;2021.09191;Guinea;Thailand
+529;2021.14671;Bulgaria;Jamaica
+530;2020.8024500000001;Bulgaria;Australia
+531;2021.1467;Australia;Poland
+532;2021.28095;Australia;Ireland
+533;2021.0124600000001;Australia;Kosovo
+534;2021.0179400000002;Australia;Iran
+535;2021.41245;Australia;Pakistan
+536;2021.16661;Australia;Bangladesh
+537;2020.93103;Australia;Morocco
+538;2021.3247900000001;Morocco;Slovenia
+539;2021.12753;Australia;Jordan
+540;2021.07548;Australia;United Kingdom
+541;2021.0124600000001;Australia;Gambia
+542;2020.89931;Australia;USA
+543;2021.1165700000001;USA;Austria
+544;2021.0645100000002;USA;Mauritius
+545;2021.3768400000001;USA;Colombia
+546;2021.24259;USA;Panama
+547;2021.00456;USA;Greece
+548;2021.27;Greece;Italy
+549;2021.01124;USA;Mexico
+550;2020.93343;USA;New Zealand
+551;2021.0261600000001;New Zealand;Denmark
+552;2021.26726;New Zealand;Sweden
+553;2021.21521;New Zealand;Australia
+554;2021.08644;New Zealand;Singapore
+555;2021.2206800000001;New Zealand;Finland
+556;2021.2563;New Zealand;Bosnia and Herzegovina
+557;2021.03527;New Zealand;Hong Kong
+558;2021.10888;Hong Kong;Turkey
+559;2021.28096;Turkey;Lebanon
+560;2021.29466;Turkey;United Kingdom
+561;2021.35218;Hong Kong;Panama
+562;2021.36862;Hong Kong;Mauritania
+563;2021.2476800000002;Australia;Afghanistan
+564;2021.0086700000002;Australia;Latvia
+565;2021.2800200000001;Latvia;Norway
+566;2021.0487500000002;Australia;Costa Rica
+567;2021.0563;Australia;Ireland
+568;2021.05904;Australia;Canada
+569;2021.10561;Australia;Spain
+570;2021.01563;Australia;Finland
+571;2021.27547;Finland;Brazil
+572;2021.1065;Australia;Norway
+573;2021.2343700000001;Norway;Democratic Republic of the Congo
+574;2021.0285700000002;Australia;Cameroon
+575;2021.2782100000002;Australia;Poland
+576;2021.3768400000001;Australia;Morocco
+577;2021.08916;Australia;Moldova
+578;2021.0115500000002;Australia;Japan
+579;2021.04501;Australia;Ireland
+580;2021.4152000000001;Ireland;Bulgaria
+581;2021.2398500000002;Australia;Italy
+582;2021.04259;Australia;Montenegro
+583;2021.45081;Montenegro;Romania
+584;2021.17958;Montenegro;Serbia
+585;2021.05629;Australia;Bulgaria
+586;2021.14671;Australia;Germany
+587;2021.08095;Australia;Bahrain
+588;2021.0431;Australia;Lebanon
+589;2021.33287;Lebanon;Kuwait
+590;2021.23711;Lebanon;Iceland
+591;2021.26199;Lebanon;Colombia
+592;2021.41246;Romania;Pakistan
+593;2021.38231;Romania;Sint Maarten
+594;2021.2014900000001;Romania;Ukraine
+595;2021.2206700000002;Romania;Norway
+596;2021.08916;Romania;United Kingdom
+597;2021.01792;Romania;France
+598;2021.08984;Romania;Italy
+599;2021.01536;Romania;Sweden
+600;2021.1055900000001;Romania;Kenya
+601;2021.0061;Romania;Mexico
+602;2021.26176;Mexico;Belize
+603;2021.1599700000002;Mexico;Guatemala
+604;2020.77995;Romania;Greece
+605;2020.9565400000001;Greece;Albania
+606;2021.29464;Albania;Switzerland
+607;2021.20423;Albania;Croatia
+608;2021.19875;Albania;Luxembourg
+609;2021.3905300000001;Albania;Italy
+610;2021.14396;Albania;North Macedonia
+611;2021.3467;Albania;Greece
+612;2021.37409;Albania;Italy
+613;2021.18505;Albania;Austria
+614;2021.0255;Greece;Luxembourg
+615;2021.35492;Luxembourg;Benin
+616;2021.0858;Greece;Lithuania
+617;2020.9452;Greece;Jamaica
+618;2021.0371;Jamaica;Brazil
+619;2021.24532;Jamaica;New Zealand
+620;2021.20422;Jamaica;Croatia
+621;2021.34669;Croatia;Slovenia
+622;2021.32204;Jamaica;USA
+623;2021.33574;USA;Trinidad and Tobago
+624;2021.2206600000002;Jamaica;United Kingdom
+625;2021.42887;Jamaica;Sweden
+626;2020.89293;Greece;Ecuador
+627;2021.38506;Ecuador;Spain
+628;2021.06999;Greece;Jamaica
+629;2021.07273;Greece;North Macedonia
+630;2020.91966;Greece;Albania
+631;2021.0700000000002;Albania;Slovenia
+632;2021.05356;Albania;Montenegro
+633;2021.4289;Albania;France
+634;2021.42342;Albania;Kosovo
+635;2021.31931;Albania;Greece
+636;2020.9116000000001;Greece;Kazakhstan
+637;2020.87363;Greece;Poland
+638;2021.2426;Poland;Angola
+639;2021.4426;Poland;Germany
+640;2021.37411;Poland;Latvia
+641;2020.9845300000002;Poland;Mexico
+642;2021.2535500000001;Mexico;Malaysia
+643;2021.0508;Greece;Montenegro
+644;2021.04807;Greece;Luxembourg
+645;2021.1412300000002;Greece;Netherlands
+646;2021.26451;Greece;Pakistan
+647;2021.4343800000001;Greece;Belgium
+648;2021.05081;Greece;India
+649;2021.1467;Greece;Belarus
+650;2021.3741;Greece;Algeria
+651;2021.06782;Greece;Mexico
+652;2021.26177;Mexico;Sint Maarten
+653;2020.9667000000002;Greece;North Macedonia
+654;2021.1913200000001;North Macedonia;Liechtenstein
+655;2021.36862;Liechtenstein;Switzerland
+656;2021.07273;North Macedonia;Albania
+657;2021.27428;Albania;Mauritius
+658;2021.41245;Mauritius;Germany
+659;2021.02545;North Macedonia;Serbia
+660;2021.24807;Serbia;Turkey
+661;2021.1107200000001;Serbia;Panama
+662;2021.2645;Panama;Grenada
+663;2021.11148;North Macedonia;Slovenia
+664;2021.41246;North Macedonia;Switzerland
+665;2021.3439700000001;North Macedonia;Kosovo
+666;2020.96224;Greece;Peru
+667;2021.25629;Peru;Chile
+668;2021.43164;Peru;Chile
+669;2021.1857200000002;Peru;Venezuela
+670;2021.25629;Peru;Chile
+671;2021.23711;Peru;Chile
+672;2021.2202100000002;Peru;Chile
+673;2021.30835;Greece;Moldova
+674;2021.4535500000002;Greece;Ukraine
+675;2021.20424;Greece;Lithuania
+676;2021.4398600000002;Greece;Guatemala
+677;2021.3878;Greece;United Kingdom
+678;2021.28643;Greece;Egypt
+679;2020.89343;Greece;Ecuador
+680;2021.2398500000002;Ecuador;Lebanon
+681;2021.05081;Ecuador;Iraq
+682;2020.9309500000002;Ecuador;Qatar
+683;2021.00971;Qatar;Indonesia
+684;2021.2343700000001;Qatar;Thailand
+685;2021.14396;Ecuador;Chile
+686;2021.133;Ecuador;Iraq
+687;2021.2426;Ecuador;Panama
+688;2021.4535600000002;Ecuador;Russia
+689;2021.1412300000002;Greece;Ukraine
+690;2021.23215;Greece;Dominican Republic
+691;2020.9134800000002;Greece;Guinea
+692;2021.24259;Guinea;Guyana
+693;2021.17683;Guinea;Togo
+694;2021.37137;Greece;Moldova
+695;2021.02523;Greece;Romania
+696;2021.33575;Romania;Serbia
+697;2021.13027;Greece;Bangladesh
+698;2020.9721200000001;Greece;Cyprus
+699;2021.17386;Greece;Malaysia
+700;2021.4563;Malaysia;Singapore
+701;2021.30014;Malaysia;Indonesia
+702;2021.32526;Malaysia;Hong Kong
+703;2021.13027;Greece;Russia
+704;2020.96497;Greece;Luxembourg
+705;2021.03712;Luxembourg;Brazil
+706;2021.31656;Luxembourg;Guadeloupe
+707;2021.4015000000002;Luxembourg;Georgia
+708;2021.333;Luxembourg;Malta
+709;2021.37409;Luxembourg;Switzerland
+710;2021.43163;Luxembourg;Poland
+711;2021.21291;Luxembourg;Republic of the Congo
+712;2021.11109;Greece;Turkey
+713;2021.38506;Greece;Poland
+714;2021.04943;Greece;Japan
+715;2020.9196900000002;Greece;Iran
+716;2020.97105;Iran;Norway
+717;2021.35492;Iran;Australia
+718;2021.1895200000001;Iran;United Kingdom
+719;2021.2323900000001;Iran;Iraq
+720;2021.41522;Iraq;North Macedonia
+721;2021.18507;Greece;Ireland
+722;2021.08096;Greece;Russia
+723;2021.39329;Russia;Greece
+724;2021.26726;Russia;Uganda
+725;2021.39054;Russia;Turkey
+726;2021.2453400000002;Greece;Moldova
+727;2021.2453500000001;Greece;Georgia
+728;2021.00334;Greece;Belarus
+729;2021.0426;Belarus;United Kingdom
+730;2021.44534;Belarus;Brazil
+731;2020.9026000000001;Greece;Bulgaria
+732;2021.46178;Bulgaria;Finland
+733;2021.22343;Bulgaria;United Kingdom
+734;2021.0668500000002;Bulgaria;Turkey
+735;2021.45083;Turkey;Ireland
+736;2021.3439700000001;Bulgaria;Kosovo
+737;2021.3631500000001;Bulgaria;North Macedonia
+738;2021.1412300000002;Bulgaria;Ukraine
+739;2021.0563;Bulgaria;Poland
+740;2021.1823200000001;Bulgaria;Hong Kong
+741;2021.34671;Bulgaria;Portugal
+742;2021.4069900000002;Bulgaria;Italy
+743;2021.19054;Bulgaria;Pakistan
+744;2021.30013;Bulgaria;Mexico
+745;2021.34671;Bulgaria;Pakistan
+746;2021.10858;Bulgaria;Turkey
+747;2021.20927;Turkey;Taiwan
+748;2021.1549300000001;Bulgaria;Jamaica
+749;2021.2069900000001;Bulgaria;Moldova
+750;2021.00278;Bulgaria;Pakistan
+751;2021.2782100000002;Pakistan;Germany
+752;2021.11383;Pakistan;Thailand
+753;2021.32753;Pakistan;South Korea
+754;2021.0179500000002;Bulgaria;Spain
+755;2021.2520100000002;Spain;Portugal
+756;2021.39329;Portugal;Canary Islands
+757;2021.34349;Portugal;Germany
+758;2021.4398600000002;Germany;Malta
+759;2021.4343900000001;Bulgaria;Andorra
+760;2021.02617;Bulgaria;Bangladesh
+761;2021.25356;Bulgaria;Hong Kong
+762;2021.13533;Bulgaria;Pakistan
+763;2021.41246;Pakistan;China
+764;2021.4672600000001;Bulgaria;Sweden
+765;2021.3631400000002;Bulgaria;Iraq
+766;2021.1075700000001;Bulgaria;Slovenia
+767;2021.39054;Slovenia;Ukraine
+768;2021.0080600000001;Bulgaria;Luxembourg
+769;2021.35492;Luxembourg;United Kingdom
+770;2020.953;Bulgaria;Japan
+771;2021.2864200000001;Japan;Canada
+772;2021.14122;Japan;Ukraine
+773;2021.30012;Japan;Spain
+774;2021.02846;Japan;Slovenia
+775;2021.3521700000001;Slovenia;Portugal
+776;2021.3905200000002;Slovenia;Turkey
+777;2021.3768200000002;Slovenia;Germany
+778;2021.32203;Slovenia;Serbia
+779;2021.18083;Slovenia;North Macedonia
+780;2021.32141;North Macedonia;Montenegro
+781;2021.0645000000002;Japan;Guadeloupe
+782;2021.04391;Japan;Moldova
+783;2021.25628;Moldova;Bahrain
+784;2021.2371;Moldova;Russia
+785;2021.3384700000001;Japan;Romania
+786;2021.06449;Japan;Thailand
+787;2021.25901;Japan;Morocco
+788;2021.16586;Japan;Australia
+789;2021.3576400000002;Japan;Moldova
+790;2021.14336;Japan;Turkey
+791;2021.3905100000002;Turkey;Netherlands
+792;2021.1686;Japan;Croatia
+793;2021.0864100000001;Japan;Qatar
+794;2021.0944200000001;Japan;Australia
+795;2021.16038;Australia;Mauritius
+796;2021.26997;Australia;Pakistan
+797;2021.1462900000001;Japan;Sint Maarten
+798;2021.3521500000002;Sint Maarten;Guadeloupe
+799;2021.1146;Japan;Sint Maarten
+800;2021.39326;Japan;Ukraine
+801;2021.1818700000001;Japan;Taiwan
+802;2021.3576400000002;Taiwan;Argentina
+803;2021.1138;Japan;United Kingdom
+804;2021.00969;Japan;Ecuador
+805;2021.38777;Japan;New Zealand
+806;2021.1275;Japan;Estonia
+807;2021.37407;Japan;Ukraine
+808;2021.41517;Japan;Croatia
+809;2021.08933;Japan;Lithuania
+810;2021.3329800000001;Lithuania;Belarus
+811;2021.27271;Lithuania;Finland
+812;2021.36311;Lithuania;Latvia
+813;2021.43435;Japan;Estonia
+814;2021.14667;Japan;Greece
+815;2021.42064;Greece;Lithuania
+816;2021.07269;Japan;Guadeloupe
+817;2021.07269;Japan;Switzerland
+818;2021.07817;Japan;Guadeloupe
+819;2021.11104;Japan;Iceland
+820;2021.11852;Japan;Moldova
+821;2021.14858;Moldova;Lithuania
+822;2021.1603400000001;Lithuania;Sint Maarten
+823;2021.20692;Sint Maarten;Japan
+824;2021.22884;Japan;Mexico
+825;2021.19872;Japan;Denmark
+826;2021.35214;Japan;Iceland
+827;2021.2178900000001;Japan;Sint Maarten
+828;2021.23433;Japan;Kazakhstan
+829;2021.1907;Japan;Sint Maarten
+830;2021.23708;Sint Maarten;Georgia
+831;2021.45625;Sint Maarten;Greece
+832;2021.3274800000002;Japan;France
+833;2021.3411800000001;Japan;Vietnam
+834;2021.2410300000001;Japan;Vietnam
+835;2021.14397;Romania;United Kingdom
+836;2021.34123;Romania;Suriname
+837;2021.0453400000001;Romania;Greece
+838;2021.0645100000002;Romania;Croatia
+839;2021.1357500000001;Romania;South Korea
+840;2021.06024;Romania;Greece
+841;2021.40424;Greece;Georgia
+842;2021.15766;Romania;Oman
+843;2021.1129;Romania;Saudi Arabia
+844;2021.47;Saudi Arabia;Oman
+845;2021.2590400000001;Saudi Arabia;Croatia
+846;2020.94904;Romania;Singapore
+847;2021.39876;Singapore;Nigeria
+848;2021.0932300000002;Singapore;Thailand
+849;2021.28644;Thailand;India
+850;2020.85798;Romania;India
+851;2021.19054;India;Austria
+852;2021.07548;India;Sri Lanka
+853;2021.07822;India;Slovenia
+854;2021.19055;Slovenia;Indonesia
+855;2021.33849;India;Moldova
+856;2021.12753;India;Brazil
+857;2021.1357400000002;India;Tunisia
+858;2021.2398500000002;India;Germany
+859;2021.36313;Romania;Suriname
+860;2020.87821;Romania;Netherlands
+861;2021.39054;Netherlands;Suriname
+862;2021.26451;Netherlands;Morocco
+863;2021.3192900000001;Netherlands;Suriname
+864;2021.4288800000002;Netherlands;Denmark
+865;2021.28367;Netherlands;South Africa
+866;2021.1967300000001;Netherlands;Suriname
+867;2021.13027;Romania;United Kingdom
+868;2021.12479;Romania;Tunisia
+869;2021.01268;Romania;Aruba
+870;2020.8637700000002;Romania;Serbia
+871;2021.38842;Serbia;Austria
+872;2021.43163;Austria;Liechtenstein
+873;2021.39328;Serbia;Democratic Republic of the Congo
+874;2021.19876;Serbia;Switzerland
+875;2021.26726;Serbia;Sweden
+876;2021.0700000000002;Serbia;Thailand
+877;2021.1932900000002;Serbia;United Kingdom
+878;2021.39329;Serbia;Ireland
+879;2021.21795;Serbia;Belgium
+880;2021.35767;Serbia;Austria
+881;2021.2015000000001;Serbia;Slovenia
+882;2021.41246;Serbia;Switzerland
+883;2021.24808;Serbia;North Macedonia
+884;2021.20424;Serbia;Finland
+885;2020.9828;Serbia;Brazil
+886;2021.37958;Serbia;Croatia
+887;2021.41793;Serbia;Bosnia and Herzegovina
+888;2021.45903;Serbia;Bosnia and Herzegovina
+889;2021.2782100000002;Serbia;Switzerland
+890;2020.81408;Romania;Netherlands
+891;2020.8991600000002;Netherlands;Belgium
+892;2021.20423;Belgium;Jordan
+893;2021.17135;Belgium;Serbia
+894;2021.41245;Belgium;Spain
+895;2021.28916;Belgium;United Kingdom
+896;2021.30012;Belgium;Tunisia
+897;2021.24533;Belgium;Turkey
+898;2021.2727300000001;Belgium;Panama
+899;2021.0645200000001;Netherlands;Spain
+900;2021.1823200000001;Netherlands;Pakistan
+901;2021.2403000000002;Netherlands;Afghanistan
+902;2021.3056100000001;Netherlands;Aruba
+903;2021.29466;Netherlands;Suriname
+904;2021.2645200000002;Netherlands;Russia
+905;2021.2261600000002;Netherlands;Pakistan
+906;2021.2398600000001;Netherlands;Dominican Republic
+907;2021.42342;Netherlands;Pakistan
+908;2021.17959;Netherlands;Germany
+909;2021.24808;Netherlands;Belgium
+910;2021.20224;Netherlands;Suriname
+911;2021.3631400000002;Suriname;Bonaire
+912;2021.27;Netherlands;Pakistan
+913;2021.25356;Netherlands;Liberia
+914;2020.98771;Netherlands;Bonaire
+915;2021.13849;Bonaire;Curacao
+916;2021.13849;Bonaire;Curacao
+917;2021.16588;Bonaire;Netherlands
+918;2021.19876;Bonaire;Curacao
+919;2021.11103;Bonaire;Curacao
+920;2020.79124;Romania;Nigeria
+921;2021.0453300000001;Nigeria;Denmark
+922;2021.2069800000002;Nigeria;Sao Tome and Principe
+923;2021.27548;Nigeria;Spain
+924;2021.0700000000002;Nigeria;Angola
+925;2020.97926;Nigeria;Angola
+926;2021.28369;Nigeria;Spain
+927;2021.05081;Nigeria;Central African Republic
+928;2020.9044900000001;Nigeria;Belgium
+929;2021.09191;Belgium;Moldova
+930;2020.9001500000002;Nigeria;Bangladesh
+931;2021.2590300000002;Bangladesh;Singapore
+932;2020.85264;Nigeria;Poland
+933;2021.1604;Poland;Sweden
+934;2021.23711;Poland;Denmark
+935;2021.0645100000002;Poland;South Korea
+936;2021.0645100000002;Poland;Norway
+937;2020.9926;Poland;South Korea
+938;2021.3056100000001;Poland;South Africa
+939;2021.2152;Poland;Suriname
+940;2021.17959;Poland;Iceland
+941;2021.13207;Poland;Costa Rica
+942;2021.39603;Costa Rica;Iceland
+943;2020.84661;Nigeria;Angola
+944;2021.4152000000001;Angola;Nepal
+945;2021.00799;Angola;India
+946;2021.0836900000002;India;USA
+947;2021.17685;Angola;Indonesia
+948;2021.07822;Angola;Benin
+949;2020.9153000000001;Angola;Madagascar
+950;2021.1221600000001;Madagascar;Canada
+951;2020.90587;Angola;Madagascar
+952;2021.2453400000002;Madagascar;Indonesia
+953;2020.95019;Madagascar;Sri Lanka
+954;2021.39328;Sri Lanka;Ethiopia
+955;2021.0590300000001;Madagascar;Ethiopia
+956;2021.07822;Nigeria;Vietnam
+957;2021.0124600000001;Nigeria;Singapore
+958;2021.18506;Nigeria;Pakistan
+959;2020.9648100000002;Nigeria;Cabo Verde
+960;2021.43164;Cabo Verde;Switzerland
+961;2021.32205;Cabo Verde;Luxembourg
+962;2021.27522;Cabo Verde;Portugal
+963;2020.96593;Nigeria;Kenya
+964;2021.23163;Kenya;Uganda
+965;2021.16589;Nigeria;Cameroon
+966;2020.8614400000001;Nigeria;Benin
+967;2020.9730200000001;Benin;Dominican Republic
+968;2021.4590500000002;Dominican Republic;Angola
+969;2021.15767;Dominican Republic;Paraguay
+970;2021.2316500000002;Dominican Republic;Colombia
+971;2021.3659;Dominican Republic;Australia
+972;2021.30014;Dominican Republic;USA
+973;2021.21521;Dominican Republic;Dominica
+974;2021.19055;Benin;Nigeria
+975;2020.9364500000001;Benin;Nigeria
+976;2021.34124;Nigeria;Belize
+977;2021.06726;Nigeria;Guadeloupe
+978;2021.2590400000001;Guadeloupe;Guatemala
+979;2021.30014;Nigeria;Egypt
+980;2021.42616;Nigeria;Venezuela
+981;2021.2453400000002;Nigeria;Sint Maarten
+982;2021.3247900000001;Nigeria;USA
+983;2021.39328;Nigeria;Belize
+984;2021.19877;Nigeria;France
+985;2021.20424;Nigeria;Dominican Republic
+986;2021.1823200000001;Nigeria;Togo
+987;2020.99953;Nigeria;USA
+988;2021.09227;USA;Costa Rica
+989;2021.46727;USA;South Korea
+990;2021.3823300000001;USA;Dominican Republic
+991;2021.44261;USA;Mexico
+992;2021.4535600000002;USA;Ghana
+993;2021.37685;USA;Mexico
+994;2021.2590500000001;USA;Trinidad and Tobago
+995;2021.31932;Trinidad and Tobago;Mexico
+996;2021.45082;USA;Aruba
+997;2021.4672600000001;USA;Canada
+998;2021.3823200000002;USA;Ghana
+999;2021.333;USA;Paraguay
+1000;2021.06177;Nigeria;Rwanda
+1001;2021.35218;Nigeria;Indonesia
+1002;2021.0541500000002;Nigeria;Kenya
+1003;2021.24533;Kenya;Cote d'
+1004;2021.19327;Kenya;Australia
+1005;2021.32752;Nigeria;Angola
+1006;2021.07746;Nigeria;Togo
+1007;2021.0782100000001;Nigeria;Benin
+1008;2021.2015000000001;Nigeria;Switzerland
+1009;2021.27548;Nigeria;Singapore
+1010;2021.2590300000002;Nigeria;Guatemala
+1011;2021.32205;Nigeria;El Salvador
+1012;2021.08096;Nigeria;Benin
+1013;2021.24533;Nigeria;Dominica
+1014;2021.23164;Nigeria;Sao Tome and Principe
+1015;2021.0126;Nigeria;Bulgaria
+1016;2021.2973900000002;Bulgaria;Poland
+1017;2021.17098;Bulgaria;Angola
+1018;2021.27545;Bulgaria;Denmark
+1019;2021.25353;Bulgaria;Benin
+1020;2021.09348;Bulgaria;Angola
+1021;2021.25626;Angola;Denmark
+1022;2021.22889;Nigeria;Afghanistan
+1023;2020.98783;Nigeria;Latvia
+1024;2021.4672500000001;Latvia;Finland
+1025;2021.0221900000001;Nigeria;Ethiopia
+1026;2021.10509;Ethiopia;Iceland
+1027;2021.35767;Iceland;Austria
+1028;2021.10542;Nigeria;Colombia
+1029;2021.4617700000001;Colombia;Iceland
+1030;2021.41245;Colombia;Romania
+1031;2021.16301;Colombia;Panama
+1032;2020.97028;Nigeria;New Zealand
+1033;2021.40423;New Zealand;Norway
+1034;2021.12204;New Zealand;Bulgaria
+1035;2021.35491;New Zealand;Netherlands
+1036;2021.3768300000002;New Zealand;Lithuania
+1037;2021.19875;New Zealand;Australia
+1038;2021.31382;New Zealand;Australia
+1039;2021.13085;New Zealand;India
+1040;2021.0406600000001;New Zealand;India
+1041;2021.19053;New Zealand;Hong Kong
+1042;2021.0957600000002;New Zealand;India
+1043;2021.25353;India;Hong Kong
+1044;2021.26176;New Zealand;Portugal
+1045;2021.24532;New Zealand;Benin
+1046;2021.18504;New Zealand;Belgium
+1047;2020.8282900000002;Nigeria;Ghana
+1048;2021.3439600000002;Ghana;New Zealand
+1049;2021.1686200000001;Ghana;Togo
+1050;2021.03709;Ghana;Benin
+1051;2021.03986;Ghana;United Arab Emirates
+1052;2021.29855;Ghana;Panama
+1053;2021.20697;Ghana;Venezuela
+1054;2021.22889;Ghana;Cote d'
+1055;2021.1823200000001;Ghana;USA
+1056;2020.9684200000002;Ghana;Canada
+1057;2021.28095;Canada;Dominican Republic
+1058;2021.1385500000001;Canada;Nepal
+1059;2021.3247900000001;Nepal;Suriname
+1060;2021.1549200000002;Canada;Russia
+1061;2021.0398500000001;Ghana;Senegal
+1062;2021.12752;Ghana;Cote d'
+1063;2021.43711;Ghana;Switzerland
+1064;2021.16314;Ghana;Cote d'
+1065;2021.11109;Ghana;Cote d'
+1066;2021.1028700000002;Ghana;Indonesia
+1067;2021.24533;Ghana;Togo
+1068;2021.03711;Ghana;Togo
+1069;2021.1604;Ghana;Togo
+1070;2021.20424;Ghana;Georgia
+1071;2020.94856;Ghana;Benin
+1072;2021.26725;Ghana;USA
+1073;2021.13653;Ghana;Malta
+1074;2020.9545400000002;Ghana;Togo
+1075;2021.0015600000002;Togo;Cameroon
+1076;2021.18233;Cameroon;Central African Republic
+1077;2020.97044;Ghana;Togo
+1078;2021.3056100000001;Ghana;Tunisia
+1079;2021.30286;Ghana;Finland
+1080;2020.97388;Ghana;Cote d'
+1081;2021.03711;Cote d';Senegal
+1082;2021.23438;Cote d';Mauritania
+1083;2021.11668;Cote d';Algeria
+1084;2021.40972;Algeria;Mauritania
+1085;2021.3823200000002;Cote d';Senegal
+1086;2021.22342;Ghana;Cote d'
+1087;2021.3384800000001;Ghana;USA
+1088;2020.9611200000002;Ghana;Belarus
+1089;2021.0453300000001;Belarus;Montenegro
+1090;2021.45081;Belarus;Romania
+1091;2021.24807;Belarus;Ghana
+1092;2021.16314;Belarus;Russia
+1093;2021.0426;Belarus;Montenegro
+1094;2021.20424;Montenegro;Estonia
+1095;2021.35219;Ghana;Colombia
+1096;2021.15219;Ghana;Cote d'
+1097;2021.0962100000002;Ghana;South Africa
+1098;2021.34398;South Africa;Mozambique
+1099;2021.24808;Ghana;Cote d'
+1100;2021.02069;Ghana;Niger
+1101;2021.0371300000002;Ghana;Cote d'
+1102;2021.34671;Ghana;Benin
+1103;2021.23712;Ghana;Indonesia
+1104;2021.2015000000001;Ghana;Ukraine
+1105;2021.41246;Ghana;USA
+1106;2021.31657;Ghana;Cote d'
+1107;2021.39055;Ghana;Tunisia
+1108;2021.11446;Ghana;Curacao
+1109;2021.2261600000002;Curacao;Sint Maarten
+1110;2021.27584;Curacao;Aruba
+1111;2021.20408;Curacao;Sint Maarten
+1112;2021.25233;Sint Maarten;Curacao
+1113;2021.2206800000001;Ghana;Belarus
+1114;2021.39328;Ghana;Tunisia
+1115;2021.07357;Ghana;Guadeloupe
+1116;2021.05463;Ghana;Guadeloupe
+1117;2021.09191;Ghana;France
+1118;2021.1075600000001;Ghana;Morocco
+1119;2021.41245;Morocco;Singapore
+1120;2021.33299;Morocco;Dominican Republic
+1121;2021.00971;Ghana;South Africa
+1122;2021.12753;Ghana;Cote d'
+1123;2021.21793;Ghana;Morocco
+1124;2021.30013;Ghana;Gambia
+1125;2021.3110900000001;Ghana;Cote d'
+1126;2021.32205;Ghana;Belarus
+1127;2021.3384800000001;Ghana;Cote d'
+1128;2021.37957;Ghana;Liberia
+1129;2021.27379;Ghana;Costa Rica
+1130;2021.45903;Costa Rica;Barbados
+1131;2021.4645;Ghana;Morocco
+1132;2021.2782;Ghana;Morocco
+1133;2021.1823000000002;Ghana;Cote d'
+1134;2021.2343600000002;Ghana;Egypt
+1135;2020.7482;Romania;Indonesia
+1136;2020.81329;Indonesia;Kazakhstan
+1137;2021.08095;Kazakhstan;India
+1138;2021.3056000000001;Kazakhstan;Germany
+1139;2021.28094;Kazakhstan;Belgium
+1140;2020.93272;Indonesia;Kazakhstan
+1141;2020.87967;Indonesia;United Arab Emirates
+1142;2021.10158;United Arab Emirates;Senegal
+1143;2021.3768400000001;Senegal;Saudi Arabia
+1144;2021.43985;United Arab Emirates;Russia
+1145;2021.45903;United Arab Emirates;Finland
+1146;2021.2261600000002;United Arab Emirates;Slovenia
+1147;2021.16003;United Arab Emirates;Kazakhstan
+1148;2021.2590400000001;Kazakhstan;Poland
+1149;2021.42342;Kazakhstan;Kuwait
+1150;2020.95308;United Arab Emirates;Philippines
+1151;2021.16588;Philippines;Moldova
+1152;2021.14122;Philippines;Bahrain
+1153;2021.19054;Philippines;Democratic Republic of the Congo
+1154;2021.43985;Philippines;Iraq
+1155;2021.27;Philippines;Qatar
+1156;2021.2398600000001;Philippines;Hong Kong
+1157;2021.23135;Philippines;Singapore
+1158;2021.2563;Singapore;Hong Kong
+1159;2021.23438;Philippines;Singapore
+1160;2021.18233;Philippines;Hong Kong
+1161;2021.35767;Philippines;Singapore
+1162;2021.37425;Philippines;New Zealand
+1163;2021.39054;Philippines;Hong Kong
+1164;2021.4288900000001;Philippines;Singapore
+1165;2021.27547;Philippines;Fiji
+1166;2021.35492;Indonesia;Russia
+1167;2021.3741;Indonesia;Republic of the Congo
+1168;2020.85858;Indonesia;Oman
+1169;2021.05355;Oman;Sri Lanka
+1170;2021.34122;Oman;Madagascar
+1171;2021.45081;Oman;Ukraine
+1172;2021.08095;Oman;United Arab Emirates
+1173;2020.96791;Oman;Guinea
+1174;2020.9356500000001;Oman;Republic of the Congo
+1175;2021.08732;Oman;Sri Lanka
+1176;2021.3439600000002;Oman;Qatar
+1177;2021.06998;Oman;India
+1178;2021.07546;Oman;Sri Lanka
+1179;2021.15083;Oman;South Korea
+1180;2021.20971;Oman;Bahrain
+1181;2021.08139;Oman;Saudi Arabia
+1182;2021.1046000000001;Oman;Ethiopia
+1183;2021.09884;Oman;Republic of the Congo
+1184;2021.42341;Oman;Libya
+1185;2021.0973800000002;Oman;United Arab Emirates
+1186;2021.14122;United Arab Emirates;Ethiopia
+1187;2021.41245;Ethiopia;Belgium
+1188;2020.82258;Indonesia;Slovakia
+1189;2021.28369;Slovakia;Czech Republic
+1190;2020.95893;Slovakia;Germany
+1191;2021.21794;Slovakia;Switzerland
+1192;2021.13849;Slovakia;South Africa
+1193;2021.2782200000001;Slovakia;Hong Kong
+1194;2021.4206800000002;Slovakia;Russia
+1195;2021.1549200000002;Slovakia;Czech Republic
+1196;2021.31383;Czech Republic;Switzerland
+1197;2021.40698;Slovakia;Czech Republic
+1198;2021.3768400000001;Slovakia;Poland
+1199;2021.31383;Slovakia;Czech Republic
+1200;2021.26726;Slovakia;Czech Republic
+1201;2021.11931;Slovakia;Austria
+1202;2021.0645200000001;Slovakia;Germany
+1203;2021.0563;Slovakia;Czech Republic
+1204;2021.29465;Slovakia;Russia
+1205;2021.19328;Slovakia;Austria
+1206;2021.0973900000001;Slovakia;Luxembourg
+1207;2021.4343800000001;Slovakia;Poland
+1208;2021.33301;Slovakia;Germany
+1209;2021.16041;Slovakia;Czech Republic
+1210;2021.23712;Slovakia;Czech Republic
+1211;2021.2206800000001;Slovakia;Czech Republic
+1212;2021.4343800000001;Slovakia;Czech Republic
+1213;2020.9309700000001;Slovakia;Austria
+1214;2021.4015100000001;Slovakia;Jordan
+1215;2021.0316400000002;Slovakia;Czech Republic
+1216;2021.0238900000002;Slovakia;Libya
+1217;2021.1823200000001;Slovakia;Chile
+1218;2021.1412300000002;Slovakia;Georgia
+1219;2021.20425;Slovakia;Ukraine
+1220;2021.33849;Slovakia;Moldova
+1221;2021.00972;Slovakia;Czech Republic
+1222;2021.35219;Czech Republic;Germany
+1223;2021.28194;Slovakia;Latvia
+1224;2021.2289;Slovakia;Croatia
+1225;2021.19876;Slovakia;Latvia
+1226;2021.13027;Slovakia;Germany
+1227;2021.4152000000001;Slovakia;Poland
+1228;2021.1412300000002;Slovakia;Ukraine
+1229;2021.01306;Slovakia;Croatia
+1230;2021.13849;Croatia;Slovenia
+1231;2020.9830100000001;Slovakia;Czech Republic
+1232;2021.28643;Czech Republic;Colombia
+1233;2021.2069800000002;Czech Republic;Slovenia
+1234;2021.2727300000001;Slovakia;Austria
+1235;2021.08331;Slovakia;Denmark
+1236;2021.22144;Slovakia;Croatia
+1237;2020.9686800000002;Slovakia;South Korea
+1238;2021.21245;South Korea;Thailand
+1239;2021.43711;South Korea;Austria
+1240;2021.2543;Slovakia;Chile
+1241;2021.06773;Slovakia;Belgium
+1242;2021.30287;Belgium;Finland
+1243;2021.4480800000001;Belgium;Georgia
+1244;2021.27548;Slovakia;Switzerland
+1245;2021.1111;Slovakia;Austria
+1246;2021.2676700000002;Slovakia;Mexico
+1247;2021.41794;Slovakia;Czech Republic
+1248;2021.40983;Slovakia;Hong Kong
+1249;2021.3576600000001;Slovakia;Switzerland
+1250;2020.99749;Slovakia;Austria
+1251;2021.0425300000002;Slovakia;Azerbaijan
+1252;2021.3439700000001;Azerbaijan;Russia
+1253;2021.04431;Slovakia;Mongolia
+1254;2020.9281600000002;Slovakia;Germany
+1255;2021.05356;Germany;Thailand
+1256;2021.1165700000001;Germany;Hungary
+1257;2021.25082;Germany;North Macedonia
+1258;2021.1686300000001;Germany;Bosnia and Herzegovina
+1259;2020.9963500000001;Slovakia;France
+1260;2021.35219;France;Senegal
+1261;2021.36862;France;Austria
+1262;2021.1302500000002;France;Switzerland
+1263;2021.1412300000002;France;Angola
+1264;2021.0782100000001;France;Luxembourg
+1265;2021.14122;France;Mauritius
+1266;2021.29464;France;Portugal
+1267;2021.4535500000002;France;Sint Maarten
+1268;2021.0892800000001;France;Algeria
+1269;2021.3768400000001;Algeria;Serbia
+1270;2021.20486;Algeria;Slovakia
+1271;2020.9118700000001;Slovakia;Czech Republic
+1272;2021.10896;Czech Republic;Central African Republic
+1273;2021.2453500000001;Central African Republic;Cameroon
+1274;2021.1214400000001;Czech Republic;USA
+1275;2021.34123;USA;South Korea
+1276;2021.4563;Czech Republic;Ukraine
+1277;2021.13715;Czech Republic;Portugal
+1278;2021.3248;Portugal;Belarus
+1279;2021.06453;Czech Republic;Hungary
+1280;2021.03527;Czech Republic;Croatia
+1281;2021.2590500000001;Croatia;Slovenia
+1282;2021.32754;Czech Republic;Singapore
+1283;2021.07274;Czech Republic;Austria
+1284;2021.44261;Czech Republic;Estonia
+1285;2021.37411;Czech Republic;Ukraine
+1286;2021.4206800000002;Czech Republic;Germany
+1287;2021.35219;Czech Republic;Slovakia
+1288;2021.4289;Czech Republic;Andorra
+1289;2021.4152000000001;Czech Republic;Kosovo
+1290;2021.4672600000001;Czech Republic;Ukraine
+1291;2021.35218;Czech Republic;Denmark
+1292;2021.08809;Czech Republic;Australia
+1293;2021.13301;Australia;Slovenia
+1294;2021.37137;Australia;Russia
+1295;2021.2015000000001;Australia;Austria
+1296;2021.27547;Czech Republic;Austria
+1297;2021.19602;Czech Republic;Russia
+1298;2021.10561;Czech Republic;Australia
+1299;2021.39328;Czech Republic;Slovakia
+1300;2021.43163;Czech Republic;Mexico
+1301;2021.34122;Czech Republic;Germany
+1302;2021.2535500000001;Czech Republic;Iceland
+1303;2021.41794;Czech Republic;Slovenia
+1304;2021.24259;Czech Republic;France
+1305;2021.2532800000001;Czech Republic;Georgia
+1306;2021.2727300000001;Czech Republic;Ghana
+1307;2021.1494400000001;Czech Republic;Ukraine
+1308;2021.42616;Czech Republic;Bosnia and Herzegovina
+1309;2021.1028700000002;Czech Republic;Australia
+1310;2021.33301;Australia;Russia
+1311;2021.1754600000002;Australia;Germany
+1312;2021.23735;Germany;Slovakia
+1313;2021.37138;Slovakia;Ukraine
+1314;2021.02068;Indonesia;India
+1315;2021.33849;Indonesia;Bosnia and Herzegovina
+1316;2021.13301;Indonesia;Spain
+1317;2021.0973900000001;Indonesia;United Arab Emirates
+1318;2021.26177;Indonesia;Bosnia and Herzegovina
+1319;2021.0152;Indonesia;Romania
+1320;2021.08917;Indonesia;North Macedonia
+1321;2020.9505800000002;Indonesia;Oman
+1322;2021.2152;Oman;Sri Lanka
+1323;2020.84482;Indonesia;Azerbaijan
+1324;2021.3878100000002;Indonesia;Jordan
+1325;2021.01962;Indonesia;Egypt
+1326;2020.9670700000001;Indonesia;Luxembourg
+1327;2021.0259800000001;Indonesia;Sri Lanka
+1328;2021.04135;Indonesia;Slovenia
+1329;2021.37685;Slovenia;Switzerland
+1330;2020.98866;Indonesia;Switzerland
+1331;2021.30287;Switzerland;Liechtenstein
+1332;2021.41794;Switzerland;Estonia
+1333;2021.26177;Switzerland;Guatemala
+1334;2021.0073200000002;Indonesia;Gabon
+1335;2021.1412300000002;Gabon;Singapore
+1336;2021.28159;Indonesia;China
+1337;2020.96929;Indonesia;Barbados
+1338;2020.8650300000002;Indonesia;Iran
+1339;2021.3302700000002;Iran;New Zealand
+1340;2021.07547;Indonesia;Sri Lanka
+1341;2020.91941;Indonesia;South Korea
+1342;2020.8618000000001;Indonesia;Russia
+1343;2021.09465;Russia;New Zealand
+1344;2021.08643;Russia;Australia
+1345;2021.1302600000001;Russia;Sweden
+1346;2021.09465;Russia;United Arab Emirates
+1347;2021.00972;Russia;Iraq
+1348;2021.00944;Russia;Singapore
+1349;2021.2151900000001;Russia;Bahrain
+1350;2020.9166;Russia;Philippines
+1351;2021.21794;Philippines;Hong Kong
+1352;2021.2206800000001;Philippines;Madagascar
+1353;2020.9629400000001;Philippines;Oman
+1354;2021.06726;Oman;Kenya
+1355;2021.31384;Oman;Kazakhstan
+1356;2021.1357500000001;Oman;Philippines
+1357;2021.03711;Oman;Sweden
+1358;2021.28369;Sweden;Saudi Arabia
+1359;2021.39328;Russia;France
+1360;2021.4288900000001;Russia;Serbia
+1361;2020.9921000000002;Russia;Cambodia
+1362;2021.1506100000001;Cambodia;Thailand
+1363;2021.30286;Thailand;Cambodia
+1364;2021.3467;Cambodia;Thailand
+1365;2021.40697;Cambodia;Israel
+1366;2021.3768400000001;Thailand;Israel
+1367;2021.34947;Thailand;Israel
+1368;2021.11109;Indonesia;South Korea
+1369;2021.27;Indonesia;Australia
+1370;2021.0453400000001;Indonesia;Sweden
+1371;2021.26999;Indonesia;Pakistan
+1372;2021.06177;Indonesia;Malaysia
+1373;2021.1741000000002;Indonesia;Thailand
+1374;2021.0485;Indonesia;Georgia
+1375;2021.08095;Georgia;Slovenia
+1376;2020.92211;Indonesia;Guinea
+1377;2021.02383;Guinea;Bangladesh
+1378;2021.26178;Bangladesh;Iran
+1379;2021.12753;Bangladesh;Lebanon
+1380;2021.0296500000002;Guinea;Turkey
+1381;2021.27547;Turkey;Iran
+1382;2021.2535500000001;Turkey;Egypt
+1383;2021.0396500000002;Guinea;Finland
+1384;2021.07485;Finland;Jordan
+1385;2021.19877;Indonesia;Guadeloupe
+1386;2020.93247;Indonesia;Morocco
+1387;2021.0124700000001;Morocco;Jordan
+1388;2021.0453400000001;Morocco;Georgia
+1389;2021.43164;Morocco;Iraq
+1390;2021.1959100000001;Morocco;Luxembourg
+1391;2021.45903;Luxembourg;Kuwait
+1392;2021.4535500000002;Morocco;Curacao
+1393;2021.19594;Morocco;France
+1394;2021.2398600000001;France;Guinea
+1395;2021.1120700000001;Morocco;Tunisia
+1396;2020.8719600000002;Indonesia;Lebanon
+1397;2021.2015000000001;Lebanon;Ukraine
+1398;2021.13301;Lebanon;Switzerland
+1399;2021.2398600000001;Lebanon;Jordan
+1400;2021.4343700000002;Lebanon;Canada
+1401;2020.97469;Lebanon;Egypt
+1402;2020.9339200000002;Lebanon;Sri Lanka
+1403;2021.07547;Lebanon;Jordan
+1404;2021.05355;Lebanon;Australia
+1405;2021.4480700000001;Lebanon;Jordan
+1406;2021.1823200000001;Lebanon;Iraq
+1407;2021.27548;Lebanon;Denmark
+1408;2021.35219;Lebanon;France
+1409;2021.25356;Lebanon;Canada
+1410;2021.0836900000002;Lebanon;Kuwait
+1411;2021.27466;Lebanon;Iraq
+1412;2021.3905300000001;Lebanon;Jordan
+1413;2021.26451;Lebanon;Sweden
+1414;2021.0812600000002;Lebanon;Denmark
+1415;2021.4097100000001;Denmark;Iceland
+1416;2021.2014900000001;Lebanon;Iraq
+1417;2021.4151900000002;Lebanon;Malta
+1418;2021.45629;Lebanon;Austria
+1419;2021.4672500000001;Lebanon;Iraq
+1420;2021.05466;Lebanon;Jordan
+1421;2021.17683;Jordan;Thailand
+1422;2021.0645000000002;Jordan;Denmark
+1423;2021.0864100000001;Jordan;Kuwait
+1424;2021.3905200000002;Jordan;Saudi Arabia
+1425;2021.4480600000002;Jordan;Lebanon
+1426;2021.3768300000002;Jordan;Lebanon
+1427;2020.9184;Indonesia;Tunisia
+1428;2021.42342;Tunisia;Morocco
+1429;2021.37137;Tunisia;Slovenia
+1430;2021.39877;Tunisia;Bahrain
+1431;2021.3413;Tunisia;Malta
+1432;2021.4480800000001;Malta;Denmark
+1433;2021.4289;Tunisia;Belize
+1434;2021.2563;Tunisia;Australia
+1435;2021.31384;Tunisia;Togo
+1436;2021.2261600000002;Tunisia;Benin
+1437;2021.0179400000002;Indonesia;Hungary
+1438;2020.97253;Indonesia;Liechtenstein
+1439;2021.13353;Indonesia;Paraguay
+1440;2021.0283200000001;Indonesia;Spain
+1441;2020.95255;Indonesia;Singapore
+1442;2021.2837000000002;Singapore;Russia
+1443;2021.42343;Singapore;India
+1444;2021.11109;Indonesia;Latvia
+1445;2021.06178;Indonesia;Australia
+1446;2021.05783;Indonesia;India
+1447;2021.3302800000001;Indonesia;Saudi Arabia
+1448;2021.42343;Indonesia;Oman
+1449;2021.0384000000001;Indonesia;Bosnia and Herzegovina
+1450;2021.28644;Bosnia and Herzegovina;Croatia
+1451;2021.2261600000002;Bosnia and Herzegovina;Croatia
+1452;2021.2426;Bosnia and Herzegovina;North Macedonia
+1453;2021.1549300000001;Bosnia and Herzegovina;Croatia
+1454;2021.4426;Bosnia and Herzegovina;Montenegro
+1455;2021.26178;Bosnia and Herzegovina;Croatia
+1456;2021.47;Bosnia and Herzegovina;Slovenia
+1457;2021.42342;Bosnia and Herzegovina;Kosovo
+1458;2021.35219;Bosnia and Herzegovina;Croatia
+1459;2020.9885000000002;Indonesia;Portugal
+1460;2021.45904;Portugal;Spain
+1461;2021.08095;Portugal;USA
+1462;2020.96865;Indonesia;Romania
+1463;2021.35219;Romania;Denmark
+1464;2021.11109;Romania;Iceland
+1465;2021.3960200000001;Romania;Spain
+1466;2021.30013;Romania;Croatia
+1467;2021.04305;Romania;India
+1468;2021.2919200000001;India;Hong Kong
+1469;2021.13849;India;New Zealand
+1470;2021.12479;India;Canada
+1471;2021.33575;Indonesia;Sweden
+1472;2021.2261600000002;Indonesia;Morocco
+1473;2021.29465;Indonesia;United Kingdom
+1474;2021.10561;Indonesia;Equatorial Guinea
+1475;2021.19007;Indonesia;Iceland
+1476;2021.4015100000001;Indonesia;Georgia
+1477;2021.0179500000002;Indonesia;Hungary
+1478;2021.07475;Indonesia;Kenya
+1479;2021.30014;Kenya;Indonesia
+1480;2021.23438;Kenya;Uganda
+1481;2021.23164;Kenya;Uganda
+1482;2021.26081;Kenya;Liberia
+1483;2021.08097;Indonesia;Germany
+1484;2021.46179;Indonesia;Croatia
+1485;2021.22618;Indonesia;Djibouti
+1486;2021.3385;Indonesia;Australia
+1487;2021.1269100000002;Indonesia;Austria
+1488;2020.99044;Indonesia;Jordan
+1489;2021.1275400000002;Jordan;Philippines
+1490;2021.25631;Indonesia;USA
+1491;2021.33303;Indonesia;New Zealand
+1492;2021.2056200000002;Indonesia;Liechtenstein
+1493;2020.99376;Indonesia;Bosnia and Herzegovina
+1494;2021.1412500000001;Bosnia and Herzegovina;Russia
+1495;2021.05863;Bosnia and Herzegovina;United Kingdom
+1496;2021.26728;United Kingdom;Malta
+1497;2021.08304;Bosnia and Herzegovina;Armenia
+1498;2021.39057;Armenia;Sweden
+1499;2021.43714;Armenia;Ethiopia
+1500;2021.09193;Bosnia and Herzegovina;India
+1501;2021.31111;Bosnia and Herzegovina;Serbia
+1502;2021.3226300000001;Bosnia and Herzegovina;Sint Maarten
+1503;2021.3659;Sint Maarten;Bonaire
+1504;2021.11166;Bosnia and Herzegovina;Barbados
+1505;2021.37959;Barbados;Belgium
+1506;2021.3549400000002;Barbados;Democratic Republic of the Congo
+1507;2021.39055;Barbados;Malta
+1508;2021.28918;Barbados;Monaco
+1509;2021.1248;Bosnia and Herzegovina;Central African Republic
+1510;2021.3385;Central African Republic;Portugal
+1511;2021.05288;Bosnia and Herzegovina;Slovenia
+1512;2021.30014;Slovenia;Oman
+1513;2021.17936;Slovenia;Costa Rica
+1514;2021.32754;Costa Rica;Nicaragua
+1515;2021.07274;Slovenia;Sweden
+1516;2021.24808;Slovenia;Croatia
+1517;2021.10562;Slovenia;Portugal
+1518;2021.29466;Portugal;Denmark

@@ -1,0 +1,1314 @@
+;EventTime;Origin;Destination
+0;2021.9939;UNKNOWN;South Africa
+1;2022.4602;South Africa;Pakistan
+2;2022.4876;South Africa;Canada
+3;2022.66568;South Africa;Latvia
+4;2022.42311;South Africa;Australia
+5;2022.62458;Australia;Papua New Guinea
+6;2022.56431;Australia;Solomon Islands
+7;2022.24441;South Africa;Germany
+8;2022.48485;Germany;Cote d'
+9;2022.43554;Germany;Luxembourg
+10;2022.54239;Germany;Argentina
+11;2022.47937;Germany;Norway
+12;2022.43554;Germany;Uganda
+13;2022.40214;Germany;Barbados
+14;2022.43554;Germany;Hong Kong
+15;2022.52595;Hong Kong;United Kingdom
+16;2022.40876;Germany;Ireland
+17;2022.51773;Ireland;Curacao
+18;2022.18675;South Africa;Bermuda
+19;2022.45198;Bermuda;Canada
+20;2022.4437599999999;Bermuda;Netherlands
+21;2022.4191;Bermuda;Bonaire
+22;2022.75883;Bermuda;Austria
+23;2022.62458;Bermuda;Luxembourg
+24;2022.42554;Bermuda;El Salvador
+25;2022.49581;Bermuda;Georgia
+26;2022.4672;Bermuda;Lebanon
+27;2022.59445;Lebanon;Turkey
+28;2022.34376;Bermuda;Jamaica
+29;2022.40595;Jamaica;Colombia
+30;2022.6327999999999;Colombia;Paraguay
+31;2022.68211;Colombia;Puerto Rico
+32;2022.60539;Colombia;Liechtenstein
+33;2022.24967;Bermuda;Guatemala
+34;2022.4602;Guatemala;Qatar
+35;2022.39885;Guatemala;Iran
+36;2022.62459;Iran;Poland
+37;2022.35066;Guatemala;Micronesia
+38;2022.5478699999999;Micronesia;New Zealand
+39;2022.7560899999999;Micronesia;Iceland
+40;2022.4876;Guatemala;Trinidad and Tobago
+41;2022.55335;Guatemala;Venezuela
+42;2022.39131;Guatemala;El Salvador
+43;2022.54239;South Africa;Pakistan
+44;2022.43281;South Africa;Eswatini
+45;2022.3103899999999;South Africa;Turkey
+46;2022.35716;Turkey;Switzerland
+47;2022.51226;Switzerland;Costa Rica
+48;2022.70951;Switzerland;Italy
+49;2022.4958199999999;Switzerland;Luxembourg
+50;2022.32467;South Africa;Malawi
+51;2022.50404;Malawi;Austria
+52;2022.63007;Austria;Cabo Verde
+53;2022.66842;Malawi;Guinea
+54;2022.5095099999999;South Africa;Uganda
+55;2022.62732;Uganda;Eswatini
+56;2022.57253;South Africa;Zimbabwe
+57;2022.32427;South Africa;Republic of the Congo
+58;2022.6876;Republic of the Congo;Turkey
+59;2022.51226;Republic of the Congo;Ethiopia
+60;2022.45198;Republic of the Congo;Botswana
+61;2022.43051;Republic of the Congo;Jamaica
+62;2022.65472;Jamaica;Ireland
+63;2022.52206;Republic of the Congo;Mozambique
+64;2022.2883299999999;South Africa;Aruba
+65;2022.61088;Aruba;Vietnam
+66;2022.6054;Aruba;Hong Kong
+67;2022.52595;Aruba;Dominican Republic
+68;2022.4903299999999;Aruba;USA
+69;2022.68211;Aruba;Puerto Rico
+70;2022.5095099999999;Aruba;Luxembourg
+71;2022.70129;Aruba;Jamaica
+72;2022.43279;Aruba;Curacao
+73;2022.6519799999999;Aruba;Niue
+74;2022.7368999999999;Aruba;Chile
+75;2022.57526;Aruba;Ecuador
+76;2022.47668;Aruba;Dominican Republic
+77;2022.3888;Aruba;Bermuda
+78;2022.4903299999999;Bermuda;Trinidad and Tobago
+79;2022.55061;Aruba;Bonaire
+80;2022.43006;Aruba;Curacao
+81;2022.46183;Aruba;Colombia
+82;2022.43752;Aruba;Bonaire
+83;2022.66841;Bonaire;Venezuela
+84;2022.46841;Aruba;Taiwan
+85;2022.46567;Aruba;Bosnia and Herzegovina
+86;2022.5615599999999;Aruba;Iran
+87;2022.67389;Aruba;Switzerland
+88;2022.49494;Aruba;Peru
+89;2022.75882;Aruba;Romania
+90;2022.45202;Aruba;Croatia
+91;2022.61087;Croatia;Argentina
+92;2022.67937;Croatia;Belize
+93;2022.69855;Croatia;Morocco
+94;2022.35298;South Africa;Greece
+95;2022.71225;Greece;Luxembourg
+96;2022.38912;South Africa;Cameroon
+97;2022.4242299999999;South Africa;Switzerland
+98;2022.47989;Switzerland;North Macedonia
+99;2022.58897;North Macedonia;Romania
+100;2022.73965;North Macedonia;United Kingdom
+101;2022.72595;Switzerland;Nigeria
+102;2022.18622;South Africa;Cabo Verde
+103;2022.47116;Cabo Verde;Aruba
+104;2022.51773;Cabo Verde;Belize
+105;2022.60267;Cabo Verde;Saint Martin
+106;2022.56432;Cabo Verde;Liechtenstein
+107;2022.5835;Cabo Verde;Latvia
+108;2022.27204;Cabo Verde;Uruguay
+109;2022.46842;Uruguay;Dominican Republic
+110;2022.4766399999999;Uruguay;Bolivia
+111;2022.4876;Cabo Verde;Algeria
+112;2022.44925;Cabo Verde;Denmark
+113;2022.6903399999999;Cabo Verde;Andorra
+114;2022.66842;Cabo Verde;Poland
+115;2022.39844;Cabo Verde;Belgium
+116;2022.55061;Belgium;Montenegro
+117;2022.73966;Belgium;Czech Republic
+118;2022.50706;Belgium;Belize
+119;2022.63007;Cabo Verde;Germany
+120;2022.50678;Cabo Verde;Czech Republic
+121;2022.49308;Cabo Verde;Greece
+122;2022.43554;Cabo Verde;Greece
+123;2022.46842;Cabo Verde;Netherlands
+124;2022.52048;Cabo Verde;United Kingdom
+125;2022.54513;Cabo Verde;Jamaica
+126;2022.5478699999999;Cabo Verde;Poland
+127;2022.4876;Cabo Verde;Japan
+128;2022.46842;Cabo Verde;Portugal
+129;2022.52048;Cabo Verde;Senegal
+130;2022.41718;Cabo Verde;Bolivia
+131;2022.63555;Bolivia;Chile
+132;2022.41277;Cabo Verde;Lebanon
+133;2022.55335;Lebanon;Guatemala
+134;2022.53417;Cabo Verde;Italy
+135;2022.6711599999999;Cabo Verde;Paraguay
+136;2022.58349;Cabo Verde;Italy
+137;2022.55883;Cabo Verde;Portugal
+138;2022.42821;Cabo Verde;Haiti
+139;2022.36671;Cabo Verde;Ireland
+140;2022.57253;Ireland;Latvia
+141;2022.73692;Cabo Verde;Latvia
+142;2022.46842;Cabo Verde;Belgium
+143;2022.4465;Cabo Verde;Bahrain
+144;2022.39804;Cabo Verde;France
+145;2022.5670499999999;France;Portugal
+146;2022.52595;France;Lebanon
+147;2022.68212;Cabo Verde;Moldova
+148;2022.47116;Cabo Verde;Aruba
+149;2022.5670499999999;Cabo Verde;Andorra
+150;2022.4583599999999;Cabo Verde;Peru
+151;2022.55062;Peru;Bolivia
+152;2022.69582;Cabo Verde;Andorra
+153;2022.5807499999999;Cabo Verde;Saint Lucia
+154;2022.33882;Cabo Verde;Switzerland
+155;2022.4574599999999;Switzerland;Costa Rica
+156;2022.59171;Switzerland;Brazil
+157;2022.60266;Switzerland;Senegal
+158;2022.3741;Cabo Verde;Czech Republic
+159;2022.48759;Czech Republic;Sint Maarten
+160;2022.37582;Cabo Verde;Serbia
+161;2022.73965;Serbia;Belgium
+162;2022.5095099999999;Cabo Verde;Japan
+163;2022.6876;Cabo Verde;Hong Kong
+164;2022.54512;Cabo Verde;Gambia
+165;2022.49581;Cabo Verde;USA
+166;2022.4602;Cabo Verde;Hungary
+167;2022.6054;Cabo Verde;Montenegro
+168;2022.5286899999999;Cabo Verde;Ireland
+169;2022.4739;Cabo Verde;Bermuda
+170;2022.7560799999999;Cabo Verde;Luxembourg
+171;2022.53416;Cabo Verde;Hungary
+172;2022.7177199999999;Cabo Verde;Guadeloupe
+173;2022.48211;Cabo Verde;Sweden
+174;2022.49307;Cabo Verde;Kosovo
+175;2022.5506;Cabo Verde;Mexico
+176;2022.36393;Cabo Verde;Andorra
+177;2022.61909;Andorra;Israel
+178;2022.51224;Andorra;South Korea
+179;2022.70402;Andorra;Costa Rica
+180;2022.5177099999999;Andorra;Ukraine
+181;2022.5177099999999;Andorra;Moldova
+182;2022.72044;Andorra;Ireland
+183;2022.6081199999999;Andorra;Jamaica
+184;2022.46839;Andorra;Lebanon
+185;2022.54236;Andorra;Iceland
+186;2022.47387;Andorra;Chile
+187;2022.69031;Andorra;Bonaire
+188;2022.62456;Andorra;Sweden
+189;2022.56233;Andorra;Cabo Verde
+190;2022.69853;Cabo Verde;Chile
+191;2022.76154;Cabo Verde;Germany
+192;2022.62456;Andorra;Ecuador
+193;2022.70401;Andorra;Angola
+194;2022.44288;Andorra;Finland
+195;2022.56702;Finland;Romania
+196;2022.5481399999999;Finland;Slovenia
+197;2022.58073;Slovenia;Netherlands
+198;2022.54785;Finland;Ireland
+199;2022.6821;Finland;Costa Rica
+200;2022.49579;Finland;Liechtenstein
+201;2022.49853;Finland;Portugal
+202;2022.53078;Portugal;Spain
+203;2022.56429;Spain;Liechtenstein
+204;2022.48759;South Africa;Belize
+205;2022.67115;South Africa;Finland
+206;2022.4903299999999;South Africa;Russia
+207;2022.6136199999999;South Africa;Bonaire
+208;2022.4739;South Africa;United Kingdom
+209;2022.6739;South Africa;Ghana
+210;2022.42732;South Africa;Costa Rica
+211;2022.50677;South Africa;Bosnia and Herzegovina
+212;2022.36204;South Africa;Saint Lucia
+213;2022.4437599999999;Saint Lucia;Iceland
+214;2022.46293;South Africa;Mozambique
+215;2022.31928;South Africa;Lesotho
+216;2022.42731;Lesotho;South Korea
+217;2022.69307;Lesotho;USA
+218;2022.73142;Lesotho;Iceland
+219;2022.46161;Lesotho;Sint Maarten
+220;2022.5203099999999;Sint Maarten;Finland
+221;2022.68759;Finland;Djibouti
+222;2022.54512;South Africa;Qatar
+223;2022.54786;South Africa;Austria
+224;2022.34788;South Africa;Eswatini
+225;2022.68211;Eswatini;Ecuador
+226;2022.57526;Eswatini;Cook Islands
+227;2022.44882;Eswatini;Paraguay
+228;2022.75882;Paraguay;Argentina
+229;2022.50677;South Africa;Bermuda
+230;2022.63005;South Africa;Lesotho
+231;2022.54786;South Africa;Zambia
+232;2022.38294;South Africa;Mozambique
+233;2022.50677;Mozambique;Cook Islands
+234;2022.65197;Mozambique;Chile
+235;2022.75882;Mozambique;Russia
+236;2022.74239;Mozambique;Norway
+237;2022.25025;South Africa;Bangladesh
+238;2022.3669399999999;Bangladesh;Saint Martin
+239;2022.56978;Saint Martin;Morocco
+240;2022.6054;Saint Martin;Austria
+241;2022.48211;Bangladesh;Trinidad and Tobago
+242;2022.4903299999999;Bangladesh;New Zealand
+243;2022.63827;Bangladesh;Chile
+244;2022.47389;Bangladesh;China
+245;2022.55608;China;Vanuatu
+246;2022.45198;South Africa;Paraguay
+247;2022.5478699999999;South Africa;Russia
+248;2022.6054;South Africa;Ireland
+249;2022.50403;South Africa;Bosnia and Herzegovina
+250;2022.74238;South Africa;Kenya
+251;2022.58348;South Africa;Slovakia
+252;2022.28102;South Africa;Botswana
+253;2022.41636;South Africa;Zimbabwe
+254;2022.72047;South Africa;North Macedonia
+255;2022.39503;South Africa;Italy
+256;2022.69033;Italy;Romania
+257;2022.3528099999999;South Africa;Lesotho
+258;2022.46842;Lesotho;Malawi
+259;2022.74239;Lesotho;Jordan
+260;2022.4191;South Africa;Botswana
+261;2022.38167;South Africa;Gabon
+262;2022.37411;South Africa;Australia
+263;2022.69855;Australia;USA
+264;2022.48908;Australia;Netherlands
+265;2022.6327899999999;Netherlands;Poland
+266;2022.69855;Netherlands;Guadeloupe
+267;2022.36422;South Africa;Mozambique
+268;2022.21625;South Africa;Paraguay
+269;2022.6465;Paraguay;Czech Republic
+270;2022.40061;Paraguay;Mauritius
+271;2022.5095099999999;Mauritius;Sri Lanka
+272;2022.60266;Sri Lanka;Andorra
+273;2022.73143;Paraguay;South Africa
+274;2022.62458;Paraguay;Guatemala
+275;2022.6903399999999;Paraguay;Jamaica
+276;2022.37177;Paraguay;Panama
+277;2022.67937;Panama;Guatemala
+278;2022.4574599999999;Paraguay;Ghana
+279;2022.4288999999999;Paraguay;United Kingdom
+280;2022.58896;United Kingdom;Croatia
+281;2022.61601;United Kingdom;Micronesia
+282;2022.7506;Paraguay;Argentina
+283;2022.6985399999999;Paraguay;Uruguay
+284;2022.3803599999999;Paraguay;Venezuela
+285;2022.76155;Venezuela;Denmark
+286;2022.64923;Paraguay;Uruguay
+287;2022.47389;Paraguay;Argentina
+288;2022.47389;Paraguay;Iran
+289;2022.48485;Iran;Algeria
+290;2022.48485;Paraguay;Costa Rica
+291;2022.44276;Paraguay;Guatemala
+292;2022.60813;Guatemala;Togo
+293;2022.58622;Guatemala;Tunisia
+294;2022.7232;Paraguay;Guatemala
+295;2022.6656699999999;Paraguay;Costa Rica
+296;2022.65197;Paraguay;El Salvador
+297;2022.578;Paraguay;Mauritius
+298;2022.5095099999999;Paraguay;Peru
+299;2022.69855;Paraguay;Canada
+300;2022.61088;Paraguay;El Salvador
+301;2022.47663;Paraguay;Argentina
+302;2022.27548;South Africa;Nigeria
+303;2022.49307;Nigeria;Thailand
+304;2022.4602;Nigeria;South Korea
+305;2022.5286899999999;Nigeria;Taiwan
+306;2022.5095099999999;Nigeria;Ukraine
+307;2022.58348;Nigeria;Djibouti
+308;2022.5286899999999;Nigeria;Germany
+309;2022.55609;Nigeria;Mongolia
+310;2022.53691;Nigeria;Bolivia
+311;2022.41735;Nigeria;Guadeloupe
+312;2022.7040299999999;Guadeloupe;Andorra
+313;2022.3493799999999;Nigeria;Georgia
+314;2022.55334;Nigeria;USA
+315;2022.51499;Nigeria;Slovakia
+316;2022.62732;Nigeria;Dominican Republic
+317;2022.42028;Nigeria;Netherlands
+318;2022.58349;Netherlands;Slovenia
+319;2022.60266;Nigeria;Denmark
+320;2022.66841;Nigeria;Cameroon
+321;2022.55609;Nigeria;Ghana
+322;2022.49664;Nigeria;Togo
+323;2022.70677;Togo;South Africa
+324;2022.63828;Togo;Ghana
+325;2022.72046;Togo;Central African Republic
+326;2022.66604;Togo;Djibouti
+327;2022.70702;Nigeria;Papua New Guinea
+328;2022.52595;Nigeria;Zimbabwe
+329;2022.69855;Nigeria;Seychelles
+330;2022.7369099999999;Nigeria;USA
+331;2022.76157;Nigeria;Canada
+332;2022.7013;Nigeria;Brazil
+333;2022.6739;Nigeria;New Zealand
+334;2022.29242;Nigeria;Bulgaria
+335;2022.53417;Bulgaria;Montenegro
+336;2022.64102;Bulgaria;Kosovo
+337;2022.47663;Bulgaria;Poland
+338;2022.43006;Bulgaria;Nigeria
+339;2022.54239;Bulgaria;Austria
+340;2022.44375;Bulgaria;Montenegro
+341;2022.45197;Bulgaria;Estonia
+342;2022.6848499999999;Estonia;Croatia
+343;2022.63553;Estonia;Bulgaria
+344;2022.52593;Bulgaria;Uganda
+345;2022.63005;Bulgaria;USA
+346;2022.69032;Bulgaria;Poland
+347;2022.40458;Bulgaria;Kosovo
+348;2022.47936;Kosovo;Croatia
+349;2022.5643;Kosovo;Greece
+350;2022.49854;Kosovo;Estonia
+351;2022.63553;Kosovo;Denmark
+352;2022.76156;Kosovo;Bulgaria
+353;2022.52868;Kosovo;Sweden
+354;2022.7095;Kosovo;Ghana
+355;2022.5615599999999;Kosovo;Thailand
+356;2022.62457;Kosovo;Germany
+357;2022.62457;Kosovo;Cyprus
+358;2022.63005;Kosovo;Germany
+359;2022.13804;South Africa;Belgium
+360;2022.4396199999999;Belgium;Russia
+361;2022.69307;Russia;Taiwan
+362;2022.42185;Belgium;Seychelles
+363;2022.44102;Belgium;Hungary
+364;2022.49034;Belgium;Italy
+365;2022.4328;Belgium;Romania
+366;2022.6903399999999;Belgium;Greece
+367;2022.52596;Belgium;Albania
+368;2022.67938;Belgium;Australia
+369;2022.64924;Belgium;Peru
+370;2022.5807499999999;Belgium;Chile
+371;2022.54513;Belgium;Brazil
+372;2022.39157;Belgium;Brazil
+373;2022.68212;Brazil;Cambodia
+374;2022.50678;Belgium;Cabo Verde
+375;2022.6711599999999;Belgium;Morocco
+376;2022.51774;Belgium;Moldova
+377;2022.5013;Belgium;Marshall Islands
+378;2022.37745;Belgium;Mexico
+379;2022.65473;Mexico;Bonaire
+380;2022.64377;Mexico;Jamaica
+381;2022.43007;Belgium;Latvia
+382;2022.42185;Belgium;China
+383;2022.50678;Belgium;Hungary
+384;2022.72596;Belgium;Spain
+385;2022.4124299999999;Belgium;Bermuda
+386;2022.50678;Bermuda;United Kingdom
+387;2022.58898;Bermuda;Luxembourg
+388;2022.57528;Bermuda;Cyprus
+389;2022.29971;Belgium;Panama
+390;2022.4958199999999;Panama;Finland
+391;2022.64102;Panama;Algeria
+392;2022.52595;Panama;Togo
+393;2022.62458;Panama;El Salvador
+394;2022.5287;Belgium;Haiti
+395;2022.58897;Belgium;Costa Rica
+396;2022.48486;Belgium;Poland
+397;2022.41061;Belgium;Ecuador
+398;2022.35088;Belgium;Bosnia and Herzegovina
+399;2022.45479;Bosnia and Herzegovina;Saint Lucia
+400;2022.57527;Saint Lucia;Chile
+401;2022.55061;Bosnia and Herzegovina;Cameroon
+402;2022.32303;Belgium;Qatar
+403;2022.51226;Qatar;Kosovo
+404;2022.5013;Qatar;Tunisia
+405;2022.59477;Belgium;Aruba
+406;2022.39915;Belgium;Canada
+407;2022.6711599999999;Canada;Moldova
+408;2022.50184;Canada;Croatia
+409;2022.7615799999999;Croatia;Czech Republic
+410;2022.76157;Croatia;North Macedonia
+411;2022.51774;Belgium;Mexico
+412;2022.56432;Belgium;Trinidad and Tobago
+413;2022.48212;Belgium;Portugal
+414;2022.35662;Belgium;Gambia
+415;2022.64103;Gambia;Angola
+416;2022.6876;Gambia;Denmark
+417;2022.58897;Gambia;Bolivia
+418;2022.4602;Belgium;Serbia
+419;2022.60815;Belgium;Italy
+420;2022.4958199999999;Belgium;Ukraine
+421;2022.56157;Belgium;Sint Maarten
+422;2022.64924;Belgium;The Bahamas
+423;2022.5478699999999;Belgium;Argentina
+424;2022.39562;Belgium;Spain
+425;2022.60814;Spain;Montenegro
+426;2022.3473199999999;Belgium;Austria
+427;2022.6465;Austria;Norway
+428;2022.64924;Austria;Philippines
+429;2022.50952;Austria;North Macedonia
+430;2022.74788;North Macedonia;Qatar
+431;2022.58622;Austria;Colombia
+432;2022.2683299999999;Belgium;Ecuador
+433;2022.58349;Ecuador;Netherlands
+434;2022.43281;Ecuador;Sint Maarten
+435;2022.43007;Ecuador;Portugal
+436;2022.48486;Ecuador;Greece
+437;2022.4739;Ecuador;Peru
+438;2022.68759;Ecuador;Barbados
+439;2022.35337;Ecuador;Slovenia
+440;2022.68212;Slovenia;Iceland
+441;2022.44068;Slovenia;Spain
+442;2022.61089;Spain;Djibouti
+443;2022.67938;Spain;Belize
+444;2022.55335;Spain;Lebanon
+445;2022.44102;Belgium;Norway
+446;2022.72869;Belgium;Liechtenstein
+447;2022.57253;Belgium;Croatia
+448;2022.46842;Belgium;Sint Maarten
+449;2022.50129;Belgium;Estonia
+450;2022.40914;Belgium;El Salvador
+451;2022.6465;Belgium;Austria
+452;2022.55609;Belgium;Italy
+453;2022.4465;Belgium;Switzerland
+454;2022.4531;Belgium;Luxembourg
+455;2022.73417;Luxembourg;Bonaire
+456;2022.3213799999999;Belgium;Mexico
+457;2022.50403;Mexico;Bermuda
+458;2022.62732;Mexico;Moldova
+459;2022.62732;Mexico;Luxembourg
+460;2022.55882;Mexico;Guatemala
+461;2022.46841;Mexico;Canada
+462;2022.4446;Mexico;Belize
+463;2022.69581;Belize;New Zealand
+464;2022.53021;Belize;Marshall Islands
+465;2022.62458;Marshall Islands;Argentina
+466;2022.41959;Belgium;Austria
+467;2022.62732;Austria;Denmark
+468;2022.76157;Austria;Croatia
+469;2022.7369099999999;Austria;Bermuda
+470;2022.67938;Austria;Bulgaria
+471;2022.59445;Austria;Spain
+472;2022.54159;Austria;Hungary
+473;2022.7560899999999;Hungary;Ukraine
+474;2022.37448;Belgium;Germany
+475;2022.5561;Germany;Finland
+476;2022.73692;Germany;Switzerland
+477;2022.5862399999999;Germany;Canada
+478;2022.48487;Germany;Albania
+479;2022.58349;Belgium;Liechtenstein
+480;2022.36675;Belgium;Peru
+481;2022.52596;Peru;Israel
+482;2022.5341799999999;Peru;Dominican Republic
+483;2022.5287;Peru;Romania
+484;2022.38842;Peru;Chile
+485;2022.64377;Chile;Sweden
+486;2022.6574699999999;Chile;Hong Kong
+487;2022.52819;Chile;Mongolia
+488;2022.54241;Chile;Sri Lanka
+489;2022.56158;Chile;Iceland
+490;2022.5670599999999;Chile;Slovenia
+491;2022.5862399999999;Chile;Bonaire
+492;2022.51774;Chile;China
+493;2022.64376;Chile;Mauritius
+494;2022.6739;Chile;Bonaire
+495;2022.74239;Bonaire;Italy
+496;2022.4876;Belgium;Czech Republic
+497;2022.42824;Belgium;Panama
+498;2022.47116;Belgium;Spain
+499;2022.33931;Belgium;Liechtenstein
+500;2022.53417;Liechtenstein;Czech Republic
+501;2022.32517;Belgium;Spain
+502;2022.62732;Spain;Colombia
+503;2022.71499;Spain;Japan
+504;2022.2508599999999;Belgium;Cyprus
+505;2022.35485;Cyprus;Mexico
+506;2022.52595;Mexico;France
+507;2022.51225;Mexico;Ecuador
+508;2022.63006;Mexico;Belize
+509;2022.35442;Cyprus;Brazil
+510;2022.7369099999999;Brazil;Slovenia
+511;2022.52595;Brazil;Greece
+512;2022.7369099999999;Greece;Belize
+513;2022.52595;Cyprus;Luxembourg
+514;2022.71773;Cyprus;Austria
+515;2022.71773;Cyprus;Ireland
+516;2022.48212;Cyprus;Colombia
+517;2022.48485;Cyprus;Denmark
+518;2022.3751;Cyprus;Estonia
+519;2022.60266;Estonia;Curacao
+520;2022.49536;Cyprus;Hungary
+521;2022.72594;Hungary;Aruba
+522;2022.72047;Cyprus;Hungary
+523;2022.50403;Cyprus;Denmark
+524;2022.52321;Cyprus;United Arab Emirates
+525;2022.64376;Cyprus;Morocco
+526;2022.44923;Cyprus;Czech Republic
+527;2022.6848499999999;Cyprus;Singapore
+528;2022.69306;Cyprus;Serbia
+529;2022.46098;Cyprus;Serbia
+530;2022.61087;Serbia;Spain
+531;2022.6273099999999;Serbia;Estonia
+532;2022.70129;Serbia;Romania
+533;2022.7232099999999;Serbia;Sweden
+534;2022.6581999999999;Serbia;Cambodia
+535;2022.75883;Cambodia;France
+536;2022.64923;Cyprus;United Kingdom
+537;2022.61635;Cyprus;Aruba
+538;2022.40476;Cyprus;France
+539;2022.5643;France;Chile
+540;2022.3439799999999;Cyprus;Romania
+541;2022.51499;Romania;Andorra
+542;2022.5807399999999;Romania;Netherlands
+543;2022.50957;Romania;Sweden
+544;2022.45471;Romania;Curacao
+545;2022.39993;Romania;Finland
+546;2022.46294;Finland;Estonia
+547;2022.51499;Finland;North Macedonia
+548;2022.6465;North Macedonia;Canada
+549;2022.41719;Romania;Kosovo
+550;2022.41561;Romania;Singapore
+551;2022.58348;Singapore;Germany
+552;2022.5917;Romania;Belize
+553;2022.68759;Romania;Argentina
+554;2022.51225;Romania;Bhutan
+555;2022.58061;Romania;Mauritius
+556;2022.75883;Romania;Qatar
+557;2022.56297;Romania;Germany
+558;2022.75883;Germany;Ukraine
+559;2022.42183;Romania;Cabo Verde
+560;2022.38893;Romania;Curacao
+561;2022.4602499999999;Curacao;Saint Martin
+562;2022.64376;Saint Martin;Finland
+563;2022.4382799999998;Curacao;Poland
+564;2022.72868;Curacao;Ecuador
+565;2022.49301;Curacao;Denmark
+566;2022.59169;Denmark;USA
+567;2022.58743;Curacao;China
+568;2022.47663;Curacao;Italy
+569;2022.42822;Curacao;Iceland
+570;2022.49307;Iceland;Croatia
+571;2022.66019;Iceland;Taiwan
+572;2022.68484;Iceland;Slovenia
+573;2022.4711499999999;Iceland;United Kingdom
+574;2022.5369;United Kingdom;Norway
+575;2022.5615599999999;Norway;Israel
+576;2022.57253;South Africa;Togo
+577;2022.1054;South Africa;Eswatini
+578;2022.50677;Eswatini;South Africa
+579;2022.62184;Eswatini;Bahrain
+580;2022.7040299999999;Eswatini;Papua New Guinea
+581;2022.17492;South Africa;Eswatini
+582;2022.56979;Eswatini;Turkey
+583;2022.28573;Eswatini;Mauritius
+584;2022.33874;South Africa;Eswatini
+585;2022.50952;Eswatini;Curacao
+586;2022.68365;Eswatini;Micronesia
+587;2022.62732;South Africa;Cambodia
+588;2022.10663;South Africa;Brazil
+589;2022.60814;Brazil;Greece
+590;2022.62184;Brazil;Serbia
+591;2022.6739;Brazil;Slovakia
+592;2022.6327999999999;Brazil;Turkey
+593;2022.74239;Brazil;Poland
+594;2022.50403;Brazil;Austria
+595;2022.66019;Austria;Serbia
+596;2022.69855;Brazil;Kenya
+597;2022.43553;Brazil;New Zealand
+598;2022.57252;Brazil;China
+599;2022.39109;Brazil;Austria
+600;2022.41636;Austria;USA
+601;2022.6769;Austria;Iran
+602;2022.72594;Iran;Liechtenstein
+603;2022.67663;Brazil;Greece
+604;2022.49307;Brazil;Montenegro
+605;2022.50676;Brazil;Ghana
+606;2022.53416;Brazil;Venezuela
+607;2022.52594;Brazil;Moldova
+608;2022.72046;Brazil;Uruguay
+609;2022.6985399999999;Brazil;Saint Lucia
+610;2022.41898;Brazil;Latvia
+611;2022.49062;Latvia;Barbados
+612;2022.49581;Brazil;New Zealand
+613;2022.63006;Brazil;Angola
+614;2022.38932;Brazil;Ghana
+615;2022.49581;Ghana;Liechtenstein
+616;2022.41762;Ghana;South Korea
+617;2022.53143;South Korea;Israel
+618;2022.70677;South Korea;Denmark
+619;2022.45435;South Korea;Bulgaria
+620;2022.7369099999999;Bulgaria;Qatar
+621;2022.57253;Bulgaria;Jamaica
+622;2022.58623;Bulgaria;Russia
+623;2022.6602;Bulgaria;Guinea
+624;2022.5506;Brazil;Saint Lucia
+625;2022.43553;Brazil;Bulgaria
+626;2022.68759;Brazil;Spain
+627;2022.57526;Brazil;Norway
+628;2022.40569;Brazil;Palau
+629;2022.70677;Palau;Mexico
+630;2022.52595;Palau;Taiwan
+631;2022.38542;Brazil;New Zealand
+632;2022.52321;New Zealand;Hong Kong
+633;2022.5286899999999;New Zealand;Grenada
+634;2022.62458;New Zealand;Latvia
+635;2022.67115;New Zealand;The Bahamas
+636;2022.60814;New Zealand;Tonga
+637;2022.66293;New Zealand;Canada
+638;2022.7232;New Zealand;Vietnam
+639;2022.60265;New Zealand;France
+640;2022.7040299999999;New Zealand;The Bahamas
+641;2022.70402;New Zealand;Taiwan
+642;2022.6793599999999;New Zealand;Curacao
+643;2022.74237;Curacao;Sint Maarten
+644;2022.4903299999999;Brazil;Argentina
+645;2022.60541;Brazil;Senegal
+646;2022.66294;Brazil;Mexico
+647;2022.60541;Brazil;Romania
+648;2022.68486;Brazil;Guinea
+649;2022.54514;Brazil;Trinidad and Tobago
+650;2022.5341799999999;Brazil;Georgia
+651;2022.52048;Brazil;Venezuela
+652;2022.50677;Brazil;Botswana
+653;2022.38844;Brazil;Uganda
+654;2022.62459;Uganda;Kenya
+655;2022.2278099999999;Brazil;Chile
+656;2022.3338999999999;Chile;Iceland
+657;2022.70678;Iceland;Spain
+658;2022.38203;Chile;Cameroon
+659;2022.63554;Cameroon;Hong Kong
+660;2022.38656;Chile;Colombia
+661;2022.60266;Colombia;Costa Rica
+662;2022.33916;Chile;Guinea
+663;2022.75061;Guinea;Andorra
+664;2022.73144;Guinea;United Kingdom
+665;2022.55062;Guinea;Slovenia
+666;2022.73417;Guinea;Ireland
+667;2022.61363;Guinea;Trinidad and Tobago
+668;2022.68213;Guinea;Venezuela
+669;2022.74788;Guinea;Curacao
+670;2022.5972;Guinea;Gambia
+671;2022.50866;Guinea;France
+672;2022.75884;France;Sint Maarten
+673;2022.52063;Guinea;Portugal
+674;2022.57134;Portugal;Andorra
+675;2022.73418;Andorra;Bermuda
+676;2022.45482;Guinea;Denmark
+677;2022.7013;Denmark;Belgium
+678;2022.54464;Denmark;Bosnia and Herzegovina
+679;2022.66021;Bosnia and Herzegovina;France
+680;2022.75336;Denmark;Iceland
+681;2022.75884;Denmark;Germany
+682;2022.7615799999999;Denmark;Belgium
+683;2022.54509;Denmark;Russia
+684;2022.76157;Russia;Poland
+685;2022.69582;Russia;Portugal
+686;2022.6739;Russia;Gambia
+687;2022.7561;Chile;United Kingdom
+688;2022.40358;Chile;Brunei
+689;2022.47116;Chile;Mexico
+690;2022.4153099999999;Chile;Thailand
+691;2022.56978;Thailand;Papua New Guinea
+692;2022.52321;Thailand;India
+693;2022.67938;Chile;Brazil
+694;2022.5095099999999;Chile;Ireland
+695;2022.58896;Ireland;United Kingdom
+696;2022.3426299999999;Chile;Slovakia
+697;2022.43497;Slovakia;Trinidad and Tobago
+698;2022.4711499999999;Slovakia;Sweden
+699;2022.75882;Slovakia;Mexico
+700;2022.51499;Slovakia;Uruguay
+701;2022.5615599999999;Slovakia;Tonga
+702;2022.48759;Slovakia;Sri Lanka
+703;2022.5501299999999;Slovakia;Austria
+704;2022.7369099999999;Austria;Serbia
+705;2022.6327999999999;Austria;Croatia
+706;2022.44759;Slovakia;Denmark
+707;2022.60267;Denmark;Czech Republic
+708;2022.7040399999998;Denmark;Estonia
+709;2022.61363;Denmark;United Kingdom
+710;2022.55168;Denmark;Iceland
+711;2022.72596;Iceland;Aruba
+712;2022.64103;Iceland;Haiti
+713;2022.70129;Slovakia;Czech Republic
+714;2022.40841;Slovakia;Australia
+715;2022.53964;Australia;Canada
+716;2022.51225;Slovakia;Brazil
+717;2022.51196;Slovakia;Australia
+718;2022.66019;Slovakia;Uruguay
+719;2022.53416;Slovakia;Spain
+720;2022.43514;Slovakia;Cambodia
+721;2022.44762;Cambodia;Bolivia
+722;2022.55333;Bolivia;Sint Maarten
+723;2022.48023;Bolivia;Iceland
+724;2022.65196;Iceland;Finland
+725;2022.6464799999999;Iceland;New Zealand
+726;2022.6985399999999;Iceland;Mauritius
+727;2022.56222;Iceland;Lebanon
+728;2022.73964;Lebanon;Mexico
+729;2022.74511;Lebanon;Bermuda
+730;2022.64922;Lebanon;Guinea
+731;2022.4766399999999;Brazil;Turkey
+732;2022.3613699999999;Brazil;Latvia
+733;2022.67937;Latvia;Turkey
+734;2022.62951;Brazil;Mongolia
+735;2022.31665;Brazil;Democratic Republic of the Congo
+736;2022.56431;Democratic Republic of the Congo;Togo
+737;2022.53965;Democratic Republic of the Congo;Spain
+738;2022.64924;Democratic Republic of the Congo;Kenya
+739;2022.62184;Democratic Republic of the Congo;Solomon Islands
+740;2022.66842;Brazil;Lebanon
+741;2022.49856;Brazil;Palau
+742;2022.36194;Brazil;Jamaica
+743;2022.66842;Jamaica;Colombia
+744;2022.3464;Brazil;USA
+745;2022.63006;USA;Dominican Republic
+746;2022.7232099999999;USA;Taiwan
+747;2022.5944399999998;USA;Trinidad and Tobago
+748;2022.6054;USA;Venezuela
+749;2022.55608;USA;Trinidad and Tobago
+750;2022.4903299999999;Brazil;China
+751;2022.27678;Brazil;Andorra
+752;2022.4903299999999;Andorra;Ireland
+753;2022.34441;Andorra;Japan
+754;2022.46978;Japan;Sweden
+755;2022.51499;Sweden;Nepal
+756;2022.51499;Andorra;Senegal
+757;2022.48759;Andorra;Jamaica
+758;2022.42732;Andorra;United Kingdom
+759;2022.49307;Andorra;Spain
+760;2022.36963;Andorra;Barbados
+761;2022.58896;Barbados;Bolivia
+762;2022.3290299999999;Brazil;Singapore
+763;2022.72595;Singapore;Czech Republic
+764;2022.30509;Brazil;Palau
+765;2022.3975699999999;Palau;Poland
+766;2022.62184;Poland;Bahrain
+767;2022.44574;Palau;Guinea
+768;2022.48211;Palau;South Korea
+769;2022.65471;Palau;China
+770;2022.25277;Brazil;Kenya
+771;2022.67937;Kenya;Netherlands
+772;2022.44102;Kenya;Hong Kong
+773;2022.4328;Kenya;Mozambique
+774;2022.4554699999999;Kenya;Bahrain
+775;2022.44101;Kenya;Iraq
+776;2022.61088;Kenya;Saint Lucia
+777;2022.7560799999999;Kenya;Bhutan
+778;2022.56157;Kenya;Kuwait
+779;2022.49307;Kenya;Egypt
+780;2022.52868;Kenya;Canada
+781;2022.70951;Kenya;Uganda
+782;2022.70129;Kenya;Laos
+783;2022.58349;Kenya;Cameroon
+784;2022.48379;Kenya;Sri Lanka
+785;2022.61089;Sri Lanka;Senegal
+786;2022.4394399999999;Kenya;Democratic Republic of the Congo
+787;2022.6711599999999;Democratic Republic of the Congo;Cyprus
+788;2022.59445;Democratic Republic of the Congo;Lebanon
+789;2022.32172;Brazil;Ethiopia
+790;2022.66568;Ethiopia;Laos
+791;2022.23239;Brazil;Uganda
+792;2022.32924;Uganda;Argentina
+793;2022.4361099999999;Argentina;Cameroon
+794;2022.37927;Uganda;Seychelles
+795;2022.45197;Uganda;Cyprus
+796;2022.5478699999999;Uganda;Latvia
+797;2022.5643;Uganda;Luxembourg
+798;2022.5506;Uganda;Angola
+799;2022.58622;Uganda;Qatar
+800;2022.7232099999999;Qatar;Malaysia
+801;2022.42159;Uganda;Kuwait
+802;2022.6273099999999;Kuwait;South Korea
+803;2022.5463;Kuwait;South Africa
+804;2022.68758;South Africa;India
+805;2022.42452;Uganda;Kiribati
+806;2022.4876;Kiribati;Singapore
+807;2022.51226;Kiribati;Australia
+808;2022.6903399999999;Kiribati;Solomon Islands
+809;2022.64102;Kiribati;Vanuatu
+810;2022.6739;Kiribati;Vanuatu
+811;2022.64103;Kiribati;Vanuatu
+812;2022.20056;Brazil;India
+813;2022.30941;India;South Africa
+814;2022.44102;South Africa;Australia
+815;2022.56979;Australia;India
+816;2022.5286899999999;India;Singapore
+817;2022.2582499999999;India;Israel
+818;2022.7040399999998;Israel;Egypt
+819;2022.4437599999999;Israel;Serbia
+820;2022.60541;Israel;Greece
+821;2022.34397;Israel;Slovakia
+822;2022.60267;Israel;Slovakia
+823;2022.39744;Israel;Saudi Arabia
+824;2022.46206;Saudi Arabia;South Korea
+825;2022.66294;South Korea;Taiwan
+826;2022.46568;Saudi Arabia;Brunei
+827;2022.3158899999999;Israel;Djibouti
+828;2022.4903299999999;Djibouti;Saint Lucia
+829;2022.42714;Djibouti;Israel
+830;2022.52595;Israel;Japan
+831;2022.64376;Israel;Japan
+832;2022.58683;Israel;Solomon Islands
+833;2022.6876;Djibouti;Slovakia
+834;2022.58622;Djibouti;Venezuela
+835;2022.58348;Djibouti;France
+836;2022.61088;Djibouti;Chile
+837;2022.6191;Djibouti;Georgia
+838;2022.4958199999999;Djibouti;Ukraine
+839;2022.62732;Djibouti;Belgium
+840;2022.64102;Djibouti;Portugal
+841;2022.55609;Djibouti;Finland
+842;2022.7560899999999;Finland;Liechtenstein
+843;2022.67938;Djibouti;Jamaica
+844;2022.64102;Djibouti;Moldova
+845;2022.22672;Brazil;Dominican Republic
+846;2022.65746;Dominican Republic;Australia
+847;2022.55335;Dominican Republic;Italy
+848;2022.32964;Dominican Republic;Moldova
+849;2022.36993;Dominican Republic;Australia
+850;2022.5287;Australia;New Zealand
+851;2022.51226;Australia;Japan
+852;2022.57527;Australia;Cook Islands
+853;2022.58623;Australia;Singapore
+854;2022.7560899999999;Singapore;Malaysia
+855;2022.61088;Dominican Republic;Georgia
+856;2022.33596;Dominican Republic;Georgia
+857;2022.66842;Georgia;Cameroon
+858;2022.58897;Georgia;Bermuda
+859;2022.40181;Georgia;Barbados
+860;2022.57527;Barbados;Finland
+861;2022.37366;Dominican Republic;Bonaire
+862;2022.58349;Bonaire;Hungary
+863;2022.73692;Bonaire;The Bahamas
+864;2022.55883;Dominican Republic;Iran
+865;2022.57252;Dominican Republic;Turkey
+866;2022.56712;Dominican Republic;Nepal
+867;2022.68211;Nepal;Uganda
+868;2022.50128;Dominican Republic;USA
+869;2022.72046;Dominican Republic;Chile
+870;2022.49541;Dominican Republic;Nepal
+871;2022.6136199999999;Nepal;Grenada
+872;2022.44814;Dominican Republic;Slovenia
+873;2022.7040299999999;Slovenia;Italy
+874;2022.6848499999999;Slovenia;Saint Lucia
+875;2022.53691;Slovenia;Poland
+876;2022.5423799999999;Dominican Republic;Tonga
+877;2022.5615599999999;Dominican Republic;Hong Kong
+878;2022.42355;Dominican Republic;Grenada
+879;2022.4412499999999;Grenada;Libya
+880;2022.60266;Libya;USA
+881;2022.55608;Libya;Kiribati
+882;2022.6848499999999;Libya;Croatia
+883;2022.69307;Libya;Japan
+884;2022.46842;South Africa;Norway
+885;2022.33787;South Africa;Albania
+886;2022.23842;South Africa;Hong Kong
+887;2022.52595;Hong Kong;Serbia
+888;2022.57527;Hong Kong;Costa Rica
+889;2022.30629;Hong Kong;Sint Maarten
+890;2022.6136199999999;Sint Maarten;Venezuela
+891;2022.70129;Sint Maarten;Panama
+892;2022.6848499999999;Sint Maarten;Colombia
+893;2022.6958;Sint Maarten;Argentina
+894;2022.66566;Sint Maarten;Iceland
+895;2022.28978;South Africa;India
+896;2022.48485;India;Oman
+897;2022.47389;India;Cyprus
+898;2022.46019;India;Taiwan
+899;2022.51499;India;Brunei
+900;2022.56431;India;Netherlands
+901;2022.6602;South Africa;Greece
+902;2022.20549;South Africa;New Zealand
+903;2022.31114;New Zealand;Panama
+904;2022.61088;Panama;Norway
+905;2022.5178799999999;New Zealand;Nicaragua
+906;2022.6848499999999;Nicaragua;Costa Rica
+907;2022.34985;New Zealand;Turkey
+908;2022.7560799999999;Turkey;Uganda
+909;2022.55883;New Zealand;Estonia
+910;2022.62732;New Zealand;Poland
+911;2022.58349;New Zealand;Portugal
+912;2022.42447;New Zealand;Sweden
+913;2022.5286899999999;New Zealand;Australia
+914;2022.54239;New Zealand;Tonga
+915;2022.72047;New Zealand;Australia
+916;2022.6739;New Zealand;Gambia
+917;2022.4097299999999;New Zealand;Panama
+918;2022.68212;Panama;Venezuela
+919;2022.54513;Panama;France
+920;2022.68761;Panama;Portugal
+921;2022.5862399999999;Panama;Bosnia and Herzegovina
+922;2022.50953;Panama;Morocco
+923;2022.37398;South Africa;Peru
+924;2022.7095199999999;Peru;Angola
+925;2022.1983;South Africa;Republic of the Congo
+926;2022.39918;Republic of the Congo;Colombia
+927;2022.6136199999999;Colombia;Peru
+928;2022.4870799999999;Colombia;Costa Rica
+929;2022.76157;Costa Rica;Austria
+930;2022.5944399999998;Costa Rica;Thailand
+931;2022.34162;Republic of the Congo;Laos
+932;2022.67117;Laos;Thailand
+933;2022.63555;Laos;Seychelles
+934;2022.64103;Laos;Kosovo
+935;2022.74514;Laos;Bosnia and Herzegovina
+936;2022.3104;Republic of the Congo;Guadeloupe
+937;2022.4602;Guadeloupe;Moldova
+938;2022.4669;Guadeloupe;Saint Martin
+939;2022.40182;Guadeloupe;Bosnia and Herzegovina
+940;2022.57527;Bosnia and Herzegovina;Cameroon
+941;2022.43209;Guadeloupe;France
+942;2022.50678;France;Saint Martin
+943;2022.55062;Saint Martin;Sint Maarten
+944;2022.57801;Guadeloupe;Andorra
+945;2022.5643;Guadeloupe;Saint Martin
+946;2022.48484;Guadeloupe;Saint Martin
+947;2022.60813;Saint Martin;Sint Maarten
+948;2022.14088;South Africa;Saudi Arabia
+949;2022.68211;Saudi Arabia;Togo
+950;2022.49581;Saudi Arabia;Indonesia
+951;2022.69581;Saudi Arabia;USA
+952;2022.47937;Saudi Arabia;Vietnam
+953;2022.57526;Saudi Arabia;Myanmar
+954;2022.65745;Saudi Arabia;Serbia
+955;2022.6327999999999;Saudi Arabia;South Korea
+956;2022.59171;Saudi Arabia;Malaysia
+957;2022.72047;Saudi Arabia;Croatia
+958;2022.69855;Saudi Arabia;Turkey
+959;2022.23432;Saudi Arabia;Syria
+960;2022.32689;Saudi Arabia;Pakistan
+961;2022.5095099999999;Pakistan;Switzerland
+962;2022.5999199999999;Pakistan;Australia
+963;2022.70677;Saudi Arabia;Cyprus
+964;2022.36367;Saudi Arabia;Egypt
+965;2022.71225;Saudi Arabia;South Korea
+966;2022.41056;Saudi Arabia;Iraq
+967;2022.4876;Saudi Arabia;Oman
+968;2022.3201099999999;Saudi Arabia;Kazakhstan
+969;2022.43753;Kazakhstan;Ukraine
+970;2022.7232099999999;Ukraine;Russia
+971;2022.49581;Saudi Arabia;Cote d'
+972;2022.36403;Saudi Arabia;Guinea
+973;2022.70139;Guinea;Ghana
+974;2022.63554;Guinea;Ghana
+975;2022.72595;Guinea;United Kingdom
+976;2022.46265;Guinea;Cote d'
+977;2022.6876;Saudi Arabia;Liechtenstein
+978;2022.44452;Saudi Arabia;Australia
+979;2022.60815;Australia;South Africa
+980;2022.68212;Saudi Arabia;Belgium
+981;2022.43063;Saudi Arabia;Philippines
+982;2022.46568;Philippines;Palau
+983;2022.27404;Saudi Arabia;Bahrain
+984;2022.53143;Saudi Arabia;Ghana
+985;2022.70951;Saudi Arabia;Finland
+986;2022.67389;Saudi Arabia;Germany
+987;2022.5944399999998;Saudi Arabia;Morocco
+988;2022.4437599999999;Saudi Arabia;Qatar
+989;2022.49581;Saudi Arabia;Algeria
+990;2022.4958;Saudi Arabia;Lebanon
+991;2022.70402;Saudi Arabia;Iran
+992;2022.75882;Saudi Arabia;Estonia
+993;2022.5643;Saudi Arabia;Algeria
+994;2022.5807399999999;Saudi Arabia;Papua New Guinea
+995;2022.29669;Saudi Arabia;Malawi
+996;2022.7095;Malawi;Iran
+997;2022.36561;Saudi Arabia;Indonesia
+998;2022.43279;Indonesia;Ecuador
+999;2022.641;Saudi Arabia;Indonesia
+1000;2022.6464799999999;Saudi Arabia;Djibouti
+1001;2022.72319;Saudi Arabia;Netherlands
+1002;2022.71532;Saudi Arabia;Ukraine
+1003;2022.52593;Saudi Arabia;Malaysia
+1004;2022.52866;Saudi Arabia;Nepal
+1005;2022.56702;Saudi Arabia;Morocco
+1006;2022.5505799999999;Saudi Arabia;Algeria
+1007;2022.61086;Saudi Arabia;Nepal
+1008;2022.53141;Saudi Arabia;Egypt
+1009;2022.5999;Saudi Arabia;Bahrain
+1010;2022.73962;Saudi Arabia;Tunisia
+1011;2022.53962;Saudi Arabia;Nigeria
+1012;2022.61908;Saudi Arabia;Iceland
+1013;2022.34784;Saudi Arabia;India
+1014;2022.66291;India;Japan
+1015;2022.504;India;Kuwait
+1016;2022.6409899999999;Saudi Arabia;Seychelles
+1017;2022.56428;Saudi Arabia;Germany
+1018;2022.49305;Saudi Arabia;Bahrain
+1019;2022.50949;Saudi Arabia;Turkey
+1020;2022.61634;Saudi Arabia;Indonesia
+1021;2022.71771;Saudi Arabia;Dominican Republic
+1022;2022.42892;Saudi Arabia;Iran
+1023;2022.36925;Saudi Arabia;Montenegro
+1024;2022.54511;Saudi Arabia;Uzbekistan
+1025;2022.48758;Saudi Arabia;Tunisia
+1026;2022.34157;Saudi Arabia;Egypt
+1027;2022.47921;Egypt;Uzbekistan
+1028;2022.60538;Uzbekistan;Lebanon
+1029;2022.6136099999999;Egypt;USA
+1030;2022.6958;Egypt;Georgia
+1031;2022.52726;Egypt;Bangladesh
+1032;2022.7506;Bangladesh;Iran
+1033;2022.74512;Bangladesh;Indonesia
+1034;2022.60813;Egypt;Tunisia
+1035;2022.50949;Egypt;Latvia
+1036;2022.62182;Egypt;Uzbekistan
+1037;2022.6464899999999;Saudi Arabia;Netherlands
+1038;2022.29546;Saudi Arabia;Malaysia
+1039;2022.51224;Malaysia;Libya
+1040;2022.43279;Malaysia;Brunei
+1041;2022.52594;Malaysia;Albania
+1042;2022.5328;Malaysia;Pakistan
+1043;2022.70128;Pakistan;United Kingdom
+1044;2022.68484;Pakistan;Algeria
+1045;2022.52594;Malaysia;Libya
+1046;2022.7232;Malaysia;Romania
+1047;2022.7232;Malaysia;Latvia
+1048;2022.59169;Malaysia;Japan
+1049;2022.52868;Malaysia;Qatar
+1050;2022.38544;Malaysia;Singapore
+1051;2022.74786;Singapore;Georgia
+1052;2022.36239;Malaysia;Egypt
+1053;2022.40767;Egypt;Barbados
+1054;2022.6793599999999;Egypt;Mongolia
+1055;2022.6793599999999;Egypt;Mongolia
+1056;2022.72046;Egypt;Bangladesh
+1057;2022.52699;Egypt;Guatemala
+1058;2022.7314099999999;Guatemala;Chile
+1059;2022.75881;Guatemala;Georgia
+1060;2022.71224;Malaysia;Sweden
+1061;2022.60266;Malaysia;France
+1062;2022.58526;Malaysia;Vietnam
+1063;2022.38738;Malaysia;Kosovo
+1064;2022.7232;Kosovo;Netherlands
+1065;2022.5231999999999;Kosovo;Serbia
+1066;2022.34536;Malaysia;Morocco
+1067;2022.74238;Morocco;Seychelles
+1068;2022.4903199999999;Morocco;Slovenia
+1069;2022.60539;Morocco;Bosnia and Herzegovina
+1070;2022.50129;Morocco;Tunisia
+1071;2022.56978;Morocco;Norway
+1072;2022.70129;Morocco;Algeria
+1073;2022.53142;Morocco;Egypt
+1074;2022.48758;Morocco;Cote d'
+1075;2022.7177199999999;Morocco;Greece
+1076;2022.50128;Morocco;Tunisia
+1077;2022.47336;Morocco;South Korea
+1078;2022.52867;South Korea;Vietnam
+1079;2022.48758;Morocco;Russia
+1080;2022.5560699999999;Morocco;Cyprus
+1081;2022.6958;Morocco;Slovakia
+1082;2022.63552;Morocco;Ireland
+1083;2022.70402;Morocco;New Zealand
+1084;2022.49854;Morocco;Belgium
+1085;2022.67662;Morocco;Brunei
+1086;2022.73689;Morocco;Ecuador
+1087;2022.58347;Morocco;Bangladesh
+1088;2022.52413;Morocco;Italy
+1089;2022.54558;Italy;Algeria
+1090;2022.57398;Algeria;Paraguay
+1091;2022.75333;Paraguay;Egypt
+1092;2022.5369;Malaysia;Seychelles
+1093;2022.61909;Malaysia;New Zealand
+1094;2022.67115;Malaysia;Estonia
+1095;2022.72594;Malaysia;Norway
+1096;2022.45471;Malaysia;Indonesia
+1097;2022.55059;Malaysia;Croatia
+1098;2022.46292;Malaysia;Romania
+1099;2022.3662;Malaysia;Philippines
+1100;2022.67937;Philippines;France
+1101;2022.4711399999999;Philippines;Australia
+1102;2022.4903199999999;Philippines;Tunisia
+1103;2022.4264699999999;Philippines;Myanmar
+1104;2022.71771;Myanmar;Russia
+1105;2022.5560699999999;Philippines;China
+1106;2022.49854;Philippines;Indonesia
+1107;2022.69032;Indonesia;Philippines
+1108;2022.65745;Philippines;Iraq
+1109;2022.6136099999999;Philippines;Crimea
+1110;2022.54511;Philippines;South Africa
+1111;2022.75334;Philippines;Kuwait
+1112;2022.60539;Philippines;Hungary
+1113;2022.4142299999999;Malaysia;Croatia
+1114;2022.69853;Croatia;Ukraine
+1115;2022.53415;Malaysia;Pakistan
+1116;2022.58346;Malaysia;Democratic Republic of the Congo
+1117;2022.39547;Malaysia;Mongolia
+1118;2022.5862;Mongolia;Saint Lucia
+1119;2022.47113;Mongolia;Morocco
+1120;2022.61907;Mongolia;Egypt
+1121;2022.55711;Mongolia;The Bahamas
+1122;2022.64921;The Bahamas;Barbados
+1123;2022.5368899999999;Mongolia;Switzerland
+1124;2022.61086;Mongolia;Tunisia
+1125;2022.64374;Mongolia;Georgia
+1126;2022.47936;Malaysia;Montenegro
+1127;2022.6793599999999;Malaysia;France
+1128;2022.73689;Malaysia;Ghana
+1129;2022.55025;Malaysia;Qatar
+1130;2022.6136099999999;Qatar;Singapore
+1131;2022.43634;Malaysia;Germany
+1132;2022.74786;Germany;Saint Lucia
+1133;2022.48758;Malaysia;Austria
+1134;2022.4958;Malaysia;Moldova
+1135;2022.50676;Malaysia;Saint Lucia
+1136;2022.44649;Malaysia;Kuwait
+1137;2022.4241;Malaysia;Uruguay
+1138;2022.4547;Uruguay;Ghana
+1139;2022.4547;Uruguay;Laos
+1140;2022.5554;Laos;Malaysia
+1141;2022.65196;Malaysia;Czech Republic
+1142;2022.49165;Saudi Arabia;Cambodia
+1143;2022.7369099999999;Saudi Arabia;Trinidad and Tobago
+1144;2022.51224;Saudi Arabia;Indonesia
+1145;2022.22428;Saudi Arabia;Cambodia
+1146;2022.38786;Cambodia;Algeria
+1147;2022.64375;Algeria;Kazakhstan
+1148;2022.61635;Algeria;Estonia
+1149;2022.40494;Cambodia;Georgia
+1150;2022.6985399999999;Georgia;Kazakhstan
+1151;2022.48705;Cambodia;Romania
+1152;2022.74511;Romania;North Macedonia
+1153;2022.67388;Romania;Gambia
+1154;2022.53278;Romania;Saint Martin
+1155;2022.69032;Saint Martin;Colombia
+1156;2022.4101;Cambodia;Senegal
+1157;2022.66292;Senegal;Mexico
+1158;2022.6631399999999;Senegal;Bulgaria
+1159;2022.76155;Bulgaria;Germany
+1160;2022.7314099999999;Senegal;Canada
+1161;2022.44434;Cambodia;Thailand
+1162;2022.75882;Thailand;Romania
+1163;2022.54512;Thailand;Slovakia
+1164;2022.7095;Thailand;Lebanon
+1165;2022.54281;Thailand;Israel
+1166;2022.40484;Cambodia;Kazakhstan
+1167;2022.57251;Kazakhstan;Russia
+1168;2022.56703;Kazakhstan;Qatar
+1169;2022.61087;Kazakhstan;Bulgaria
+1170;2022.4736699999999;Kazakhstan;Uzbekistan
+1171;2022.63826;Uzbekistan;Norway
+1172;2022.55663;Kazakhstan;Uzbekistan
+1173;2022.63553;Cambodia;Brunei
+1174;2022.6136;Cambodia;Crimea
+1175;2022.73689;Cambodia;Latvia
+1176;2022.70128;Cambodia;Canada
+1177;2022.46566;Cambodia;Georgia
+1178;2022.44363;Cambodia;Cote d'
+1179;2022.6464899999999;Cote d';Russia
+1180;2022.73416;Cote d';Crimea
+1181;2022.58621;Cambodia;Switzerland
+1182;2022.65197;Cambodia;Finland
+1183;2022.63004;Cambodia;Angola
+1184;2022.67388;Cambodia;Mauritius
+1185;2022.48427;Cambodia;Indonesia
+1186;2022.73964;Indonesia;Austria
+1187;2022.75334;Indonesia;Kuwait
+1188;2022.70677;Indonesia;Singapore
+1189;2022.74239;Indonesia;Luxembourg
+1190;2022.73963;Cambodia;Qatar
+1191;2022.58073;Cambodia;Jordan
+1192;2022.51625;Cambodia;Jordan
+1193;2022.72046;Jordan;Nigeria
+1194;2022.5944299999999;Cambodia;Zimbabwe
+1195;2022.4759999999999;Cambodia;Guinea
+1196;2022.4102;Cambodia;India
+1197;2022.75883;India;Brunei
+1198;2022.54235;India;Seychelles
+1199;2022.32349;Cambodia;Vietnam
+1200;2022.44563;Vietnam;Thailand
+1201;2022.71773;Thailand;Lebanon
+1202;2022.68211;Thailand;Kazakhstan
+1203;2022.4766399999999;Vietnam;Cambodia
+1204;2022.57868;Vietnam;Pakistan
+1205;2022.75883;Pakistan;Saint Lucia
+1206;2022.54239;Vietnam;USA
+1207;2022.75335;Vietnam;Egypt
+1208;2022.74513;Vietnam;Crimea
+1209;2022.6711599999999;Vietnam;Kazakhstan
+1210;2022.7040399999998;Vietnam;Germany
+1211;2022.72869;Vietnam;Russia
+1212;2022.57527;Vietnam;Myanmar
+1213;2022.64377;Vietnam;Thailand
+1214;2022.72048;Vietnam;North Macedonia
+1215;2022.5440899999999;Vietnam;Switzerland
+1216;2022.6876;Switzerland;Uruguay
+1217;2022.73144;Switzerland;Botswana
+1218;2022.5478799999999;Vietnam;Switzerland
+1219;2022.42543;Vietnam;Tunisia
+1220;2022.52596;Tunisia;Czech Republic
+1221;2022.61363;Tunisia;Crimea
+1222;2022.54514;Vietnam;Pakistan
+1223;2022.7615799999999;Vietnam;Indonesia
+1224;2022.64925;Vietnam;Laos
+1225;2022.76157;Vietnam;Estonia
+1226;2022.7615799999999;Vietnam;Mozambique
+1227;2022.62185;Vietnam;Kazakhstan
+1228;2022.6574699999999;Vietnam;The Bahamas
+1229;2022.66021;Vietnam;Taiwan
+1230;2022.73144;Vietnam;Norway
+1231;2022.63555;Vietnam;Estonia
+1232;2022.73693;Vietnam;Bulgaria
+1233;2022.71775;Vietnam;Hungary
+1234;2022.5561;Vietnam;Serbia
+1235;2022.72323;Vietnam;Australia
+1236;2022.4422299999999;Vietnam;Pakistan
+1237;2022.74515;Pakistan;Singapore
+1238;2022.69857;Pakistan;Bangladesh
+1239;2022.66022;Pakistan;Slovenia
+1240;2022.75336;Vietnam;Egypt
+1241;2022.6766499999999;Vietnam;Trinidad and Tobago
+1242;2022.64103;Vietnam;Singapore
+1243;2022.72048;Vietnam;Portugal
+1244;2022.4876;Vietnam;Albania
+1245;2022.38277;Vietnam;Mongolia
+1246;2022.73966;Mongolia;Laos
+1247;2022.74788;Mongolia;Seychelles
+1248;2022.49035;Mongolia;Russia
+1249;2022.57528;Mongolia;Singapore
+1250;2022.58076;Mongolia;Saudi Arabia
+1251;2022.76159;Mongolia;Japan
+1252;2022.58898;Mongolia;Russia
+1253;2022.58899;Mongolia;Syria
+1254;2022.6112799999999;Mongolia;Papua New Guinea
+1255;2022.58077;Mongolia;Jordan
+1256;2022.51063;Mongolia;Papua New Guinea
+1257;2022.69037;Papua New Guinea;Puerto Rico
+1258;2022.71228;Mongolia;Japan
+1259;2022.7205099999999;Mongolia;Estonia
+1260;2022.6300999999999;Mongolia;Nepal
+1261;2022.55065;Mongolia;Myanmar
+1262;2022.62188;Mongolia;Grenada
+1263;2022.62463;Mongolia;Bosnia and Herzegovina
+1264;2022.526;Mongolia;Libya
+1265;2022.5314799999999;Mongolia;Malawi
+1266;2022.41641;Mongolia;Senegal
+1267;2022.42189;Mongolia;Japan
+1268;2022.5451699999999;Mongolia;Kazakhstan
+1269;2022.54243;Mongolia;Algeria
+1270;2022.60946;Algeria;Palau
+1271;2022.56161;Mongolia;Kuwait
+1272;2022.55887;Mongolia;Liechtenstein
+1273;2022.55339;Mongolia;Hong Kong
+1274;2022.4410699999999;Mongolia;Chile
+1275;2022.74244;Mongolia;South Korea
+1276;2022.5698399999999;Mongolia;Denmark
+1277;2022.49651;Mongolia;Brunei
+1278;2022.66573;Brunei;Jamaica
+1279;2022.5808;Brunei;Crimea
+1280;2022.5835399999999;Brunei;Turkey
+1281;2022.74793;Brunei;Slovenia
+1282;2022.6794399999999;Brunei;Philippines
+1283;2022.68218;Brunei;Egypt
+1284;2022.6931399999999;Brunei;Hong Kong
+1285;2022.70411;Brunei;Iceland
+1286;2022.6345999999999;Brunei;Indonesia
+1287;2022.65021;Indonesia;Hungary
+1288;2022.66728;Hungary;Thailand
+1289;2022.68736;Thailand;Slovakia
+1290;2022.75616;Slovakia;Barbados
+1291;2022.45477;Mongolia;Iran
+1292;2022.47121;Mongolia;Kuwait
+1293;2022.4712;Mongolia;Hungary
+1294;2022.47668;Mongolia;Pakistan
+1295;2022.4931199999999;Mongolia;Brunei
+1296;2022.49586;Mongolia;Bosnia and Herzegovina
+1297;2022.6575;Mongolia;Thailand
+1298;2022.66845;Mongolia;India
+1299;2022.51777;Mongolia;Solomon Islands
+1300;2022.5259899999999;Mongolia;France
+1301;2022.5259899999999;Mongolia;Thailand
+1302;2022.53147;Mongolia;Bulgaria
+1303;2022.7123;Mongolia;Saudi Arabia
+1304;2022.55248;Mongolia;Kuwait
+1305;2022.73148;Kuwait;Malaysia
+1306;2022.71778;Kuwait;Thailand
+1307;2022.56983;Kuwait;Kazakhstan
+1308;2022.57605;Kuwait;USA
+1309;2022.58352;USA;Qatar
+1310;2022.61365;USA;Indonesia
+1311;2022.66844;Indonesia;Guinea
+1312;2022.6958399999999;Guinea;Pakistan

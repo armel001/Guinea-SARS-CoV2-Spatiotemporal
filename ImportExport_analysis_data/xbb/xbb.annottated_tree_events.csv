@@ -1,0 +1,1541 @@
+;EventTime;Origin;Destination
+0;2022.5472;UNKNOWN;India
+1;2022.83115;India;Guinea
+2;2023.29544;India;Luxembourg
+3;2023.2835;India;Guatemala
+4;2022.90849;India;Israel
+5;2023.42968;Israel;Albania
+6;2023.004;India;Sudan
+7;2023.27636;Sudan;Uganda
+8;2023.15572;India;Australia
+9;2022.88583;India;Lithuania
+10;2023.05281;Lithuania;Singapore
+11;2023.39407;Singapore;Brunei
+12;2023.39134;Lithuania;Portugal
+13;2022.90345;India;Austria
+14;2023.4516;Austria;Portugal
+15;2023.26413;Austria;Cabo Verde
+16;2023.12558;India;Pakistan
+17;2022.86828;India;Malaysia
+18;2023.34476;Malaysia;Hong Kong
+19;2022.98862;Malaysia;Taiwan
+20;2023.3475;Taiwan;Japan
+21;2023.079;India;Indonesia
+22;2022.88324;India;Thailand
+23;2023.4653;Thailand;Ukraine
+24;2023.43243;Thailand;Israel
+25;2023.06963;Thailand;Bahrain
+26;2023.15297;Thailand;Iceland
+27;2023.44886;Thailand;Israel
+28;2023.41873;Thailand;South Korea
+29;2023.22695;Thailand;Malaysia
+30;2023.42695;Thailand;Brunei
+31;2023.28174;Thailand;Kuwait
+32;2023.26804;India;Oman
+33;2022.97915;India;Serbia
+34;2022.92458;India;Guinea
+35;2023.3338;India;Italy
+36;2023.15571;India;Kenya
+37;2022.98358;India;Russia
+38;2023.42695;Russia;Albania
+39;2023.28722;Russia;Singapore
+40;2023.34476;Russia;South Korea
+41;2023.41599;Russia;Thailand
+42;2023.42421;Russia;Finland
+43;2022.86879;India;Indonesia
+44;2023.33655;India;Mauritius
+45;2023.31737;India;Thailand
+46;2023.28175;India;Kuwait
+47;2023.27767;India;Italy
+48;2023.42148;Italy;Spain
+49;2022.94287;India;Pakistan
+50;2023.45984;Pakistan;Austria
+51;2023.30641;Pakistan;Japan
+52;2023.17491;Pakistan;Japan
+53;2023.45984;Pakistan;Austria
+54;2023.17491;Pakistan;Greece
+55;2023.19957;Greece;United Kingdom
+56;2023.38587;Pakistan;Russia
+57;2023.32833;Pakistan;Singapore
+58;2023.0576;Pakistan;Australia
+59;2023.14751;Australia;Iran
+60;2023.11056;Australia;Canada
+61;2023.32559;Canada;Iceland
+62;2023.13977;Canada;Sweden
+63;2023.33929;Sweden;Chile
+64;2023.25162;Sweden;China
+65;2023.32832;India;Albania
+66;2023.1837;India;Switzerland
+67;2023.29271;Switzerland;South Korea
+68;2023.12558;India;Kenya
+69;2022.91666;India;Mauritius
+70;2023.38038;Mauritius;Russia
+71;2022.87711;India;Indonesia
+72;2023.06805;Indonesia;India
+73;2023.09545;Indonesia;Malaysia
+74;2023.19134;Indonesia;France
+75;2023.37764;Indonesia;Malaysia
+76;2023.21326;Indonesia;Oman
+77;2023.07627;Indonesia;Tunisia
+78;2023.25709;Indonesia;Vietnam
+79;2023.27879;Indonesia;Chile
+80;2023.37764;Chile;South Korea
+81;2023.23792;Indonesia;Vietnam
+82;2023.16333;Indonesia;India
+83;2023.47079;India;Taiwan
+84;2022.96312;Indonesia;Brunei
+85;2022.93574;Indonesia;Singapore
+86;2023.07803;Singapore;Brunei
+87;2023.2708;Singapore;Australia
+88;2023.07901;India;Portugal
+89;2023.13654;India;Guatemala
+90;2023.26804;India;Argentina
+91;2023.27079;India;New Zealand
+92;2023.0915;India;Ireland
+93;2023.43791;Ireland;Iceland
+94;2022.95859;India;Brazil
+95;2023.13138;Brazil;Guadeloupe
+96;2023.31189;Brazil;Paraguay
+97;2023.28998;Brazil;Venezuela
+98;2023.36942;Brazil;Spain
+99;2023.45983;Brazil;Paraguay
+100;2023.45709;Brazil;Switzerland
+101;2023.34202;Brazil;Spain
+102;2023.45983;Brazil;Ireland
+103;2023.3256;Brazil;Bolivia
+104;2023.41873;Brazil;China
+105;2023.35572;Brazil;Netherlands
+106;2023.47901;Brazil;Germany
+107;2023.39133;Brazil;Italy
+108;2023.41325;Brazil;Ireland
+109;2023.16688;Brazil;Bolivia
+110;2023.10915;India;Hong Kong
+111;2022.81342;India;Pakistan
+112;2023.32833;Pakistan;Egypt
+113;2022.89538;Pakistan;Uganda
+114;2023.17199;Uganda;Democratic Republic of the Congo
+115;2023.33107;Democratic Republic of the Congo;Netherlands
+116;2023.46258;Uganda;Botswana
+117;2022.89633;Pakistan;Egypt
+118;2023.12559;Egypt;Indonesia
+119;2022.97057;Egypt;Taiwan
+120;2023.36668;Taiwan;Sweden
+121;2023.2023;Egypt;Indonesia
+122;2023.06805;Egypt;Morocco
+123;2023.15572;Egypt;Malaysia
+124;2023.36942;Egypt;South Korea
+125;2023.40778;Egypt;Australia
+126;2023.1145;Egypt;Oman
+127;2023.27628;Oman;Norway
+128;2023.11737;Egypt;Luxembourg
+129;2023.18312;Egypt;Barbados
+130;2023.23792;Egypt;Morocco
+131;2023.03792;Pakistan;Greece
+132;2023.27079;Pakistan;Greece
+133;2023.32833;Pakistan;Malaysia
+134;2023.2454;Pakistan;Paraguay
+135;2023.45983;Paraguay;Belgium
+136;2023.29819;Pakistan;Myanmar
+137;2023.18312;Pakistan;Singapore
+138;2023.13928;Pakistan;Australia
+139;2023.27353;Pakistan;India
+140;2023.11234;Pakistan;Russia
+141;2023.35024;Russia;Algeria
+142;2023.36394;Pakistan;Taiwan
+143;2023.17764;Pakistan;Malaysia
+144;2023.15846;Pakistan;Netherlands
+145;2023.21439;Pakistan;Mexico
+146;2023.48176;Mexico;Ecuador
+147;2023.33929;Pakistan;Democratic Republic of the Congo
+148;2023.31463;Pakistan;Cabo Verde
+149;2023.39134;Pakistan;Kuwait
+150;2022.85314;Pakistan;Brunei
+151;2023.08724;Brunei;Indonesia
+152;2023.10367;Brunei;Morocco
+153;2023.03792;Brunei;Bahrain
+154;2023.39409;Brunei;Italy
+155;2022.98869;Brunei;Russia
+156;2023.2154;Brunei;Hong Kong
+157;2023.11737;Brunei;Malaysia
+158;2023.33381;Brunei;Russia
+159;2022.93127;Brunei;Russia
+160;2023.15299;Brunei;Singapore
+161;2023.12011;Brunei;Egypt
+162;2022.90404;Brunei;Kuwait
+163;2023.30368;Kuwait;Egypt
+164;2022.95598;Kuwait;Panama
+165;2023.25162;Kuwait;Bahrain
+166;2023.08756;Kuwait;Pakistan
+167;2023.37217;Pakistan;Israel
+168;2023.41052;Pakistan;Slovakia
+169;2023.13381;Brunei;Malaysia
+170;2023.19683;Brunei;Bulgaria
+171;2023.2982;Brunei;Malaysia
+172;2022.91806;Brunei;Bahrain
+173;2023.11737;Bahrain;Philippines
+174;2023.23215;Bahrain;Lithuania
+175;2023.23244;Brunei;Malaysia
+176;2023.10915;Brunei;Oman
+177;2023.04066;Brunei;Palestine
+178;2022.97634;Brunei;Pakistan
+179;2023.10916;Pakistan;South Korea
+180;2023.24341;Pakistan;Thailand
+181;2023.21053;Pakistan;Austria
+182;2023.30916;Pakistan;Guadeloupe
+183;2022.95965;Brunei;Algeria
+184;2023.24888;Algeria;France
+185;2022.95124;Brunei;Mauritius
+186;2023.24614;Mauritius;Bahrain
+187;2023.16942;Mauritius;Sweden
+188;2023.3201;Sweden;Malaysia
+189;2023.11189;Brunei;Crimea
+190;2023.13928;Brunei;Barbados
+191;2023.47079;Brunei;Greece
+192;2023.39134;Brunei;Kuwait
+193;2023.2295;Brunei;Greece
+194;2023.34202;Greece;Croatia
+195;2023.26805;Brunei;Thailand
+196;2023.36394;Brunei;Philippines
+197;2023.20852;Brunei;China
+198;2023.48449;China;Malaysia
+199;2023.45709;China;Bulgaria
+200;2023.38585;China;Singapore
+201;2023.27119;China;Indonesia
+202;2023.44339;Indonesia;Taiwan
+203;2022.90903;Brunei;Indonesia
+204;2023.29271;Indonesia;Russia
+205;2023.03064;Indonesia;Malaysia
+206;2023.15573;Malaysia;Thailand
+207;2023.10094;Indonesia;Oman
+208;2023.18039;Indonesia;Egypt
+209;2023.24888;Indonesia;Germany
+210;2022.97887;Indonesia;Russia
+211;2023.07628;Russia;Oman
+212;2023.15574;Russia;Oman
+213;2023.32287;Russia;Sweden
+214;2023.24341;Russia;Ireland
+215;2023.24889;Russia;Poland
+216;2023.17491;Russia;Brunei
+217;2023.32833;Russia;Indonesia
+218;2023.03792;Russia;Malaysia
+219;2023.0434;Russia;Singapore
+220;2023.19682;Russia;Kuwait
+221;2023.13442;Russia;Sweden
+222;2023.34476;Sweden;Malaysia
+223;2023.15572;Sweden;Poland
+224;2022.59928;India;Canada
+225;2023.11736;Canada;Peru
+226;2023.04612;Canada;Kosovo
+227;2023.2379;Canada;United Kingdom
+228;2023.07352;Canada;Denmark
+229;2023.07626;Canada;Iceland
+230;2023.15297;Canada;France
+231;2022.85711;Canada;Iceland
+232;2022.74403;Canada;United Kingdom
+233;2023.19955;United Kingdom;Nigeria
+234;2023.1338;United Kingdom;New Zealand
+235;2023.05982;United Kingdom;Romania
+236;2022.71581;Canada;Lithuania
+237;2023.10639;Lithuania;Sweden
+238;2023.12284;Lithuania;Brazil
+239;2022.77774;Canada;Kazakhstan
+240;2023.079;Kazakhstan;Australia
+241;2023.39681;Kazakhstan;Israel
+242;2023.04064;Kazakhstan;Israel
+243;2023.18311;Kazakhstan;Ghana
+244;2022.68126;Canada;Lithuania
+245;2023.27078;Lithuania;Trinidad and Tobago
+246;2023.12832;Lithuania;Sweden
+247;2023.18311;Lithuania;Kazakhstan
+248;2023.32831;Lithuania;India
+249;2023.22695;Lithuania;Sweden
+250;2023.00806;Lithuania;Israel
+251;2023.28723;Israel;Poland
+252;2023.3475;Lithuania;India
+253;2023.31462;Lithuania;Netherlands
+254;2023.25434;Lithuania;Austria
+255;2022.90551;Lithuania;Belgium
+256;2023.15572;Belgium;Kenya
+257;2023.43516;Belgium;Portugal
+258;2023.11736;Belgium;Curacao
+259;2023.17215;Belgium;Italy
+260;2022.97637;Belgium;Chile
+261;2023.11759;Chile;New Zealand
+262;2023.35023;New Zealand;Denmark
+263;2022.99066;Chile;Dominican Republic
+264;2023.05337;Dominican Republic;Chile
+265;2023.14705;Chile;Uruguay
+266;2023.19955;Dominican Republic;Russia
+267;2023.21276;Dominican Republic;Slovenia
+268;2023.42695;Slovenia;Croatia
+269;2023.19473;Dominican Republic;Bulgaria
+270;2023.41052;Bulgaria;Poland
+271;2023.30914;Dominican Republic;United Kingdom
+272;2023.07899;Canada;Japan
+273;2022.99637;Canada;Cambodia
+274;2023.04337;Cambodia;Finland
+275;2023.25433;Cambodia;Iran
+276;2023.08173;Cambodia;Belize
+277;2023.44063;Cambodia;Spain
+278;2023.31462;Canada;Ecuador
+279;2023.28174;Canada;Italy
+280;2023.06888;Canada;Germany
+281;2023.14475;Germany;Switzerland
+282;2023.29543;Switzerland;Hong Kong
+283;2023.2105;Canada;Sint Maarten
+284;2023.21325;Canada;Albania
+285;2023.15845;Canada;Portugal
+286;2022.89873;Canada;Austria
+287;2023.32285;Austria;Finland
+288;2023.37764;Austria;Iceland
+289;2023.08866;Austria;Norway
+290;2023.3064;Norway;Croatia
+291;2023.44065;Norway;Malaysia
+292;2023.13033;Canada;Brazil
+293;2023.45983;Brazil;Denmark
+294;2023.45709;Brazil;Switzerland
+295;2023.33807;Brazil;Iceland
+296;2023.47901;Iceland;Norway
+297;2023.13484;Canada;Panama
+298;2023.33653;Panama;Venezuela
+299;2023.44338;Panama;Guatemala
+300;2023.39681;Panama;Colombia
+301;2023.38859;Panama;Antigua and Barbuda
+302;2023.00413;Canada;United Kingdom
+303;2023.0891;United Kingdom;USA
+304;2023.4105;USA;South Korea
+305;2023.44064;USA;Ireland
+306;2023.44612;United Kingdom;Sweden
+307;2023.48447;United Kingdom;Australia
+308;2023.46255;United Kingdom;Hong Kong
+309;2023.46529;United Kingdom;Bulgaria
+310;2023.43243;Canada;Greece
+311;2023.41873;Canada;Sweden
+312;2023.38859;Canada;Ireland
+313;2023.0821;Canada;Guinea
+314;2023.22147;Guinea;Senegal
+315;2023.15005;Canada;Sint Maarten
+316;2023.20213;Sint Maarten;Curacao
+317;2023.15572;Canada;Bulgaria
+318;2023.44887;Canada;Malaysia
+319;2023.32832;Canada;Switzerland
+320;2023.03025;Canada;Ireland
+321;2023.43518;Ireland;Sweden
+322;2023.01635;Canada;Russia
+323;2023.18586;Russia;Iceland
+324;2023.15571;Canada;Slovenia
+325;2023.24064;Canada;Guadeloupe
+326;2022.99179;Canada;Peru
+327;2023.30093;Peru;Ireland
+328;2023.20053;Canada;Guadeloupe
+329;2023.479;Guadeloupe;Martinique
+330;2023.30366;Canada;Spain
+331;2023.46805;Canada;Australia
+332;2023.37763;Canada;Mexico
+333;2023.05315;Canada;United Kingdom
+334;2023.17763;United Kingdom;Israel
+335;2023.14765;Canada;Bulgaria
+336;2023.42147;Bulgaria;France
+337;2023.22969;Canada;Austria
+338;2022.97368;Canada;Brunei
+339;2023.27901;Brunei;Russia
+340;2023.37216;Brunei;Singapore
+341;2022.97567;Canada;USA
+342;2023.216;USA;Mexico
+343;2023.21052;USA;Italy
+344;2023.06257;USA;Chile
+345;2023.20504;USA;Hong Kong
+346;2023.25162;USA;Japan
+347;2023.04489;USA;Mexico
+348;2023.10367;Mexico;Germany
+349;2023.05436;Canada;Brunei
+350;2023.31188;Brunei;Kenya
+351;2023.06509;Canada;Iceland
+352;2023.13877;Iceland;Portugal
+353;2023.30367;Portugal;Paraguay
+354;2023.09819;Canada;Japan
+355;2022.96576;Canada;United Kingdom
+356;2023.06867;United Kingdom;Peru
+357;2023.22969;United Kingdom;Pakistan
+358;2023.22969;United Kingdom;Brazil
+359;2023.05983;Canada;Ukraine
+360;2022.95115;Canada;Italy
+361;2023.31737;Italy;Nigeria
+362;2022.98737;Canada;Hong Kong
+363;2023.38313;Hong Kong;Ukraine
+364;2023.07902;Hong Kong;Moldova
+365;2023.12011;Canada;Curacao
+366;2023.10463;Canada;France
+367;2023.34202;France;Belgium
+368;2023.25162;Canada;Georgia
+369;2023.24888;Canada;United Kingdom
+370;2023.4297;Canada;United Kingdom
+371;2022.99131;Canada;Pakistan
+372;2023.11189;Pakistan;Singapore
+373;2023.31737;Pakistan;Sint Maarten
+374;2023.12271;Pakistan;Austria
+375;2023.31463;Austria;Barbados
+376;2023.21466;Pakistan;Argentina
+377;2023.15582;Pakistan;Morocco
+378;2022.93477;Canada;Denmark
+379;2023.24613;Denmark;Hong Kong
+380;2023.14476;Denmark;Ireland
+381;2023.1508;Denmark;Slovakia
+382;2023.2516;Denmark;Australia
+383;2023.07454;Denmark;Ireland
+384;2023.1201;Ireland;Ecuador
+385;2023.44613;Ecuador;USA
+386;2023.12655;Canada;Panama
+387;2023.26805;Panama;Guatemala
+388;2022.98236;Canada;Croatia
+389;2023.29271;Croatia;Slovenia
+390;2023.13381;Croatia;Montenegro
+391;2023.02991;Croatia;Lithuania
+392;2023.35573;Lithuania;Sweden
+393;2023.24887;Lithuania;North Macedonia
+394;2022.88963;Canada;Portugal
+395;2023.0038;Portugal;Bosnia and Herzegovina
+396;2023.33107;Bosnia and Herzegovina;Italy
+397;2023.2297;Bosnia and Herzegovina;France
+398;2023.17277;Portugal;Georgia
+399;2023.13929;Portugal;Mexico
+400;2023.00845;Portugal;Ukraine
+401;2023.19134;Ukraine;Greece
+402;2023.1749;Ukraine;Peru
+403;2023.39134;Ukraine;Kuwait
+404;2023.2708;Portugal;Philippines
+405;2023.45984;Portugal;Curacao
+406;2023.18436;Portugal;Croatia
+407;2023.09545;Portugal;Norway
+408;2023.30915;Portugal;Curacao
+409;2023.25162;Portugal;Luxembourg
+410;2023.05793;Portugal;Colombia
+411;2023.42422;Colombia;Chile
+412;2023.07354;Portugal;New Zealand
+413;2022.93922;Portugal;Peru
+414;2023.43792;Peru;Costa Rica
+415;2023.0322;Peru;Honduras
+416;2023.14751;Peru;Vietnam
+417;2023.30114;Peru;Portugal
+418;2023.48724;Portugal;Singapore
+419;2023.42139;Portugal;Albania
+420;2023.10642;Peru;Ecuador
+421;2022.97669;Portugal;Poland
+422;2023.30641;Poland;Denmark
+423;2023.21327;Portugal;Sint Maarten
+424;2023.32833;Portugal;Bulgaria
+425;2023.21053;Portugal;Finland
+426;2023.28998;Portugal;Norway
+427;2023.32463;Portugal;Sweden
+428;2023.13381;Portugal;Jamaica
+429;2023.27627;Portugal;USA
+430;2023.13382;Portugal;Spain
+431;2023.10094;Portugal;North Macedonia
+432;2023.34478;North Macedonia;Thailand
+433;2023.41327;Portugal;Poland
+434;2023.11464;Portugal;Taiwan
+435;2023.08176;Portugal;France
+436;2022.99665;Portugal;Algeria
+437;2023.42697;Algeria;Croatia
+438;2023.42423;Algeria;Romania
+439;2023.22971;Algeria;Austria
+440;2023.36121;Portugal;China
+441;2023.30641;Portugal;Mexico
+442;2023.1639499999999;Portugal;Philippines
+443;2023.3475;Portugal;France
+444;2023.21874;Portugal;Ireland
+445;2023.09819;Portugal;Japan
+446;2023.10279;Portugal;Norway
+447;2023.10094;Portugal;Costa Rica
+448;2022.95506;Portugal;USA
+449;2023.24066;USA;Czech Republic
+450;2023.17826;USA;Lithuania
+451;2023.4434;Lithuania;Iceland
+452;2023.01914;USA;Albania
+453;2023.42423;Albania;Greece
+454;2023.03518;USA;Slovenia
+455;2023.16944;Slovenia;Hong Kong
+456;2023.32559;Hong Kong;Trinidad and Tobago
+457;2023.28652;Hong Kong;Trinidad and Tobago
+458;2023.17491;USA;Iran
+459;2023.17765;USA;Poland
+460;2023.17765;USA;Sweden
+461;2023.03793;USA;Indonesia
+462;2023.25162;USA;Sweden
+463;2023.3256;USA;United Kingdom
+464;2023.22971;USA;Canada
+465;2023.45162;USA;New Zealand
+466;2023.27627;USA;Iran
+467;2023.04887;USA;Russia
+468;2023.04887;USA;Mexico
+469;2023.22147;Mexico;Bulgaria
+470;2023.07202;USA;Trinidad and Tobago
+471;2023.2023;USA;Romania
+472;2023.20778;USA;United Kingdom
+473;2023.05709;USA;Iceland
+474;2023.07568;USA;Romania
+475;2023.16394;Romania;Thailand
+476;2023.21052;USA;Paraguay
+477;2023.13929;USA;Kuwait
+478;2023.14203;USA;Singapore
+479;2023.06532;USA;Norway
+480;2023.06806;USA;Peru
+481;2023.07354;USA;Italy
+482;2023.23792;Italy;Singapore
+483;2023.15026;USA;Canada
+484;2023.15574;USA;Argentina
+485;2023.23245;USA;Bolivia
+486;2023.23519;USA;New Zealand
+487;2023.32012;USA;Iceland
+488;2023.24067;USA;China
+489;2023.08999;USA;Japan
+490;2023.09547;USA;South Africa
+491;2023.27903;USA;Lebanon
+492;2023.09821;USA;Palestine
+493;2023.10095;USA;Australia
+494;2023.18863;USA;Taiwan
+495;2023.31192;USA;Czech Republic
+496;2023.15301;USA;Croatia
+497;2023.23246;USA;Japan
+498;2023.19685;USA;Colombia
+499;2023.20233;USA;Iran
+500;2023.29548;USA;Lebanon
+501;2023.20507;USA;Argentina
+502;2023.29549;USA;China
+503;2023.10733;USA;Cabo Verde
+504;2023.11741;USA;Philippines
+505;2023.4818;USA;Japan
+506;2023.30645;USA;Mexico
+507;2023.22975;USA;Saint Lucia
+508;2023.36399;USA;Austria
+509;2023.24893;USA;United Kingdom
+510;2023.10598;USA;Ecuador
+511;2023.37223;Ecuador;Canada
+512;2023.15853;Ecuador;Georgia
+513;2023.32291;USA;Iran
+514;2023.18045;USA;Iran
+515;2023.21881;USA;Greece
+516;2023.05991;USA;Chile
+517;2023.06812;USA;Portugal
+518;2023.0873;USA;Georgia
+519;2023.09553;USA;Hungary
+520;2023.09306;USA;Algeria
+521;2023.10088;Algeria;Norway
+522;2023.10922;Norway;Israel
+523;2023.12293;Israel;Ecuador
+524;2023.35307;Ecuador;Ukraine
+525;2023.18737;Ecuador;USA
+526;2023.20774;USA;Taiwan
+527;2023.23549;Taiwan;Austria
+528;2023.25453;Austria;Guadeloupe
+529;2023.29005;Guadeloupe;Belize
+530;2023.46265;Guadeloupe;Spain
+531;2023.17763;Canada;USA
+532;2023.27078;Canada;Hungary
+533;2022.81443;Canada;Lithuania
+534;2023.28174;Lithuania;India
+535;2022.76267;Canada;Netherlands
+536;2023.12284;Netherlands;Italy
+537;2023.00885;Netherlands;France
+538;2023.24887;France;Algeria
+539;2022.96166;Netherlands;Germany
+540;2023.36941;Netherlands;Japan
+541;2023.07626;Netherlands;Tunisia
+542;2023.1475;Netherlands;Switzerland
+543;2023.3338;Netherlands;Germany
+544;2022.93333;Netherlands;Poland
+545;2023.19133;Poland;Spain
+546;2023.17216;Poland;Norway
+547;2023.0563;Poland;Norway
+548;2023.2023;Norway;Finland
+549;2023.02198;Poland;Hungary
+550;2023.17215;Hungary;Japan
+551;2023.38311;Poland;Israel
+552;2023.31462;Poland;Lebanon
+553;2023.36394;Poland;Netherlands
+554;2023.28449;Poland;Czech Republic
+555;2023.22422;Poland;Slovenia
+556;2023.32559;Canada;Philippines
+557;2023.41326;Canada;Australia
+558;2023.36942;Canada;Poland
+559;2023.38038;Canada;USA
+560;2022.89573;Canada;Austria
+561;2023.42969;Austria;Georgia
+562;2023.10914;Canada;Cote d'
+563;2023.35024;Canada;New Zealand
+564;2023.09818;Canada;India
+565;2023.07627;Canada;Czech Republic
+566;2023.15572;Canada;Lithuania
+567;2023.43517;Canada;USA
+568;2022.94473;Canada;Ecuador
+569;2023.34476;Ecuador;Panama
+570;2023.11463;Canada;Sweden
+571;2022.87844;Canada;Kosovo
+572;2023.24065;Canada;South Korea
+573;2023.07354;Canada;New Zealand
+574;2023.21052;Canada;Israel
+575;2023.19956;Canada;Hungary
+576;2023.40231;Canada;Montenegro
+577;2023.19957;Canada;Trinidad and Tobago
+578;2023.2571;Canada;South Africa
+579;2023.21053;Canada;Australia
+580;2023.21053;Canada;Ukraine
+581;2022.89728;Canada;Brazil
+582;2023.31465;Brazil;Chile
+583;2023.20506;Brazil;Peru
+584;2023.34478;Canada;Ireland
+585;2023.10226;Canada;Thailand
+586;2023.14204;Canada;Oman
+587;2023.153;Canada;Belize
+588;2022.93364;Canada;China
+589;2023.24341;China;Switzerland
+590;2023.11464;Canada;Singapore
+591;2023.18314;Canada;Croatia
+592;2023.36944;Canada;Iceland
+593;2022.95727;Canada;Guatemala
+594;2023.24341;Canada;Netherlands
+595;2023.15849;Canada;Lithuania
+596;2023.30917;Canada;Australia
+597;2023.46259;Canada;Dominican Republic
+598;2023.03405;Canada;Ireland
+599;2023.17218;Canada;Denmark
+600;2023.00892;Canada;USA
+601;2023.34478;USA;Mexico
+602;2023.10561;Canada;Trinidad and Tobago
+603;2023.1804;Canada;Norway
+604;2023.25985;Canada;Iceland
+605;2023.36669;Canada;Poland
+606;2023.06532;Canada;Finland
+607;2023.44067;Canada;Iceland
+608;2023.05163;Canada;Guatemala
+609;2023.12834;Canada;United Kingdom
+610;2023.21053;Canada;Israel
+611;2022.88685;Canada;Romania
+612;2023.14204;Romania;Finland
+613;2023.34752;Romania;France
+614;2023.19684;Romania;Belgium
+615;2023.42971;Canada;Ecuador
+616;2023.06533;Canada;Guinea
+617;2023.24615;Guinea;South Africa
+618;2023.13382;Canada;Montenegro
+619;2022.84638;Canada;Brazil
+620;2023.29273;Brazil;South Korea
+621;2023.41054;Brazil;Reunion
+622;2023.14204;Canada;Micronesia
+623;2023.34369;Canada;Antigua and Barbuda
+624;2023.23246;Canada;Bangladesh
+625;2023.0626;Canada;Austria
+626;2023.12014;Canada;New Zealand
+627;2023.05986;Canada;Palestine
+628;2023.04616;Canada;USA
+629;2023.12014;Canada;Sint Maarten
+630;2023.06534;Canada;Romania
+631;2023.44068;Canada;France
+632;2023.00367;Canada;Dominican Republic
+633;2022.91965;Canada;France
+634;2023.35302;France;Hong Kong
+635;2023.12014;Canada;Curacao
+636;2023.04617;Canada;Israel
+637;2023.23584;Canada;Switzerland
+638;2023.21328;Canada;Nigeria
+639;2023.26808;Canada;Denmark
+640;2023.17031;Canada;Antigua and Barbuda
+641;2023.45164;Antigua and Barbuda;Barbados
+642;2023.44343;Canada;Guatemala
+643;2023.09;Canada;India
+644;2023.05713;Canada;Denmark
+645;2023.10309;Canada;Argentina
+646;2023.40233;Argentina;Peru
+647;2022.9171;Canada;Trinidad and Tobago
+648;2023.23794;Canada;Iceland
+649;2023.07904;Canada;Trinidad and Tobago
+650;2022.9635;Canada;New Zealand
+651;2023.12287;New Zealand;Curacao
+652;2023.35301;Canada;South Africa
+653;2022.96475;Canada;Hungary
+654;2022.83713;Canada;Trinidad and Tobago
+655;2023.04068;Canada;Luxembourg
+656;2023.0763;Canada;Ecuador
+657;2023.32836;Canada;Dominican Republic
+658;2023.08439;Canada;Curacao
+659;2023.19411;Curacao;Singapore
+660;2022.84228;Canada;Mexico
+661;2023.43247;Mexico;Norway
+662;2023.26534;Mexico;Spain
+663;2023.26808;Mexico;Taiwan
+664;2023.21603;Mexico;El Salvador
+665;2023.3311;Mexico;Paraguay
+666;2023.25986;Mexico;Chile
+667;2023.38589;Mexico;Cook Islands
+668;2023.48178;Mexico;Japan
+669;2023.13931;Canada;Jamaica
+670;2023.11465;Canada;Norway
+671;2023.04342;Canada;Japan
+672;2023.00954;Canada;Portugal
+673;2023.36671;Portugal;Czech Republic
+674;2023.06206;Canada;Bulgaria
+675;2023.31465;Bulgaria;Albania
+676;2023.38588;Bulgaria;Cook Islands
+677;2023.19137;Canada;New Zealand
+678;2023.0551;Canada;Philippines
+679;2023.44891;Philippines;Netherlands
+680;2023.44069;Philippines;Singapore
+681;2022.853;Canada;Germany
+682;2023.22698;Germany;Finland
+683;2022.95057;Germany;Hong Kong
+684;2023.45712;Hong Kong;United Kingdom
+685;2023.14753;Hong Kong;Brunei
+686;2023.13384;Germany;North Macedonia
+687;2023.29548;Germany;Slovakia
+688;2023.31466;Germany;Croatia
+689;2023.11623;Germany;Bosnia and Herzegovina
+690;2023.10208;Germany;Guadeloupe
+691;2023.44342;Guadeloupe;Ireland
+692;2023.38589;Guadeloupe;Switzerland
+693;2023.44068;Guadeloupe;Dominican Republic
+694;2023.13658;Germany;Bosnia and Herzegovina
+695;2023.28726;Germany;Denmark
+696;2023.13356;Germany;Hungary
+697;2023.23247;Hungary;Slovenia
+698;2023.2352;Germany;Switzerland
+699;2023.11465;Germany;Luxembourg
+700;2023.25712;Luxembourg;Czech Republic
+701;2023.03795;Canada;South Africa
+702;2023.24069;Canada;Philippines
+703;2023.16962;Canada;New Zealand
+704;2023.47905;New Zealand;Vietnam
+705;2023.15575;Canada;Trinidad and Tobago
+706;2023.2763;Canada;Ireland
+707;2023.42699;Canada;Netherlands
+708;2023.29275;Canada;Malaysia
+709;2023.07298;Canada;Denmark
+710;2023.1722;Denmark;Luxembourg
+711;2023.15028;Canada;Colombia
+712;2023.25165;Canada;Mexico
+713;2023.38041;Canada;United Kingdom
+714;2023.36124;Canada;Czech Republic
+715;2022.93673;Canada;Philippines
+716;2023.11466;Philippines;Chile
+717;2023.21329;Philippines;Ecuador
+718;2023.39586;Philippines;Panama
+719;2023.06279;Philippines;Taiwan
+720;2022.88338;Canada;USA
+721;2023.18863;USA;Colombia
+722;2023.2763;USA;Germany
+723;2023.45438;USA;Brunei
+724;2023.26808;USA;Japan
+725;2023.22425;USA;Curacao
+726;2023.02239;USA;Costa Rica
+727;2023.29;Costa Rica;Austria
+728;2023.35027;Costa Rica;Ukraine
+729;2023.14753;Costa Rica;Italy
+730;2022.83449;Canada;South Korea
+731;2023.16124;South Korea;Jamaica
+732;2023.09;South Korea;Jordan
+733;2023.09;South Korea;Palestine
+734;2023.1448;South Korea;India
+735;2023.41056;South Korea;Thailand
+736;2023.01683;South Korea;Micronesia
+737;2022.9862;South Korea;Aruba
+738;2023.07903;Aruba;Australia
+739;2023.27081;Australia;Sint Maarten
+740;2022.95022;South Korea;Saint Lucia
+741;2023.10918;Saint Lucia;Finland
+742;2023.27904;Canada;Sweden
+743;2023.0626;Canada;Belgium
+744;2023.17219;Canada;Finland
+745;2022.95511;Canada;Bahrain
+746;2023.28725;Bahrain;France
+747;2022.98177;Canada;South Africa
+748;2023.17766;Canada;Australia
+749;2022.84038;Canada;Costa Rica
+750;2022.97301;Costa Rica;Slovenia
+751;2023.28999;Slovenia;Montenegro
+752;2023.36396;Costa Rica;Austria
+753;2023.36944;Costa Rica;Germany
+754;2023.07903;Costa Rica;Spain
+755;2023.33109;Costa Rica;Honduras
+756;2023.08452;Costa Rica;Saint Lucia
+757;2023.29546;Costa Rica;Spain
+758;2023.25985;Costa Rica;Albania
+759;2023.37766;Costa Rica;Philippines
+760;2023.01175;Costa Rica;Mexico
+761;2023.3667;Mexico;Japan
+762;2023.45436;Costa Rica;Netherlands
+763;2023.27628;Costa Rica;Iceland
+764;2023.0836;Costa Rica;El Salvador
+765;2023.27628;El Salvador;Saint Lucia
+766;2023.4845;Costa Rica;Mexico
+767;2023.32833;Costa Rica;Austria
+768;2023.15299;Costa Rica;France
+769;2023.3886;Costa Rica;South Africa
+770;2023.18586;Costa Rica;China
+771;2023.22148;Costa Rica;Ireland
+772;2023.29819;Costa Rica;Colombia
+773;2023.13107;Costa Rica;Iran
+774;2023.38313;Costa Rica;Bulgaria
+775;2023.44888;Costa Rica;Israel
+776;2023.29874;Costa Rica;Sint Maarten
+777;2023.33108;Costa Rica;New Zealand
+778;2023.42423;Costa Rica;Norway
+779;2023.17784;Costa Rica;Germany
+780;2023.33108;Germany;Belgium
+781;2023.24067;Germany;Greece
+782;2023.44273;Germany;Finland
+783;2023.03511;Costa Rica;Switzerland
+784;2023.10369;Costa Rica;Israel
+785;2023.01074;Costa Rica;Lithuania
+786;2023.07904;Lithuania;Belgium
+787;2023.03794;Lithuania;Singapore
+788;2023.12287;Lithuania;Romania
+789;2023.30643;Lithuania;Thailand
+790;2023.06808;Lithuania;Montenegro
+791;2023.11668;Lithuania;Denmark
+792;2023.17767;Denmark;Qatar
+793;2023.2626;Lithuania;Sweden
+794;2023.09822;Lithuania;Guadeloupe
+795;2023.23246;Lithuania;Switzerland
+796;2023.18345;Lithuania;Slovakia
+797;2023.23794;Costa Rica;China
+798;2023.30917;Costa Rica;Malaysia
+799;2023.37492;Costa Rica;Croatia
+800;2023.25438;Costa Rica;Kuwait
+801;2022.95934;Costa Rica;Belgium
+802;2023.00997;Belgium;USA
+803;2023.17219;USA;Japan
+804;2023.22151;USA;Sweden
+805;2023.22973;USA;South Korea
+806;2023.29823;USA;Germany
+807;2023.35027;Belgium;Netherlands
+808;2023.34479;Belgium;Brunei
+809;2023.29822;Belgium;Ukraine
+810;2023.32836;Belgium;India
+811;2023.19137;Belgium;Philippines
+812;2023.42151;Philippines;Slovenia
+813;2023.30918;Philippines;Japan
+814;2023.12094;Belgium;Netherlands
+815;2023.37884;Belgium;New Zealand
+816;2023.07082;Belgium;Netherlands
+817;2023.49;Belgium;Bulgaria
+818;2023.27357;Belgium;Albania
+819;2023.38316;Belgium;Switzerland
+820;2023.25164;Belgium;Greece
+821;2023.44068;Belgium;Denmark
+822;2023.23246;Belgium;South Korea
+823;2023.48999;Belgium;Georgia
+824;2023.44068;Belgium;Denmark
+825;2023.28909;Belgium;Finland
+826;2023.47082;Finland;Lithuania
+827;2023.22342;Belgium;Italy
+828;2023.2498;Italy;Spain
+829;2023.10918;Belgium;Israel
+830;2023.27261;Belgium;Curacao
+831;2023.19829;Belgium;Netherlands
+832;2023.42151;Netherlands;Germany
+833;2023.12288;Belgium;Denmark
+834;2023.05712;Belgium;Indonesia
+835;2023.42698;Indonesia;Norway
+836;2023.33658;Belgium;Vietnam
+837;2023.44069;Belgium;Canada
+838;2023.33384;Belgium;Singapore
+839;2023.32288;Belgium;South Korea
+840;2023.32836;Belgium;France
+841;2023.07631;Belgium;Poland
+842;2023.38864;Belgium;Malaysia
+843;2023.32837;Belgium;France
+844;2023.1585;Belgium;Kuwait
+845;2022.99783;Belgium;Vietnam
+846;2023.15303;Vietnam;Japan
+847;2023.20759;Vietnam;Mongolia
+848;2023.34482;Vietnam;Guatemala
+849;2023.24071;Vietnam;Portugal
+850;2023.24893;Vietnam;Hungary
+851;2023.1777;Vietnam;Morocco
+852;2023.20006;Vietnam;Laos
+853;2023.19139;Vietnam;Ireland
+854;2023.0232;Vietnam;Czech Republic
+855;2023.39139;Czech Republic;Costa Rica
+856;2023.19413;Czech Republic;Switzerland
+857;2023.1259;Czech Republic;Canada
+858;2023.25441;Canada;Turkey
+859;2023.23523;Czech Republic;USA
+860;2023.14316;Czech Republic;Curacao
+861;2023.42154;Curacao;Barbados
+862;2023.03719;Czech Republic;New Zealand
+863;2023.10704;New Zealand;Finland
+864;2023.22154;Finland;South Africa
+865;2023.04346;New Zealand;Palestine
+866;2023.27086;Palestine;France
+867;2023.08088;Palestine;Slovenia
+868;2023.32565;Slovenia;USA
+869;2023.12017;Slovenia;Belgium
+870;2023.21332;Slovenia;Ireland
+871;2023.28181;Ireland;Portugal
+872;2022.85717;Canada;South Africa
+873;2023.36672;South Africa;Morocco
+874;2023.427;South Africa;Curacao
+875;2023.35302;South Africa;Botswana
+876;2023.2663;South Africa;Botswana
+877;2023.0105;Canada;Thailand
+878;2023.1585;Thailand;Jamaica
+879;2023.09548;Canada;Hungary
+880;2022.9829;Canada;Netherlands
+881;2023.33109;Netherlands;Norway
+882;2023.39411;Canada;Romania
+883;2023.43247;Canada;Sint Maarten
+884;2023.08177;Canada;Spain
+885;2022.89209;Canada;Slovakia
+886;2023.06534;Slovakia;India
+887;2023.14206;Slovakia;Kosovo
+888;2023.3174;Slovakia;Guatemala
+889;2023.18041;Slovakia;Croatia
+890;2023.4763;Canada;Mexico
+891;2023.20233;Canada;Bulgaria
+892;2023.40507;Canada;Bonaire
+893;2022.97684;Canada;Germany
+894;2023.1311;Germany;Italy
+895;2023.11466;Germany;Finland
+896;2023.17768;Germany;Croatia
+897;2023.41328;Canada;Vietnam
+898;2023.10533;Canada;Slovenia
+899;2023.04068;Canada;Georgia
+900;2022.96706;Canada;Australia
+901;2023.2489;Australia;Philippines
+902;2023.21055;Australia;Venezuela
+903;2023.04343;Canada;Cambodia
+904;2023.27631;Canada;Peru
+905;2022.96744;Canada;Costa Rica
+906;2022.91289;Canada;Croatia
+907;2022.82885;Canada;USA
+908;2022.87714;USA;Colombia
+909;2023.44068;Colombia;Austria
+910;2023.04616;Colombia;Panama
+911;2023.10644;Colombia;Costa Rica
+912;2023.079;Colombia;Venezuela
+913;2023.1448;Colombia;Iceland
+914;2023.35576;Colombia;Sint Maarten
+915;2023.47905;Colombia;Finland
+916;2023.40508;Colombia;USA
+917;2023.06906;Colombia;Guatemala
+918;2023.47356;Colombia;Honduras
+919;2023.3174;Colombia;Costa Rica
+920;2023.48178;Colombia;Costa Rica
+921;2023.08469;Colombia;Venezuela
+922;2023.40506;Venezuela;Paraguay
+923;2023.12287;Venezuela;Colombia
+924;2022.87309;USA;Panama
+925;2023.15575;Panama;Venezuela
+926;2023.14479;Panama;Tunisia
+927;2023.08452;Panama;Brazil
+928;2023.38863;Panama;Dominican Republic
+929;2023.07082;Panama;Taiwan
+930;2023.09274;Panama;Belgium
+931;2023.34753;Panama;Sweden
+932;2023.13657;Panama;Norway
+933;2022.94521;Panama;Mexico
+934;2023.21877;Mexico;Sweden
+935;2023.13473;Mexico;Guatemala
+936;2023.21328;Panama;Guatemala
+937;2022.91492;Panama;Chile
+938;2022.98389;Chile;Jamaica
+939;2023.06112;Chile;Dominican Republic
+940;2023.06259;Chile;Argentina
+941;2023.06794;Chile;North Macedonia
+942;2023.33383;Chile;Georgia
+943;2023.44342;Chile;Costa Rica
+944;2023.39135;Chile;Dominican Republic
+945;2023.31465;Chile;Taiwan
+946;2023.42423;Chile;South Africa
+947;2023.13618;Chile;Germany
+948;2023.42423;Germany;Thailand
+949;2023.26259;Germany;Mexico
+950;2023.29548;USA;Italy
+951;2023.11465;USA;Bulgaria
+952;2023.18314;USA;Malaysia
+953;2023.11472;USA;Trinidad and Tobago
+954;2023.05437;USA;Canada
+955;2023.12812;USA;Japan
+956;2023.20231;Japan;Singapore
+957;2022.93716;USA;Belgium
+958;2023.21327;Belgium;Denmark
+959;2023.02831;USA;Antigua and Barbuda
+960;2023.21875;Antigua and Barbuda;Dominican Republic
+961;2023.14204;USA;Australia
+962;2023.19957;Australia;New Zealand
+963;2022.90222;USA;Ecuador
+964;2022.99418;Ecuador;Barbados
+965;2023.38313;Ecuador;Greece
+966;2022.97841;Ecuador;Israel
+967;2023.07355;Israel;Ecuador
+968;2022.95739;Ecuador;Romania
+969;2023.21053;Romania;Brazil
+970;2023.08725;Romania;Barbados
+971;2023.07355;Romania;Bahrain
+972;2023.21055;Romania;Bermuda
+973;2023.24341;Romania;Israel
+974;2023.12834;Romania;South Korea
+975;2023.06259;Ecuador;Switzerland
+976;2022.96853;Ecuador;South Africa
+977;2023.25436;South Africa;Kuwait
+978;2023.38861;South Africa;Israel
+979;2023.30916;South Africa;Costa Rica
+980;2023.19683;South Africa;Saint Lucia
+981;2023.28998;South Africa;Uganda
+982;2023.25985;USA;New Zealand
+983;2023.05136;USA;Mongolia
+984;2023.28999;Mongolia;Brunei
+985;2023.24889;Mongolia;Russia
+986;2023.2078;USA;Costa Rica
+987;2023.08366;USA;Ireland
+988;2023.39684;Ireland;Vietnam
+989;2023.07355;USA;South Korea
+990;2023.13931;USA;Netherlands
+991;2023.07904;USA;Germany
+992;2023.01973;USA;Sweden
+993;2023.13657;Sweden;Switzerland
+994;2023.14753;USA;Chile
+995;2023.07903;USA;Italy
+996;2023.24341;USA;Saint Martin
+997;2023.17117;USA;Brazil
+998;2023.07903;USA;Switzerland
+999;2023.15848;USA;Kuwait
+1000;2022.99426;USA;Antigua and Barbuda
+1001;2023.09273;USA;Iran
+1002;2023.14478;USA;Italy
+1003;2023.04022;USA;Bulgaria
+1004;2023.44616;USA;India
+1005;2023.12287;USA;Morocco
+1006;2023.25164;USA;Brunei
+1007;2023.08178;USA;Iceland
+1008;2023.13383;USA;Belgium
+1009;2023.09548;USA;Bulgaria
+1010;2023.16123;USA;France
+1011;2023.08452;USA;Jamaica
+1012;2023.33931;USA;Ecuador
+1013;2023.34205;USA;Slovenia
+1014;2023.0489;USA;Curacao
+1015;2023.03767;USA;Jamaica
+1016;2023.13931;USA;United Kingdom
+1017;2023.10643;USA;Bahrain
+1018;2023.02249;USA;Ecuador
+1019;2023.1941;Ecuador;Lebanon
+1020;2023.41328;Ecuador;Dominican Republic
+1021;2023.11944;Ecuador;Bulgaria
+1022;2023.40233;Bulgaria;Spain
+1023;2023.27869;Bulgaria;Belize
+1024;2023.23246;USA;Croatia
+1025;2023.05985;USA;Montenegro
+1026;2023.11191;USA;Palestine
+1027;2022.9338;USA;Portugal
+1028;2023.04703;Portugal;Netherlands
+1029;2023.153;Netherlands;Austria
+1030;2023.24889;Netherlands;Hungary
+1031;2023.04616;Portugal;Dominican Republic
+1032;2023.08177;Portugal;Bangladesh
+1033;2023.05527;Portugal;Senegal
+1034;2023.17805;Senegal;Spain
+1035;2023.05712;Portugal;South Korea
+1036;2022.97436;Portugal;Chile
+1037;2023.17219;Chile;Brazil
+1038;2023.32014;Chile;Guatemala
+1039;2023.44068;Chile;France
+1040;2023.32013;Chile;Argentina
+1041;2023.35027;Chile;Argentina
+1042;2022.98373;Portugal;Greece
+1043;2023.0763;Greece;Spain
+1044;2023.04493;Greece;United Kingdom
+1045;2023.44617;Greece;USA
+1046;2023.41602;Greece;United Kingdom
+1047;2023.33109;Greece;Mexico
+1048;2023.01137;Portugal;Switzerland
+1049;2023.45163;Switzerland;South Korea
+1050;2023.3393;Switzerland;Belize
+1051;2023.42424;Switzerland;Poland
+1052;2022.97413;Portugal;Costa Rica
+1053;2023.35575;Costa Rica;Guatemala
+1054;2023.46807;Costa Rica;Vietnam
+1055;2023.06259;Costa Rica;United Kingdom
+1056;2023.32834;United Kingdom;Iran
+1057;2022.98563;Costa Rica;Canada
+1058;2023.05712;Canada;Iceland
+1059;2023.11465;Canada;Costa Rica
+1060;2023.14479;Canada;France
+1061;2023.01973;Canada;South Africa
+1062;2023.13931;South Africa;Canada
+1063;2023.30096;South Africa;United Kingdom
+1064;2023.15058;South Africa;Denmark
+1065;2023.39411;Canada;Curacao
+1066;2022.95426;Canada;Greece
+1067;2023.0763;Greece;United Kingdom
+1068;2023.14205;Greece;Slovakia
+1069;2023.38041;Greece;Iceland
+1070;2023.12288;Greece;Tunisia
+1071;2023.36397;Greece;Taiwan
+1072;2023.04616;Canada;Brazil
+1073;2023.40506;Canada;New Zealand
+1074;2023.19397;Canada;Brunei
+1075;2023.01555;Canada;Bulgaria
+1076;2023.30644;Bulgaria;Belgium
+1077;2023.18863;Bulgaria;Germany
+1078;2023.32562;Bulgaria;Denmark
+1079;2023.25955;Bulgaria;Australia
+1080;2023.41055;Australia;New Zealand
+1081;2023.20507;Bulgaria;South Korea
+1082;2023.25164;Bulgaria;Slovenia
+1083;2023.36397;Bulgaria;North Macedonia
+1084;2023.35575;Bulgaria;Albania
+1085;2023.27356;Bulgaria;Switzerland
+1086;2023.42425;Bulgaria;Poland
+1087;2023.27082;Bulgaria;Austria
+1088;2023.41055;Bulgaria;Croatia
+1089;2023.37493;Bulgaria;Spain
+1090;2023.22866;Bulgaria;Slovenia
+1091;2023.39384;Slovenia;Taiwan
+1092;2023.40232;Bulgaria;Sweden
+1093;2023.21391;Bulgaria;Japan
+1094;2023.25422;Japan;Croatia
+1095;2023.45438;Croatia;Iceland
+1096;2023.44069;Croatia;Romania
+1097;2023.21055;Canada;Austria
+1098;2023.12014;Canada;Poland
+1099;2023.14205;Canada;Poland
+1100;2023.05987;Canada;Taiwan
+1101;2023.36397;Taiwan;Lithuania
+1102;2023.45986;Lithuania;Denmark
+1103;2023.14205;Canada;Barbados
+1104;2022.89891;Canada;Slovenia
+1105;2023.31464;Slovenia;Barbados
+1106;2022.88656;Canada;Czech Republic
+1107;2023.13383;Czech Republic;France
+1108;2023.27356;Czech Republic;Ukraine
+1109;2023.08452;Czech Republic;Moldova
+1110;2023.06534;Czech Republic;Netherlands
+1111;2023.25712;Czech Republic;Poland
+1112;2023.27082;Czech Republic;Slovakia
+1113;2023.34479;Czech Republic;Finland
+1114;2023.15301;Czech Republic;Slovakia
+1115;2023.12561;Czech Republic;Switzerland
+1116;2023.13931;Czech Republic;Thailand
+1117;2023.44889;Czech Republic;Romania
+1118;2023.34204;Czech Republic;Egypt
+1119;2022.99417;Czech Republic;Ukraine
+1120;2023.30917;Czech Republic;Slovakia
+1121;2023.2489;Czech Republic;France
+1122;2023.14479;Czech Republic;Finland
+1123;2023.34479;Czech Republic;Germany
+1124;2023.27082;Czech Republic;Finland
+1125;2023.26807;Czech Republic;Israel
+1126;2023.15301;Czech Republic;Austria
+1127;2023.15301;Czech Republic;Ukraine
+1128;2023.35575;Czech Republic;Austria
+1129;2023.3448;Czech Republic;Poland
+1130;2023.09822;Czech Republic;Ukraine
+1131;2023.25986;Ukraine;Greece
+1132;2023.07903;Canada;Iceland
+1133;2023.23245;Canada;Guadeloupe
+1134;2023.06637;Canada;Argentina
+1135;2023.40231;Argentina;Bermuda
+1136;2023.42423;Argentina;Italy
+1137;2023.24616;Canada;Greece
+1138;2023.06589;Canada;South Africa
+1139;2023.23246;South Africa;Norway
+1140;2023.09273;Canada;China
+1141;2023.10095;Canada;Algeria
+1142;2023.12835;Canada;India
+1143;2022.9614;Canada;Ukraine
+1144;2023.01715;Canada;Venezuela
+1145;2023.17766;Canada;Indonesia
+1146;2023.44067;Canada;Germany
+1147;2023.44615;Canada;New Zealand
+1148;2023.11234;Canada;Paraguay
+1149;2022.83719;Canada;Romania
+1150;2023.05165;Romania;USA
+1151;2023.08452;Romania;Brazil
+1152;2023.11466;Romania;Italy
+1153;2023.45987;Romania;Chile
+1154;2022.89918;Romania;Barbados
+1155;2023.19411;Romania;Sweden
+1156;2023.01945;Romania;Ecuador
+1157;2023.25438;Romania;Chile
+1158;2023.35027;Romania;Saint Lucia
+1159;2023.27631;Romania;Israel
+1160;2023.29549;Romania;Sweden
+1161;2023.15157;Romania;United Kingdom
+1162;2023.34206;United Kingdom;Egypt
+1163;2023.33932;United Kingdom;Peru
+1164;2023.427;United Kingdom;Switzerland
+1165;2023.04068;Canada;Finland
+1166;2023.04342;Canada;Jamaica
+1167;2023.38315;Canada;Guatemala
+1168;2023.15575;Canada;Thailand
+1169;2023.17767;Canada;Belgium
+1170;2023.11161;Canada;Austria
+1171;2023.33109;Austria;Norway
+1172;2023.48999;Canada;Netherlands
+1173;2023.36397;Canada;United Kingdom
+1174;2023.20506;Canada;India
+1175;2023.05712;Canada;Norway
+1176;2023.35575;Canada;United Kingdom
+1177;2023.10173;Canada;Poland
+1178;2023.34478;Poland;Germany
+1179;2022.87736;Canada;Indonesia
+1180;2023.16421;Indonesia;Egypt
+1181;2023.42149;Egypt;USA
+1182;2023.18314;Indonesia;Tunisia
+1183;2023.17766;Indonesia;Iran
+1184;2023.24067;Indonesia;Oman
+1185;2023.24615;Indonesia;Pakistan
+1186;2023.44067;Indonesia;Malaysia
+1187;2023.39135;Indonesia;Kuwait
+1188;2023.25028;Indonesia;France
+1189;2023.27903;France;Iceland
+1190;2023.15369;Indonesia;Philippines
+1191;2023.05353;Indonesia;Australia
+1192;2023.48177;Australia;Greece
+1193;2023.4215;Australia;Philippines
+1194;2023.34205;Australia;Jamaica
+1195;2023.39136;Australia;Philippines
+1196;2023.41876;Australia;Italy
+1197;2023.0026;Indonesia;Kenya
+1198;2023.45984;Kenya;Uganda
+1199;2023.32833;Indonesia;Malaysia
+1200;2023.3896;Indonesia;Brunei
+1201;2023.06532;Indonesia;Kuwait
+1202;2023.40779;Indonesia;Israel
+1203;2023.47628;Indonesia;Bulgaria
+1204;2023.21174;Indonesia;Bahrain
+1205;2023.03986;Indonesia;Singapore
+1206;2023.27079;Singapore;Oman
+1207;2023.46531;Singapore;South Korea
+1208;2023.42745;Singapore;El Salvador
+1209;2023.2238;Singapore;Slovenia
+1210;2023.38586;Slovenia;Georgia
+1211;2023.32833;Singapore;Iran
+1212;2023.44889;Indonesia;Australia
+1213;2023.33382;Indonesia;Russia
+1214;2023.15712;Indonesia;Kuwait
+1215;2023.19356;Kuwait;Pakistan
+1216;2023.27355;Pakistan;Austria
+1217;2023.47902;Pakistan;Laos
+1218;2023.08916;Indonesia;China
+1219;2023.44341;China;Japan
+1220;2023.4708;China;Austria
+1221;2023.34921;China;Laos
+1222;2023.41874;Laos;Hong Kong
+1223;2023.46258;China;Malaysia
+1224;2023.25054;China;Laos
+1225;2023.35349;Laos;Singapore
+1226;2023.41327;Singapore;Japan
+1227;2023.48177;China;Israel
+1228;2023.44341;China;Mauritius
+1229;2023.1256;Canada;Hong Kong
+1230;2022.79863;Canada;Spain
+1231;2022.93419;Spain;Morocco
+1232;2023.12561;Morocco;United Kingdom
+1233;2023.04068;Spain;Georgia
+1234;2023.25986;Spain;Italy
+1235;2023.00443;Spain;Japan
+1236;2023.2489;Japan;Morocco
+1237;2023.03794;Spain;Mexico
+1238;2022.91391;Spain;Italy
+1239;2022.97823;Italy;Hungary
+1240;2023.14205;Hungary;Ghana
+1241;2023.30917;Spain;Oman
+1242;2023.31465;Spain;Costa Rica
+1243;2023.36397;Spain;Croatia
+1244;2023.06807;Spain;Ukraine
+1245;2023.05712;Spain;Denmark
+1246;2023.14251;Spain;Greece
+1247;2023.43794;Spain;Switzerland
+1248;2023.48725;Spain;Czech Republic
+1249;2023.15848;Spain;Netherlands
+1250;2023.29273;Spain;Sint Maarten
+1251;2023.13109;Spain;Egypt
+1252;2023.05986;Spain;Lithuania
+1253;2023.33658;Spain;Haiti
+1254;2022.89095;Spain;Cabo Verde
+1255;2023.12562;Cabo Verde;Cote d'
+1256;2022.8501;Spain;Slovakia
+1257;2023.08726;Slovakia;Kosovo
+1258;2023.27083;Slovakia;Spain
+1259;2023.27083;Slovakia;Panama
+1260;2023.09548;Slovakia;United Kingdom
+1261;2023.17493;Slovakia;India
+1262;2023.0763;Slovakia;Austria
+1263;2023.13658;Slovakia;Chile
+1264;2022.96833;Slovakia;Philippines
+1265;2023.13384;Philippines;Chile
+1266;2023.02485;Philippines;Lithuania
+1267;2022.88595;Slovakia;Jamaica
+1268;2023.04782;Jamaica;Guatemala
+1269;2023.26809;Jamaica;Chile
+1270;2023.05987;Jamaica;Philippines
+1271;2022.99979;Jamaica;Spain
+1272;2023.09307;Spain;Chile
+1273;2023.45165;Chile;Dominican Republic
+1274;2023.16946;Jamaica;Chile
+1275;2023.20782;Jamaica;Argentina
+1276;2023.25713;Jamaica;Venezuela
+1277;2023.41362;Jamaica;Dominican Republic
+1278;2023.29274;Jamaica;Chile
+1279;2023.05165;Spain;Montenegro
+1280;2023.28179;Montenegro;Albania
+1281;2023.04039;Spain;Argentina
+1282;2023.05712;Spain;Japan
+1283;2023.05986;Spain;Ireland
+1284;2022.82845;Spain;France
+1285;2023.2352;France;Bulgaria
+1286;2023.33635;France;Guadeloupe
+1287;2023.42972;France;Guatemala
+1288;2023.44616;France;Brazil
+1289;2022.9891;France;Ireland
+1290;2023.38588;Ireland;El Salvador
+1291;2022.97859;France;Barbados
+1292;2023.48177;Barbados;Luxembourg
+1293;2023.05163;France;Croatia
+1294;2022.92508;France;South Korea
+1295;2023.07355;South Korea;Netherlands
+1296;2023.33108;South Korea;Australia
+1297;2023.47903;France;Guadeloupe
+1298;2022.86222;France;Mauritius
+1299;2023.07356;Mauritius;New Zealand
+1300;2022.99308;Mauritius;India
+1301;2023.10096;India;Ireland
+1302;2023.05816;Mauritius;Lebanon
+1303;2023.28999;Mauritius;Vietnam
+1304;2022.99488;France;Austria
+1305;2023.37218;Austria;Italy
+1306;2023.09547;France;Sint Maarten
+1307;2023.33109;France;Switzerland
+1308;2022.90175;France;Greece
+1309;2023.48177;Greece;Chile
+1310;2023.32835;Greece;Albania
+1311;2023.06807;Greece;Switzerland
+1312;2023.13931;Greece;Slovakia
+1313;2023.40232;Greece;Albania
+1314;2023.15575;Greece;Netherlands
+1315;2023.05874;Greece;Japan
+1316;2023.19684;Japan;Canada
+1317;2023.32835;Greece;France
+1318;2023.45438;Greece;Mexico
+1319;2023.22971;Greece;Switzerland
+1320;2023.06367;Greece;Croatia
+1321;2023.2352;Croatia;Germany
+1322;2023.22424;France;Peru
+1323;2023.36122;France;New Zealand
+1324;2022.84839;France;Portugal
+1325;2023.08451;Portugal;Serbia
+1326;2023.08725;Portugal;Finland
+1327;2023.43246;Finland;Ukraine
+1328;2023.13383;Portugal;Oman
+1329;2023.21329;Portugal;Italy
+1330;2023.30369;Portugal;South Korea
+1331;2023.11465;Portugal;USA
+1332;2023.33109;Portugal;Luxembourg
+1333;2023.12013;Portugal;Kosovo
+1334;2023.12561;Portugal;Bulgaria
+1335;2023.35026;Portugal;Dominican Republic
+1336;2023.21328;Portugal;Mexico
+1337;2023.49;Portugal;India
+1338;2022.94083;Portugal;North Macedonia
+1339;2023.04616;North Macedonia;Thailand
+1340;2023.28725;North Macedonia;Belgium
+1341;2023.29273;North Macedonia;Lithuania
+1342;2023.44067;Portugal;South Korea
+1343;2023.35027;Portugal;Guinea
+1344;2023.04068;Portugal;Netherlands
+1345;2023.37492;Portugal;Canada
+1346;2023.30095;Portugal;Peru
+1347;2023.18316;Portugal;Poland
+1348;2023.4352;Poland;Italy
+1349;2023.21602;Portugal;Germany
+1350;2023.12286;Portugal;Guatemala
+1351;2023.45985;Portugal;Mexico
+1352;2023.43246;Portugal;Ukraine
+1353;2023.23519;Portugal;Taiwan
+1354;2023.35026;Portugal;Costa Rica
+1355;2023.29821;Portugal;Brunei
+1356;2023.13656;Portugal;Romania
+1357;2023.38314;Romania;Norway
+1358;2022.94583;Portugal;Guatemala
+1359;2023.353;Guatemala;Lebanon
+1360;2022.88986;Portugal;Luxembourg
+1361;2023.06808;Luxembourg;Germany
+1362;2022.93912;Luxembourg;Belgium
+1363;2023.2352;Belgium;Germany
+1364;2023.1043;Belgium;Portugal
+1365;2023.40506;Portugal;Greece
+1366;2023.23245;Portugal;Oman
+1367;2023.28725;Luxembourg;Brazil
+1368;2023.33657;Luxembourg;Denmark
+1369;2023.32561;Luxembourg;Slovenia
+1370;2023.49;Luxembourg;Sweden
+1371;2023.18163;Luxembourg;Denmark
+1372;2023.2489;Denmark;Finland
+1373;2022.93463;Luxembourg;Chile
+1374;2022.94259;Luxembourg;Barbados
+1375;2023.2489;Barbados;Israel
+1376;2023.06534;Barbados;Sweden
+1377;2023.38315;Barbados;Norway
+1378;2023.10369;Barbados;Spain
+1379;2023.2352;Barbados;Thailand
+1380;2023.04068;Barbados;Luxembourg
+1381;2023.25438;Luxembourg;Switzerland
+1382;2023.21876;Luxembourg;Curacao
+1383;2023.12287;Luxembourg;Germany
+1384;2023.26534;Luxembourg;Denmark
+1385;2023.30603;Luxembourg;Hong Kong
+1386;2023.14205;Portugal;India
+1387;2023.07903;Portugal;Philippines
+1388;2022.96597;Portugal;Panama
+1389;2023.3174;Panama;Taiwan
+1390;2023.22973;Panama;Costa Rica
+1391;2022.8645;Portugal;Paraguay
+1392;2023.07904;Paraguay;Costa Rica
+1393;2023.15849;Paraguay;Australia
+1394;2022.9602;Paraguay;Italy
+1395;2023.03562;Italy;Guinea
+1396;2023.37767;Guinea;Iceland
+1397;2023.36265;Italy;Chile
+1398;2023.05711;Paraguay;Ireland
+1399;2023.37766;Paraguay;Belgium
+1400;2023.1941;Paraguay;Finland
+1401;2023.17218;Paraguay;Venezuela
+1402;2023.16396;Paraguay;Romania
+1403;2023.24341;Paraguay;Jamaica
+1404;2023.07629;Paraguay;Mexico
+1405;2023.15574;Paraguay;Honduras
+1406;2023.04889;Paraguay;Georgia
+1407;2023.16122;Paraguay;Poland
+1408;2023.3941;Paraguay;Dominican Republic
+1409;2023.38588;Paraguay;Guatemala
+1410;2023.22698;Paraguay;Taiwan
+1411;2023.22972;Paraguay;Venezuela
+1412;2023.0352;Paraguay;Georgia
+1413;2023.1507;Paraguay;Ghana
+1414;2023.15849;Paraguay;Jamaica
+1415;2023.33657;Paraguay;Thailand
+1416;2023.35576;Paraguay;Poland
+1417;2023.13513;Paraguay;El Salvador
+1418;2023.3585;El Salvador;Taiwan
+1419;2023.29822;El Salvador;Dominican Republic
+1420;2022.95812;Paraguay;Greece
+1421;2023.38588;Greece;Slovenia
+1422;2023.3941;Paraguay;Romania
+1423;2023.11647;Paraguay;Poland
+1424;2023.38862;Poland;Greece
+1425;2023.21054;Paraguay;Austria
+1426;2023.00145;Paraguay;Luxembourg
+1427;2023.07355;Luxembourg;Ecuador
+1428;2023.36122;Luxembourg;Argentina
+1429;2023.16671;Paraguay;Hungary
+1430;2023.29;Paraguay;Brazil
+1431;2023.27356;Paraguay;USA
+1432;2023.07904;Paraguay;United Kingdom
+1433;2023.4763;United Kingdom;Australia
+1434;2022.93019;Paraguay;Peru
+1435;2023.33108;Peru;Argentina
+1436;2023.15299;Peru;Ecuador
+1437;2023.0506;Peru;Ecuador
+1438;2023.35026;Peru;Ecuador
+1439;2023.02167;Paraguay;India
+1440;2023.19135;India;Guatemala
+1441;2023.13158;India;Oman
+1442;2023.31191;Oman;Ukraine
+1443;2022.88656;Paraguay;Czech Republic
+1444;2023.15026;Czech Republic;Austria
+1445;2023.19958;Austria;Ukraine
+1446;2022.94246;Czech Republic;Costa Rica
+1447;2023.22696;Costa Rica;Panama
+1448;2023.00511;Costa Rica;South Africa
+1449;2023.25984;South Africa;Ukraine
+1450;2023.27353;South Africa;Australia
+1451;2022.93373;Czech Republic;Spain
+1452;2023.06532;Spain;Aruba
+1453;2023.01685;Spain;China
+1454;2023.16973;China;USA
+1455;2023.48723;USA;Honduras
+1456;2023.25984;Spain;Belgium
+1457;2023.28998;Spain;El Salvador
+1458;2023.25162;Spain;Cabo Verde
+1459;2023.0708;Czech Republic;Sweden
+1460;2022.97534;Czech Republic;Albania
+1461;2023.23793;Albania;New Zealand
+1462;2023.36121;Czech Republic;Hong Kong
+1463;2023.11464;Czech Republic;Belgium
+1464;2022.89907;Czech Republic;Romania
+1465;2023.14203;Romania;Mexico
+1466;2023.02733;Romania;Iran
+1467;2023.31464;Iran;Croatia
+1468;2022.90248;Romania;South Korea
+1469;2022.93609;South Korea;Moldova
+1470;2023.24067;South Korea;New Zealand
+1471;2022.9137;South Korea;Romania
+1472;2022.94333;Romania;Argentina
+1473;2023.16122;Argentina;Philippines
+1474;2023.43793;Argentina;Paraguay
+1475;2023.42149;Argentina;Israel
+1476;2022.98088;Argentina;Bolivia
+1477;2023.27355;Argentina;Uruguay
+1478;2023.04755;Argentina;Uruguay
+1479;2023.3062;Uruguay;Argentina
+1480;2023.26807;Uruguay;China
+1481;2023.44067;China;Spain
+1482;2023.42697;Uruguay;Argentina
+1483;2023.41601;Uruguay;Norway
+1484;2023.18587;Romania;Netherlands
+1485;2023.47354;Romania;Philippines
+1486;2023.3119;Romania;China
+1487;2023.01228;Romania;Spain
+1488;2023.35847;Spain;Costa Rica
+1489;2023.35573;Spain;Antigua and Barbuda
+1490;2022.95924;Romania;Denmark
+1491;2023.37492;Denmark;Lithuania
+1492;2023.27081;Denmark;Ukraine
+1493;2023.23793;Denmark;Poland
+1494;2023.2982;Denmark;Russia
+1495;2023.22971;Denmark;Slovenia
+1496;2023.23245;Romania;Nigeria
+1497;2023.32834;Romania;Guadeloupe
+1498;2023.3393;Romania;Japan
+1499;2023.05176;Romania;Iran
+1500;2023.36396;Romania;Japan
+1501;2023.34478;Romania;Curacao
+1502;2023.38314;Romania;Finland
+1503;2023.21662;Romania;Denmark
+1504;2022.9739;Romania;Norway
+1505;2023.03794;Norway;Russia
+1506;2023.42698;Norway;Portugal
+1507;2023.33109;Norway;Ireland
+1508;2023.08725;Norway;Georgia
+1509;2023.17492;Norway;Albania
+1510;2023.24341;Romania;Colombia
+1511;2023.07902;Romania;Belgium
+1512;2023.02313;Romania;Canada
+1513;2023.35573;Canada;Cambodia
+1514;2023.10163;Canada;Vietnam
+1515;2023.23519;Vietnam;South Korea
+1516;2023.353;Vietnam;Thailand
+1517;2023.46533;Vietnam;Taiwan
+1518;2023.41327;Vietnam;Laos
+1519;2023.36944;Vietnam;Australia
+1520;2022.9847;Romania;Moldova
+1521;2023.3256;Moldova;Belize
+1522;2023.25437;Moldova;Bahrain
+1523;2023.13383;Romania;Austria
+1524;2023.07629;Romania;Sweden
+1525;2023.06753;Romania;Portugal
+1526;2023.21054;Portugal;Greece
+1527;2023.26807;Portugal;Cabo Verde
+1528;2022.98849;Romania;Ukraine
+1529;2022.98891;Romania;Montenegro
+1530;2023.15849;Montenegro;France
+1531;2023.18862;Montenegro;Switzerland
+1532;2023.30917;Montenegro;Croatia
+1533;2023.05712;Montenegro;Bulgaria
+1534;2023.12561;Montenegro;Bosnia and Herzegovina
+1535;2023.28725;Montenegro;Germany
+1536;2023.05536;Montenegro;Bosnia and Herzegovina
+1537;2023.08327;Montenegro;North Macedonia
+1538;2023.41602;Montenegro;Croatia
+1539;2023.31191;Montenegro;Albania
