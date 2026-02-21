@@ -61,7 +61,13 @@ ph11 <- ph1 %<+% phylo_meta_df1 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right")  +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "Alpha")
 
 ph11
@@ -86,7 +92,9 @@ phylo_meta_df2$date <- as.Date(cut(phylo_meta_df2$date, breaks = "1 month", form
 phylo_meta_df2 <- phylo_meta_df2 %>%
   mutate(country = if_else(country == "Guinea", "Guinea", "Others"))
 
+
 options(ignore.negative.edge=TRUE)
+
 
 ph2 <-ggtree(tree2,  mrsd = "2021-07-07",
             color='grey44',size=0.5) + theme_tree2() 
@@ -100,7 +108,13 @@ ph22 <- ph2 %<+% phylo_meta_df2 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right")  +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "Eta")
 
 ph22
@@ -141,7 +155,13 @@ ph33 <- ph3 %<+% phylo_meta_df3 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right") +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "Delta and Sublineages")
 
 ph33
@@ -167,6 +187,16 @@ phylo_meta_df4$date <- as.Date(phylo_meta_df4$date, format = "%Y-%m-%d")
 phylo_meta_df4$date <- as.Date(cut(phylo_meta_df4$date, breaks = "1 month", format = "%Y-%m-%d", start.on.monday = FALSE))
 phylo_meta_df4$date <- format(as.Date(phylo_meta_df4$date), format = "%b, %Y")
 
+missing_in_metadata <- setdiff(tree4$tip.label, phylo_meta4$strain)
+missing_in_tree <- setdiff(phylo_meta4$strain, tree4$tip.label)
+
+if (length(missing_in_metadata) > 0) {
+  cat("Missing in metadata:", missing_in_metadata, "\n")
+}
+if (length(missing_in_tree) > 0) {
+  cat("Missing in tree:", missing_in_tree, "\n")
+}
+
 options(ignore.negative.edge=TRUE)
 ph4 <-ggtree(tree4,  mrsd = "2022-05-10",
             color='grey44',size=0.5) + theme_tree2() 
@@ -180,7 +210,13 @@ ph44 <- ph4 %<+% phylo_meta_df4 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right")  +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "BA.1 and Sublineages")
 
 ph44
@@ -218,7 +254,13 @@ ph55 <- ph5 %<+% phylo_meta_df5 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right")  +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  )  +
   labs(title = "BA.2 and Sublineages")
 
 ph55
@@ -256,7 +298,13 @@ ph66 <- ph6 %<+% phylo_meta_df6 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right")  +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  )  +
   labs(title = "BA.5 and Sublineages")
 
 ph66
@@ -294,7 +342,13 @@ ph77 <- ph7 %<+% phylo_meta_df7 +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right") +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "BQ.1 and Sublineages")
 
 ph77
@@ -326,13 +380,20 @@ ph8 <-ggtree(tree8,  mrsd = "2023-12-12",
 ph88 <- ph8 %<+% phylo_meta_df8 + 
   geom_tippoint(aes(color = region, 
                     shape = ifelse(country == "Guinea", "Guinea", "Others"),
-                    size = ifelse(country == "Guinea", 3, 2),    # Larger size for Guinea
-                    stroke = ifelse(country == "Guinea", 0.2, 0.5)), # Thicker stroke for Guinea
+                    size = ifelse(country == "Guinea", 3, 2),  
+                    stroke = ifelse(country == "Guinea", 0.2, 0.5)), 
                 alpha = 1) +
+  #scale_y_continuous(limits=c(0,600)) +
   scale_colour_manual(name = 'Regions', values = my_color) +
   scale_shape_manual(name = "Country", values = c("Guinea" = 17, "Others" = 16)) +  # Custom shapes
   scale_size_identity() +   # Ensure the size mapping is taken from aes()
-  theme(legend.position = "right") +
+  theme(legend.position = "right",
+        legend.text = element_text(size = 14),  # Reduce legend text size
+        legend.title = element_text(size = 14, face = "bold"),
+        legend.key.size = unit(0.5, "cm"), 
+        plot.title = element_text(hjust = 0.5, size = 14, face = "bold"),
+        text = element_text(size = 14),
+  ) +
   labs(title = "XBB.1 and sublineages")
 
 ph88
@@ -344,7 +405,7 @@ grid_plot_tree_2 <- plot_grid(ph55, ph66, ph77, ph88, ncol = 2)
 
 merge_plot <- plot_grid(grid_plot_tree_1, grid_plot_tree_2, ncol = 2)
 
-  ggsave("/Users/armel001/Documents/04_Manuscrits/SARS-CoV-2-Phylodynamie-Guinea/Phylogenetic-analysis/figures/SubPhyloTree.png", 
+  ggsave("/Users/armel001/Documents/04_Manuscrits/SARS-CoV-2-Phylodynamie-Guinea/Phylogenetic-analysis/figures/SubPhyloTree.jpg", 
          merge_plot, width = 21, height = 15, dpi = 600)
 
 
